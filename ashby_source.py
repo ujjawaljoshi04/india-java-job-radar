@@ -78,6 +78,26 @@ ASHBY_BOARDS = [
     {
         "company": "Menlo Security",
         "board": "menlosecurity"
+    },
+
+        {
+        "company": "Skylo",
+        "board": "skylo"
+    },
+
+    {
+        "company": "Articul8",
+        "board": "articul8"
+    },
+
+    {
+        "company": "Altimate AI",
+        "board": "altimate"
+    },
+
+    {
+        "company": "Cyberhaven",
+        "board": "cyberhaven"
     }
 
 ]

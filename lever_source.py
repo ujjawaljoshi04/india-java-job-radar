@@ -76,6 +76,31 @@ LEVER_SITES = [
     {
         "company": "ValGenesis",
         "site": "valgenesis"
+    },
+
+        {
+        "company": "Acceldata",
+        "site": "acceldata"
+    },
+
+    {
+        "company": "Safe Security",
+        "site": "safe"
+    },
+
+    {
+        "company": "Everbridge",
+        "site": "everbridge"
+    },
+
+    {
+        "company": "Bazaarvoice",
+        "site": "bazaarvoice"
+    },
+
+    {
+        "company": "Weekday",
+        "site": "weekdayworks"
     }
 
 ]
@@ -145,6 +170,151 @@ def extract_experience(text):
         or ""
     ).lower()
 
+    # Normalize typographic dashes.
+    text = (
+        text
+        .replace("\u2013", "-")
+        .replace("\u2014", "-")
+    )
+
+    candidates = []
+
+
+    def collect(pattern, converter):
+
+        for match in re.finditer(
+            pattern,
+            text
+        ):
+
+            minimum, maximum = converter(
+                match
+            )
+
+            candidates.append(
+                (
+                    match.start(),
+                    minimum,
+                    maximum
+                )
+            )
+
+
+    # between 2 and 4 years
+
+    collect(
+        r"\bbetween\s+(\d+)\s+and\s+(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(2))
+        )
+    )
+
+
+    # 2-4 years / 2 to 4 years
+
+    collect(
+        r"\b(\d+)\s*(?:-|to)\s*(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(2))
+        )
+    )
+
+
+    # 4+ years
+
+    collect(
+        r"\b(\d+)\s*\+\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            99
+        )
+    )
+
+
+    # minimum / at least / more than / over N years
+
+    collect(
+        r"\b(?:minimum|min\.?|at\s+least|more\s+than|over)"
+        r"\s*(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            99
+        )
+    )
+
+
+    # up to / maximum N years
+
+    collect(
+        r"\b(?:up\s+to|maximum|max\.?)"
+        r"\s*(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            0,
+            int(m.group(1))
+        )
+    )
+
+
+    # N years experience / N years of experience
+
+    collect(
+        r"\b(\d+)\s*(?:years?|yrs?)"
+        r"\s*(?:of\s*)?"
+        r"(?:relevant\s+|professional\s+|work\s+)?"
+        r"(?:experience|exp)\b",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(1))
+        )
+    )
+
+
+    # Experience: N years
+
+    collect(
+        r"\b(?:experience|exp)"
+        r"\s*[:\-]?\s*(\d+)"
+        r"\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(1))
+        )
+    )
+
+
+    # N YOE
+
+    collect(
+        r"\b(\d+)\s*(?:yoe|y\.o\.e\.?)\b",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(1))
+        )
+    )
+
+
+    # Use the first explicit experience requirement
+    # appearing in the JD.
+    #
+    # Example:
+    # "4+ years of experience, with 2-3 years in open source"
+    # becomes 4+ years.
+
+    if candidates:
+
+        candidates.sort(
+            key=lambda item: item[0]
+        )
+
+        _, minimum, maximum = candidates[0]
+
+        return minimum, maximum
+
+
+    # Fresher terms are used only if no numeric
+    # experience requirement exists.
 
     fresher_terms = [
         "fresher",
@@ -156,73 +326,12 @@ def extract_experience(text):
     ]
 
 
-    for term in fresher_terms:
+    if any(
+        term in text
+        for term in fresher_terms
+    ):
 
-        if term in text:
-            return 0, 0
-
-
-    # 1-3 years
-    match = re.search(
-        r"(\d+)\s*(?:-|–|to)\s*(\d+)"
-        r"\s*(?:years?|yrs?)",
-        text
-    )
-
-    if match:
-
-        return (
-            int(match.group(1)),
-            int(match.group(2))
-        )
-
-
-    # 3+ years
-    match = re.search(
-        r"(\d+)\s*\+\s*(?:years?|yrs?)",
-        text
-    )
-
-    if match:
-
-        return (
-            int(match.group(1)),
-            99
-        )
-
-
-    # minimum 3 years
-    match = re.search(
-        r"(?:minimum|min\.?|at least)"
-        r"\s*(\d+)\s*(?:years?|yrs?)",
-        text
-    )
-
-    if match:
-
-        return (
-            int(match.group(1)),
-            99
-        )
-
-
-    # 2 years experience
-    match = re.search(
-        r"(\d+)\s*(?:years?|yrs?)"
-        r"\s*(?:of\s*)?(?:experience|exp)",
-        text
-    )
-
-    if match:
-
-        years = int(
-            match.group(1)
-        )
-
-        return (
-            years,
-            years
-        )
+        return 0, 0
 
 
     return None, None

@@ -264,389 +264,172 @@ def extract_experience(text):
         or ""
     ).lower()
 
-
-    # Normalize dash characters
+    # Normalize typographic dashes.
     text = (
         text
-        .replace("–", "-")
-        .replace("—", "-")
+        .replace("\u2013", "-")
+        .replace("\u2014", "-")
     )
 
-
-    # -----------------------------------------------------
-    # HELPER
-    # -----------------------------------------------------
-
-    def parse_number(value):
-
-        number = float(
-            value
-        )
+    candidates = []
 
 
-        if number.is_integer():
+    def collect(pattern, converter):
 
-            return int(
-                number
+        for match in re.finditer(
+            pattern,
+            text
+        ):
+
+            minimum, maximum = converter(
+                match
+            )
+
+            candidates.append(
+                (
+                    match.start(),
+                    minimum,
+                    maximum
+                )
             )
 
 
-        return number
+    # between 2 and 4 years
+
+    collect(
+        r"\bbetween\s+(\d+)\s+and\s+(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(2))
+        )
+    )
 
 
-    # -----------------------------------------------------
-    # FRESHER
-    # -----------------------------------------------------
+    # 2-4 years / 2 to 4 years
+
+    collect(
+        r"\b(\d+)\s*(?:-|to)\s*(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(2))
+        )
+    )
+
+
+    # 4+ years
+
+    collect(
+        r"\b(\d+)\s*\+\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            99
+        )
+    )
+
+
+    # minimum / at least / more than / over N years
+
+    collect(
+        r"\b(?:minimum|min\.?|at\s+least|more\s+than|over)"
+        r"\s*(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            99
+        )
+    )
+
+
+    # up to / maximum N years
+
+    collect(
+        r"\b(?:up\s+to|maximum|max\.?)"
+        r"\s*(\d+)\s*(?:years?|yrs?)",
+        lambda m: (
+            0,
+            int(m.group(1))
+        )
+    )
+
+
+    # N years experience / N years of experience
+
+    collect(
+        r"\b(\d+)\s*(?:years?|yrs?)"
+        r"\s*(?:of\s*)?"
+        r"(?:relevant\s+|professional\s+|work\s+)?"
+        r"(?:experience|exp)\b",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(1))
+        )
+    )
+
+
+    # Experience: N years
+
+    collect(
+        r"\b(?:experience|exp)"
+        r"\s*[:\-]?\s*(\d+)"
+        r"\s*(?:years?|yrs?)",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(1))
+        )
+    )
+
+
+    # N YOE
+
+    collect(
+        r"\b(\d+)\s*(?:yoe|y\.o\.e\.?)\b",
+        lambda m: (
+            int(m.group(1)),
+            int(m.group(1))
+        )
+    )
+
+
+    # Use the first explicit experience requirement
+    # appearing in the JD.
+    #
+    # Example:
+    # "4+ years of experience, with 2-3 years in open source"
+    # becomes 4+ years.
+
+    if candidates:
+
+        candidates.sort(
+            key=lambda item: item[0]
+        )
+
+        _, minimum, maximum = candidates[0]
+
+        return minimum, maximum
+
+
+    # Fresher terms are used only if no numeric
+    # experience requirement exists.
 
     fresher_terms = [
-
         "fresher",
         "freshers",
         "entry level",
         "entry-level",
         "new grad",
-        "new graduate",
-        "graduate trainee",
-        "graduate engineer trainee",
-        "0 years experience",
-        "0 year experience"
-
+        "graduate trainee"
     ]
 
 
-    for term in fresher_terms:
+    if any(
+        term in text
+        for term in fresher_terms
+    ):
 
-        if term in text:
+        return 0, 0
 
-            return (
-                0,
-                0
-            )
 
+    return None, None
 
-    # -----------------------------------------------------
-    # 0-2 YEARS
-    # 1-3 YEARS
-    # 1.5-3 YEARS
-    # 2 TO 4 YEARS
-    # 2-4 YOE
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*(?:-|to)\s*"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?|yoe)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        minimum = parse_number(
-            match.group(1)
-        )
-
-
-        maximum = parse_number(
-            match.group(2)
-        )
-
-
-        return (
-            minimum,
-            maximum
-        )
-
-
-    # -----------------------------------------------------
-    # BETWEEN 1 AND 3 YEARS
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\bbetween\s+"
-        r"(\d+(?:\.\d+)?)"
-        r"\s+and\s+"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?|yoe)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        minimum = parse_number(
-            match.group(1)
-        )
-
-
-        maximum = parse_number(
-            match.group(2)
-        )
-
-
-        return (
-            minimum,
-            maximum
-        )
-
-
-    # -----------------------------------------------------
-    # 2+ YEARS
-    # 2.5+ YEARS
-    # 3+ YOE
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*\+\s*"
-        r"(?:years?|yrs?|yoe)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        minimum = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            minimum,
-            99
-        )
-
-
-    # -----------------------------------------------------
-    # MINIMUM 2 YEARS
-    # MIN 2 YEARS
-    # AT LEAST 2 YEARS
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(?:minimum|min\.?|at least)"
-        r"\s*"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?|yoe)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        minimum = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            minimum,
-            99
-        )
-
-
-    # -----------------------------------------------------
-    # MORE THAN 2 YEARS
-    # OVER 2 YEARS
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(?:more than|over)"
-        r"\s*"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?|yoe)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        minimum = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            minimum,
-            99
-        )
-
-
-    # -----------------------------------------------------
-    # UP TO 2 YEARS
-    # MAXIMUM 2 YEARS
-    # MAX 2 YEARS
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(?:up to|maximum|max\.?)"
-        r"\s*"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?|yoe)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        maximum = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            0,
-            maximum
-        )
-
-
-    # -----------------------------------------------------
-    # 2 YEARS EXPERIENCE
-    # 2 YEARS OF EXPERIENCE
-    # 1.5 YRS EXPERIENCE
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?)"
-        r"\s*(?:of\s*)?"
-        r"(?:relevant\s*)?"
-        r"(?:professional\s*)?"
-        r"(?:work\s*)?"
-        r"(?:experience|exp)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        years = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            years,
-            years
-        )
-
-
-    # -----------------------------------------------------
-    # EXPERIENCE: 2 YEARS
-    # EXPERIENCE OF 2 YEARS
-    # EXP - 2 YEARS
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(?:experience|exp)"
-        r"\s*(?:of|:|-)?\s*"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*"
-        r"(?:years?|yrs?)"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        years = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            years,
-            years
-        )
-
-
-    # -----------------------------------------------------
-    # 2 YOE
-    # 1.5 YOE
-    # -----------------------------------------------------
-
-    match = re.search(
-
-        r"\b"
-        r"(\d+(?:\.\d+)?)"
-        r"\s*yoe"
-        r"\b",
-
-        text
-
-    )
-
-
-    if match:
-
-        years = parse_number(
-            match.group(1)
-        )
-
-
-        return (
-            years,
-            years
-        )
-
-
-    # No reliable experience found
-
-    return (
-        None,
-        None
-    )
-
-
-# =========================================================
-# EXPERIENCE MATCH
-# =========================================================
 
 def experience_matches(
     title,
