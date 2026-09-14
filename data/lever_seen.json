@@ -7946,5 +7946,479 @@
     "company": "Brillio",
     "title": "Workday Prism Specialist - R01570423",
     "baseline": false
+  },
+  "sonatype:099a2300-3d4d-4dab-9f5c-eaba27c64be5": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Account Executive, Federal",
+    "baseline": false
+  },
+  "sonatype:8ec00ed5-c14a-47c9-bef9-14ea96934abd": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Account Executive, Velocity, DACH",
+    "baseline": false
+  },
+  "sonatype:6532c533-c1ac-4261-b6bb-61571f1ba6ec": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Associate Customer Success Manager",
+    "baseline": false
+  },
+  "sonatype:5e0f2e0c-d9f3-43e1-9bb4-0890ccc664a2": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Channel Sales Manager, West Coast",
+    "baseline": false
+  },
+  "sonatype:7ec5eac6-2adb-4554-8634-5dbb21034e1b": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Data Engineer",
+    "baseline": false
+  },
+  "sonatype:691f251d-b81e-4756-b562-dde596249e42": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Data Scientist",
+    "baseline": false
+  },
+  "sonatype:ad4f5f7f-4b24-42d7-a267-de8bade438ee": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Federal Customer Success Manager - DevOps",
+    "baseline": false
+  },
+  "sonatype:8a1d474b-634b-4916-acb4-242707c7ebb7": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Java Product Support Engineer",
+    "baseline": false
+  },
+  "sonatype:ea132f46-5bc0-4904-8f3c-5781b5a1e384": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Manager, Product Support Engineering",
+    "baseline": false
+  },
+  "sonatype:dd736788-9c3d-4177-bc7a-d49cfe56269e": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Product Manager",
+    "baseline": false
+  },
+  "sonatype:8385954e-c3c6-44da-ab5a-89ed7393a267": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Product Manager - SBOM",
+    "baseline": false
+  },
+  "sonatype:52338def-a57f-4426-810b-b575461164c1": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Project Manager",
+    "baseline": false
+  },
+  "sonatype:137f2ade-c7e8-4866-a22e-53e95a8b2801": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Renewal Specialist - SaaS Contracts",
+    "baseline": false
+  },
+  "sonatype:964cf718-7656-4d43-87aa-ff007a9f6511": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Renewal Specialist - SaaS Contracts",
+    "baseline": false
+  },
+  "sonatype:3918d48c-7245-44a1-a80e-ebc0f1616610": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Sales Engineer, EMEA",
+    "baseline": false
+  },
+  "sonatype:ceb60a36-aab6-4e6e-818a-9a02b73892bd": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Account Executive, Nordics & Baltics",
+    "baseline": false
+  },
+  "sonatype:e5b3fab3-b74c-4cb1-8358-7fe7bc9f389a": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Azure DevOps Engineer",
+    "baseline": false
+  },
+  "sonatype:77f8575b-e598-4ee5-a066-93597d42f21a": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Data Analyst",
+    "baseline": false
+  },
+  "sonatype:e7059360-2031-4af1-9a77-92afaeb5e5be": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Data Scientist",
+    "baseline": false
+  },
+  "sonatype:94e3b036-6898-4512-81be-78088e7059ad": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Full Stack Software Engineer",
+    "baseline": false
+  },
+  "sonatype:dd79f392-5735-4690-96b6-e27ac1946dfd": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Full Stack Software Engineer",
+    "baseline": false
+  },
+  "sonatype:88dce200-e0c5-404b-a33b-20efbe82fba1": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior GCP DevOps Engineer",
+    "baseline": false
+  },
+  "sonatype:83cc47d4-e93e-4ce3-b440-185839cddaa1": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Senior Solutions Delivery Engineer- DevOps",
+    "baseline": false
+  },
+  "sonatype:3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Data Engineer",
+    "baseline": false
+  },
+  "sonatype:d2418cb7-01cb-4133-8e93-c4243d122bf1": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Full Stack Software Engineer",
+    "baseline": false
+  },
+  "sonatype:27fcf0cf-cd7f-4b04-953b-0d35426bd8bc": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Info Sec AI Researcher",
+    "baseline": false
+  },
+  "sonatype:7593fb98-a343-44b2-ab16-548ccc054917": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "sonatype:8cf4355d-6dff-4e3b-bdc8-6eae924622d6": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "sonatype:dc2c0041-d681-4b0b-b113-b99984af95f4": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "sonatype:b9009220-6a19-4f78-bf75-e0b81497bcb7": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Software Engineer - Agentic First",
+    "baseline": false
+  },
+  "sonatype:ffebffdc-776a-4c8f-8106-7a8e8331c02d": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff Software Engineer - Agentic First",
+    "baseline": false
+  },
+  "sonatype:f92432da-99f1-45f6-a20b-e89b5d72749b": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff UX Engineer",
+    "baseline": false
+  },
+  "sonatype:a93e6b3c-6373-4fc5-8bb4-553282dfcd68": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Sonatype",
+    "title": "Staff UX Software Engineer",
+    "baseline": false
+  },
+  "rapidai:be70fad8-dedd-4691-a45f-ab6cf2d0b57a": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Account Executive- Texas",
+    "baseline": false
+  },
+  "rapidai:bc4b0d4d-dabe-4a6f-91bd-7e47f1d8fad1": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Clinical Data Analsyt",
+    "baseline": false
+  },
+  "rapidai:56aa5cf9-9c4d-4341-9698-85e19d99cf95": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Clinical Success Consultant",
+    "baseline": false
+  },
+  "rapidai:408becda-5697-4f65-a5dd-1ef158263b41": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Lead Software Engineer",
+    "baseline": false
+  },
+  "rapidai:57bda4e9-5312-4ac8-8db3-72e2c4e3ede7": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Lead Technical Support Engineer, DICOM",
+    "baseline": false
+  },
+  "rapidai:fc8b0826-0f28-4520-a982-04046dab5b64": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Market Value and Health Outcomes Director",
+    "baseline": false
+  },
+  "rapidai:db51fecc-588d-48fa-b2ef-534fc7ef324b": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Principal Software Engineer",
+    "baseline": false
+  },
+  "rapidai:8b4a2847-be6e-4ce8-b1c2-97749e799cde": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Senior Data Engineer",
+    "baseline": false
+  },
+  "rapidai:a664b5b2-b315-4c7a-bf6d-e0cf66f01f3e": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Senior Site Reliability Engineer",
+    "baseline": false
+  },
+  "rapidai:469cd281-07bd-4b85-a773-a773adc1f83a": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Senior Software Engineer",
+    "baseline": false
+  },
+  "rapidai:79fd591e-ecb0-4377-b4b1-5046a93b9bb2": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "rapidai:ef89f5dc-dc59-406d-9446-c69a73927897": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Staff Software Engineer Golang",
+    "baseline": false
+  },
+  "rapidai:305f03a0-3393-4437-9171-5283172494ed": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Staff Software Engineer, Golang",
+    "baseline": false
+  },
+  "rapidai:6179c7a7-e861-47c5-a2b4-dec0dccc8fd3": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Staff Software Engineer, Tools & Infrastructure",
+    "baseline": false
+  },
+  "rapidai:d29a822e-5d95-4f60-82b2-1fdfb7a1136b": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "RapidAI",
+    "title": "Strategic Accounts Regional Vice President",
+    "baseline": false
+  },
+  "turvo:fd8f6db4-ba54-4cba-bd6b-b3389a30a2b8": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "Turvo",
+    "title": "Senior Software Engineer",
+    "baseline": false
+  },
+  "valgenesis:f2d220b5-abc4-4dc7-b00c-c6b657768739": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Calling all Software Engineers!",
+    "baseline": false
+  },
+  "valgenesis:b289cb1e-126c-4db5-8209-ec9645c6d788": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Director / Senior Manager, Test Engineering",
+    "baseline": false
+  },
+  "valgenesis:393d181e-890a-479b-a0b0-26fd7356f247": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Director, Engineering",
+    "baseline": false
+  },
+  "valgenesis:c85c3abd-7191-4c1a-b448-960a2015b0bc": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Junior Test Engineer, Functional",
+    "baseline": false
+  },
+  "valgenesis:0bcc8d08-0776-4f3a-bcd8-216be8b1b52d": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Lead Engineer - DevOps",
+    "baseline": false
+  },
+  "valgenesis:26e9af52-cdfc-4735-86e3-98a7bd5fb651": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Lead Software Engineer - Full Stack",
+    "baseline": false
+  },
+  "valgenesis:a9cfca24-ffb3-4287-9ae8-eecd34220d29": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Lead Software Engineer, Data Engineering",
+    "baseline": false
+  },
+  "valgenesis:5c14f479-c556-4c23-a039-acf4c6ccbb34": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Lead Test Engineer",
+    "baseline": false
+  },
+  "valgenesis:5f75ccd3-5bbd-434d-a82d-c80376c08d94": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Lead Test Engineer, Functional",
+    "baseline": false
+  },
+  "valgenesis:acbc0284-0bb8-42e4-9fd1-fa3583cb458f": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Platform Product Manager, AI/ML",
+    "baseline": false
+  },
+  "valgenesis:8a5cd147-b61a-4a2b-83c6-69ccbda7fb4e": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Product Manager, Manufacturing Execution & Batch Lifecycle",
+    "baseline": false
+  },
+  "valgenesis:d7be282d-10b9-4d2e-866a-6a14cc1c51f9": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Application Engineer - Installation - Level-2",
+    "baseline": false
+  },
+  "valgenesis:b288a4a2-4df0-462d-bc82-b20ed3e551c7": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Manager, Engineering",
+    "baseline": false
+  },
+  "valgenesis:3bab8728-3f05-4db5-8b51-4a3d77187313": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineer, Data Engineering",
+    "baseline": false
+  },
+  "valgenesis:9799a961-0bec-4569-aee5-8850e5a85acf": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineer, Data Engineering",
+    "baseline": false
+  },
+  "valgenesis:012e91fb-b6b1-4de1-825e-4e227a425f54": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineer, Database",
+    "baseline": false
+  },
+  "valgenesis:1138f762-4ed6-41dc-90de-09d9c70b87dc": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineer, Full-stack",
+    "baseline": false
+  },
+  "valgenesis:3e77f0ea-72c1-47ab-83e3-153a90c8d982": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineer, Fullstack",
+    "baseline": false
+  },
+  "valgenesis:68fc1513-2b4e-4a03-8f34-0952558a8c5f": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineer, R&D",
+    "baseline": false
+  },
+  "valgenesis:06de9b0f-6e37-4b3e-9abb-4b329700613a": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Software Engineering Manager, Fullstack",
+    "baseline": false
+  },
+  "valgenesis:ea34b924-27b9-48c4-a1d3-c9f86e899634": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Test Engineer",
+    "baseline": false
+  },
+  "valgenesis:4c34afd2-0317-43c6-810f-ce1d88f8ff60": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Test Engineer, Functional",
+    "baseline": false
+  },
+  "valgenesis:0d963f7b-96cb-40c0-8ed6-3f7a950110d9": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Site Reliability Engineer - SaaSOps",
+    "baseline": false
+  },
+  "valgenesis:6954cdd2-75ff-4255-9c58-3c7a0520e086": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Software Architect, Enterprise Mobile Applications",
+    "baseline": false
+  },
+  "valgenesis:43018031-a1f2-4c60-9742-d49d83591759": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Software Engineer - Database",
+    "baseline": false
+  },
+  "valgenesis:e557a66b-69d2-437b-9cf1-80a37977f187": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Software Engineer, AI/ML",
+    "baseline": false
+  },
+  "valgenesis:3dc26da9-0b8e-4cf6-81be-77fca46c6aca": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Software Engineer, Fullstack",
+    "baseline": false
+  },
+  "valgenesis:2b4d5a9f-90b3-4fa2-9da4-3c4ab93662cd": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Test Engineer, Automation",
+    "baseline": false
+  },
+  "valgenesis:1326f2e3-05b4-4b65-93d3-16d12994accb": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Test Engineer, Functional",
+    "baseline": false
+  },
+  "valgenesis:2cef8aff-6e7b-4551-b98a-5a3ebd2ba0cd": {
+    "first_seen": "2026-09-14T16:08:07.727560+00:00",
+    "company": "ValGenesis",
+    "title": "Test Engineer, Functional",
+    "baseline": false
   }
 }
