@@ -26,6 +26,11 @@ GREENHOUSE_BOARDS = [
     {
         "company": "AQR India",
         "board": "india"
+    },
+
+    {
+        "company": "project44",
+        "board": "project44"
     }
 
 ]
