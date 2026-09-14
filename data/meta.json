@@ -1,13 +1,13 @@
 {
-  "refreshed_at": "2026-09-14T13:45:47.565350+00:00",
+  "refreshed_at": "2026-09-14T14:00:07.832292+00:00",
   "total_jobs": 28,
   "existing_recent_jobs": 28,
   "jooble_new_jobs": 10,
   "greenhouse_new_jobs": 0,
   "lever_new_jobs": 2,
   "ashby_new_jobs": 0,
-  "adzuna_new_jobs": 11,
-  "total_new_jobs": 23,
+  "adzuna_new_jobs": 0,
+  "total_new_jobs": 12,
   "final_source_counts": {
     "jooble": 15,
     "adzuna": 11,
