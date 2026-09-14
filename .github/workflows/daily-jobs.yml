@@ -2,12 +2,12 @@ name: Daily Java Job Refresh
 
 on:
 
+  # Every day at 9:00 AM IST
+  # GitHub cron uses UTC → 03:30 UTC = 09:00 IST
   schedule:
-
-    # 09:00 AM IST
-    # 03:30 UTC
     - cron: "30 3 * * *"
 
+  # Allows manual run
   workflow_dispatch:
 
 
@@ -24,9 +24,8 @@ jobs:
 
     steps:
 
-
       # ==========================================
-      # CHECKOUT
+      # 1. CHECKOUT REPOSITORY
       # ==========================================
 
       - name: Checkout repository
@@ -34,7 +33,7 @@ jobs:
 
 
       # ==========================================
-      # PYTHON
+      # 2. SETUP PYTHON
       # ==========================================
 
       - name: Setup Python
@@ -45,7 +44,7 @@ jobs:
 
 
       # ==========================================
-      # INSTALL DEPENDENCIES
+      # 3. INSTALL DEPENDENCIES
       # ==========================================
 
       - name: Install dependencies
@@ -58,7 +57,7 @@ jobs:
 
 
       # ==========================================
-      # RUN JOB RADAR
+      # 4. FETCH JOBS
       # ==========================================
 
       - name: Fetch latest Java jobs
@@ -73,10 +72,10 @@ jobs:
 
 
       # ==========================================
-      # COMMIT NEW DATA
+      # 5. COMMIT JOB DATA + LEVER STATE
       # ==========================================
 
-      - name: Commit updated jobs
+      - name: Commit updated job data
 
         run: |
 
@@ -84,7 +83,11 @@ jobs:
 
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/jobs.json data/meta.json
+          git add data/jobs.json
+
+          git add data/meta.json
+
+          git add data/lever_seen.json
 
           if git diff --cached --quiet; then
 
@@ -92,7 +95,7 @@ jobs:
 
           else
 
-            git commit -m "Daily Java job refresh"
+            git commit -m "Daily multi-source job refresh"
 
             git push
 

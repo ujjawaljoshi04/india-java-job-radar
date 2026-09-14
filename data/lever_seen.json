@@ -1,0 +1,1020 @@
+{
+  "lingarogroup:1869c33b-7feb-4940-84ba-ca1e4cec53f5": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "4176 DevOps Engineer",
+    "baseline": true
+  },
+  "lingarogroup:8d86af07-1f67-4644-95e9-e824c5537439": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Account Director",
+    "baseline": true
+  },
+  "lingarogroup:d966d7b8-336c-473d-9634-76ecc10e71e1": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Account Director",
+    "baseline": true
+  },
+  "lingarogroup:39d64e0c-dd10-48c9-9321-b91fd111842e": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "AI DevOps Engineer",
+    "baseline": true
+  },
+  "lingarogroup:97006459-8b88-456a-a681-34f83e8a88f0": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "AI Operations Tech Leader",
+    "baseline": true
+  },
+  "lingarogroup:f39165d0-f745-45d8-ab0a-0b6880b81426": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "AI Pre-sales Consultant",
+    "baseline": true
+  },
+  "lingarogroup:93972ef4-3da8-4f8d-a5c4-d2a752551571": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "AI/ML Engineer - Bodyleasing/Agencies",
+    "baseline": true
+  },
+  "lingarogroup:a0a2407f-dac5-48b7-a471-866c19c48309": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Architect",
+    "baseline": true
+  },
+  "lingarogroup:0be35cc2-3b05-4435-8718-3660b05b3fa3": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Engineer",
+    "baseline": true
+  },
+  "lingarogroup:8e0d3b9b-11ae-4e01-8c6c-5e7242bea808": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Engineering Architect",
+    "baseline": true
+  },
+  "lingarogroup:8caeae49-ea63-4b90-b28f-d1012d252643": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Backend developer",
+    "baseline": true
+  },
+  "lingarogroup:919e3fa9-70a2-4551-a593-e5ac97196e0c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Backend Developer",
+    "baseline": true
+  },
+  "lingarogroup:f3231a28-9a57-41f2-8bd0-5638bc520904": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Backend Developer",
+    "baseline": true
+  },
+  "lingarogroup:61654964-c8c7-4f7c-b2f1-3f145a21198a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Backend Developer - Contract",
+    "baseline": true
+  },
+  "lingarogroup:6e501ac2-05dd-448d-861d-5201d14ea019": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Backend Developer (Python, Databricks)",
+    "baseline": true
+  },
+  "lingarogroup:2fac22a3-bdfd-4c9a-b9ba-444ecc5ddc46": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "BI Tech Lead",
+    "baseline": true
+  },
+  "lingarogroup:791f7699-5472-49b2-b9e2-f54926a7f243": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "BI Tech Lead",
+    "baseline": true
+  },
+  "lingarogroup:71d87ce9-591c-421e-a980-c8cdfa6eb1b8": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "BI Tech Lead with Looker (Enterprise)",
+    "baseline": true
+  },
+  "lingarogroup:45338a5a-9e15-4c4a-827f-72e9d51cbafb": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "BI Tech Lead with Looker Enterprise and GCP",
+    "baseline": true
+  },
+  "lingarogroup:8e0ebe0e-758a-4072-87e6-709047398cf0": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Business Analyst with Japanese",
+    "baseline": true
+  },
+  "lingarogroup:4b50001e-e6f7-4f13-b050-7e8fe4c7a9a4": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Cloud Data Engineer - Snowflake Meetup 2026",
+    "baseline": true
+  },
+  "lingarogroup:2c8f7ee7-5449-41f1-afbd-adfff96caa35": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Cloud Solution Architect",
+    "baseline": true
+  },
+  "lingarogroup:f691abe6-ad17-404f-b0f0-9bda815a363e": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineer GCP Mexico",
+    "baseline": true
+  },
+  "lingarogroup:6faa6e5b-ef4d-4d37-9e43-f8e791d8ef4e": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineer with AWS",
+    "baseline": true
+  },
+  "lingarogroup:48c8cba4-f346-43c1-b33c-fed69401b033": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineer- Azure",
+    "baseline": true
+  },
+  "lingarogroup:1541a35e-6a57-4973-bb08-2696e61210f6": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineering Tech Lead",
+    "baseline": true
+  },
+  "lingarogroup:c3cbaab5-4db4-49e5-a63b-003f89adb04d": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Scientist",
+    "baseline": true
+  },
+  "lingarogroup:b8cd98ac-d72b-48db-85a4-2986f9d9959f": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Scientist - Consumer Anaytics, Forecasting",
+    "baseline": true
+  },
+  "lingarogroup:b57c92ac-62af-40c0-a5d6-d2fa2b4444db": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Scientist - Time series and forecasting",
+    "baseline": true
+  },
+  "lingarogroup:a0801698-c37a-4af1-b2e0-b290ab891a11": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Data Scientist (Generative AI)",
+    "baseline": true
+  },
+  "lingarogroup:fcee6859-e315-410e-8a3a-6926ff2a6a58": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "DevOps Engineer - Contract",
+    "baseline": true
+  },
+  "lingarogroup:a0be3a26-831e-4692-bf68-adb4b0fde0a8": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "DevOps Engineer - SRE Observability",
+    "baseline": true
+  },
+  "lingarogroup:9854513e-2e1a-4512-9324-be44da12e652": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "DevOps Engineer (Cloud) - Freelance",
+    "baseline": true
+  },
+  "lingarogroup:2f83b9ea-e0fe-4fdb-89a4-e2dd8f286405": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "DevOps Engineer, India",
+    "baseline": true
+  },
+  "lingarogroup:a27a44c9-e87b-4601-b476-7b26b8ae4908": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Digital Supply Chain Senior Business Analyst",
+    "baseline": true
+  },
+  "lingarogroup:a208f821-9dd8-4b35-b784-55313784c5db": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Front End Developer",
+    "baseline": true
+  },
+  "lingarogroup:79d3e0e3-9858-4978-8e2c-449d6b43b193": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Frontend Developer - Freelancer",
+    "baseline": true
+  },
+  "lingarogroup:579f8e28-db27-4c3c-a81e-a8fdc7f26d57": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Frontend Developer (React)",
+    "baseline": true
+  },
+  "lingarogroup:36ee32ae-1421-407a-bf59-1a872f596d45": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Fullstack Java Developer",
+    "baseline": true
+  },
+  "lingarogroup:03c58014-85e9-4809-8669-d5bc810a0d36": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Fullstack Senior Data Scientist",
+    "baseline": true
+  },
+  "lingarogroup:28ae312e-c4e7-4b8c-a8cd-2181c480f313": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "GCP Data Architect",
+    "baseline": true
+  },
+  "lingarogroup:f006295c-c896-4b42-a853-22f438e7b066": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "GCP Data Engineer",
+    "baseline": true
+  },
+  "lingarogroup:853310f4-9cc3-45b7-ac29-cf5a624f3c40": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Java Developer, India",
+    "baseline": true
+  },
+  "lingarogroup:8012c7e4-5ac4-4097-bc33-2df7ccaec653": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Junior Program Communications Specialist",
+    "baseline": true
+  },
+  "lingarogroup:8a6cc8ab-67a8-42b4-a237-c9c2f46bae53": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "LCA Digital Solution Consultant",
+    "baseline": true
+  },
+  "lingarogroup:93daf89c-b173-42ac-800d-326f1c2cd529": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "LCA Digital Solution Consultant",
+    "baseline": true
+  },
+  "lingarogroup:e394f7e5-7ea8-4d99-866b-034d14958b28": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Lead Business Analyst",
+    "baseline": true
+  },
+  "lingarogroup:07658ba4-8dae-43b1-bd5b-9dfc569672b7": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Lead Business Analyst (Japanese Proficiency) (Contractual)",
+    "baseline": true
+  },
+  "lingarogroup:7d613d66-1cd4-43c8-9d97-168b7c625369": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Marketing Specialist",
+    "baseline": true
+  },
+  "lingarogroup:59f95fe0-64ec-4627-addd-d1c5e0f34d21": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "ML / AI Engineer",
+    "baseline": true
+  },
+  "lingarogroup:d0a90707-64a6-40ee-ba62-a3d447872cdb": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Power Platform Developer",
+    "baseline": true
+  },
+  "lingarogroup:8a3fb292-95c2-46f9-adae-9f1eba22b5c2": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Power Platform Expert",
+    "baseline": true
+  },
+  "lingarogroup:bc172a49-565c-4a3a-83af-d2112f329322": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Resource Management Intern",
+    "baseline": true
+  },
+  "lingarogroup:7b6123b8-b75d-4ef8-91f3-ce7fdcd2123e": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "SAP Data & Analytics Developer",
+    "baseline": true
+  },
+  "lingarogroup:4ef8a721-8038-4135-bf58-a7ebc3a907e9": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Senior Agentic Data Management Advisor",
+    "baseline": true
+  },
+  "lingarogroup:9aa021e2-2a28-4de5-a16f-45ec2a8da596": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Senior AI Advisor",
+    "baseline": true
+  },
+  "lingarogroup:7f2e4cdd-b9ea-481d-b5c6-8b8657516d4f": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Senior Project Manager",
+    "baseline": true
+  },
+  "lingarogroup:6193532e-90aa-42b9-b2d4-f01204229cdf": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Smart Manufacturing Consultant (Hands-on IT/OT + Cloud)",
+    "baseline": true
+  },
+  "lingarogroup:746b6985-fb3e-44bd-850e-ad2aab8a100c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Smart Manufacturing Consultant (Hands-on IT/OT + Cloud)",
+    "baseline": true
+  },
+  "lingarogroup:d66ad1a2-1af3-4be5-97a1-8a3f6ab56149": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Solution Architect",
+    "baseline": true
+  },
+  "lingarogroup:ed379b25-6755-4d85-8462-a407ad868663": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Solution Architect- Data & Analytics",
+    "baseline": true
+  },
+  "lingarogroup:3e617d0f-977b-455d-b5ab-c88d55e63c09": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Solutions Architect",
+    "baseline": true
+  },
+  "lingarogroup:7fae97d1-4fea-4a5d-8284-b7ea3b79fa11": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Sr Agentic Data Management Advisor",
+    "baseline": true
+  },
+  "lingarogroup:e661ca14-24c2-4e9f-bb93-faaf475e764a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Supply Chain Manager",
+    "baseline": true
+  },
+  "lingarogroup:3901c141-0bc2-4e32-b402-adde42df34d4": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Supply Chain Senior Business Analyst",
+    "baseline": true
+  },
+  "lingarogroup:959df2e0-9d91-4281-9afa-02bf8745a475": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Supply Chain Senior Business Analyst / Consultant",
+    "baseline": true
+  },
+  "lingarogroup:ca30a8b1-f348-476e-8575-15925540abf6": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Support Specialist (L1 Service Desk)",
+    "baseline": true
+  },
+  "lingarogroup:fb75fbbd-2a1f-4bb3-a594-34a10ec261bd": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Sustainability Consultant",
+    "baseline": true
+  },
+  "lingarogroup:a646b20a-aac6-4796-a188-fd5339a9de6b": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Test - Supply Chain Senior Business Analyst",
+    "baseline": true
+  },
+  "lingarogroup:534c3885-31ad-483e-b8ef-b5d7aaea9c6c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Voluntary Application",
+    "baseline": true
+  },
+  "lingarogroup:53611a17-c217-458e-b2d0-43eb9c1b3eda": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Lingaro",
+    "title": "Voluntary recruitment",
+    "baseline": true
+  },
+  "azul:e562ebc4-df65-4497-9a03-23443fb5d89d": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Account Executive Sweden",
+    "baseline": true
+  },
+  "azul:2b021086-56e7-4c52-aa3a-4090f524e4e1": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Business Development Representative",
+    "baseline": true
+  },
+  "azul:7a35173a-a5d8-4445-82db-7faa883613e4": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Channel Account Manager",
+    "baseline": true
+  },
+  "azul:d96f5578-124e-42d0-ad09-e2195c1c4431": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Channel Account Manager",
+    "baseline": true
+  },
+  "azul:e30a06ae-302e-4193-bc4f-aea1de1bf91c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Channel Account Manager",
+    "baseline": true
+  },
+  "azul:816c1232-d4df-47b2-b142-94a1805ab746": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Enterprise Account Executive",
+    "baseline": true
+  },
+  "azul:7f9a668b-191b-410b-8ad1-bc771cbafe31": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Enterprise Account Executive, Azul Prime - (Remote)",
+    "baseline": true
+  },
+  "azul:cfce3d87-6ca2-4096-bb81-db16cdab33aa": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Enterprise Account Executive, Azul Prime - (Remote)",
+    "baseline": true
+  },
+  "azul:2284ad7e-c721-42f9-b712-3b0a245fb6ad": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "LLVM Compiler Engineer",
+    "baseline": true
+  },
+  "azul:f1fce2e3-a5c3-4790-8da8-c8da5d8e1d96": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "LLVM Compiler Engineer",
+    "baseline": true
+  },
+  "azul:f94d4087-2dee-4d69-8596-883ff17efde2": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Marketing AI Intern",
+    "baseline": true
+  },
+  "azul:97327568-3154-4019-99f6-f1df6b520cc2": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Marketing AI Specialist (4 Month Contract )",
+    "baseline": true
+  },
+  "azul:4633e5d8-c841-4d19-863f-cf774bec1ef6": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Revenue Enablement Program Manager - CONTRACTOR",
+    "baseline": true
+  },
+  "azul:698a1476-48f1-47ec-b770-5b17ff73515c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Sales Engineer",
+    "baseline": true
+  },
+  "azul:5c22d4e5-2ad0-4017-8a15-50212e0cce35": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Senior Software Engineer (C++) for JVM runtime",
+    "baseline": true
+  },
+  "azul:55dd4192-8a9e-4a59-9859-f4e6f54fa112": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Software Sales Specialist, Azul Prime - North America (Remote)",
+    "baseline": true
+  },
+  "azul:c3ffcd4d-bc81-4a25-af3e-5a4fb2dd4c1a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Azul",
+    "title": "Technical Account Manager",
+    "baseline": true
+  },
+  "saviynt:5e6c1380-3bd7-49bb-bb6b-7514b89925ba": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "AI Detection Engineer - SOC Analyst IV",
+    "baseline": true
+  },
+  "saviynt:9a8661ce-8856-4977-87f4-b06567125e28": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "AI Platform Engineer, Training and Inference",
+    "baseline": true
+  },
+  "saviynt:852f31d5-ad70-4c91-8c0d-35c28a8b192e": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal  Site Reliability Engineer",
+    "baseline": true
+  },
+  "saviynt:06951740-b331-490e-a7a9-737cc707f118": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Engineer - Java",
+    "baseline": true
+  },
+  "saviynt:1e24e1f1-b528-43a3-8b93-dcf2638f2729": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Engineer - Java",
+    "baseline": true
+  },
+  "saviynt:2a6dc1e4-5053-41b4-b16a-78b0f08e2cb5": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal SDET",
+    "baseline": true
+  },
+  "saviynt:b16dcbf3-d010-451d-9348-617195716203": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Software Engineer",
+    "baseline": true
+  },
+  "saviynt:ec645cb9-8e3c-45b2-b0e9-387fae517e58": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Software Engineer",
+    "baseline": true
+  },
+  "saviynt:de5d318f-9c22-4366-b64d-2d44ddf4b88f": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Software Engineer, Cloud & Edge Backend",
+    "baseline": true
+  },
+  "saviynt:6bba58d1-2ecc-49f0-98e3-d1e8e82217db": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Technical Support Engineer",
+    "baseline": true
+  },
+  "saviynt:50e5339d-4983-4712-8b90-29334968c8fc": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Training Engineer",
+    "baseline": true
+  },
+  "saviynt:7b7aec11-8f23-463d-8b75-bcc49c09464a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Customer Success Manager",
+    "baseline": true
+  },
+  "saviynt:766418c4-bf0e-4455-8dce-5702562ea450": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Director, Product Management - Privileged Access Management",
+    "baseline": true
+  },
+  "saviynt:d598946b-5f3a-4d59-82c3-4719fff0c1f7": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Distinguished Software Engineer, Data Platform",
+    "baseline": true
+  },
+  "saviynt:66a68936-3a41-4dd9-9bd8-481fe9b848da": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Enterprise Account Executive",
+    "baseline": true
+  },
+  "saviynt:451357d4-6be1-4930-8823-de48d0a19211": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Global Controller",
+    "baseline": true
+  },
+  "saviynt:effd9ab7-8876-4c54-a858-d3c4c27ea7ab": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Group Vice President",
+    "baseline": true
+  },
+  "saviynt:deb8fae1-709e-414d-ae33-55d58b3b25d9": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "HR Business Partner -  Americas GTM and Finance",
+    "baseline": true
+  },
+  "saviynt:29a0206d-6128-41e8-871a-96036f6e795d": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Junior Accountant  - Billing",
+    "baseline": true
+  },
+  "saviynt:26320cd3-1213-45f3-b55c-0d6a01ac2bac": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Junior Accountant - Accounts Receivable (AR)",
+    "baseline": true
+  },
+  "saviynt:bcb3c9f3-3688-446e-b85b-269f8949aa91": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "L3 SOC Analyst",
+    "baseline": true
+  },
+  "saviynt:3fb45888-3ba9-4b70-9988-61255c93409b": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Marketing Analytics & Data Visualization Architect (Remote, USA)",
+    "baseline": true
+  },
+  "saviynt:572080f7-c19e-407b-af2a-cfd08a249b7c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Named Enterprise Account Executive - Michigan",
+    "baseline": true
+  },
+  "saviynt:ec31bfad-9f5f-4d0a-b195-8adb507e5248": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Partner Director",
+    "baseline": true
+  },
+  "saviynt:bcefdeeb-2c34-45c0-8169-7af82984fafe": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Platform Support Engineer -",
+    "baseline": true
+  },
+  "saviynt:b35ffbf7-93d3-480b-8927-d08c5f3297ce": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal / Senior Principal Software Engineer - (Grails Server Page)",
+    "baseline": true
+  },
+  "saviynt:1b00bb96-f748-485d-b638-6311bf13b006": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Architect,  Professional Services",
+    "baseline": true
+  },
+  "saviynt:865676d4-3efc-46ea-9ff3-c4210a79b467": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Architect, Information Security",
+    "baseline": true
+  },
+  "saviynt:0af62c3f-84ae-446e-b40e-dd67d7514f58": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Engineer - Java developer",
+    "baseline": true
+  },
+  "saviynt:f18005d2-9d16-4b62-8d62-28d83bf04960": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Engineer - Java/Microservices",
+    "baseline": true
+  },
+  "saviynt:4c04d8f8-6238-4b67-a45b-bdce049af145": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Engineer, Cloud Platforms",
+    "baseline": true
+  },
+  "saviynt:c04467d1-d234-46fd-b9b5-e48ca823d01a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Engineer, Software Engineering",
+    "baseline": true
+  },
+  "saviynt:8c718515-3891-47db-a719-26802304e3ea": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Site Reliability Engineer",
+    "baseline": true
+  },
+  "saviynt:85e41b20-513b-44e3-bec6-57c589f5a3ab": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Site Reliability Engineer, Google Cloud",
+    "baseline": true
+  },
+  "saviynt:4ebc2158-08d7-4f10-9412-6e48b8060b34": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Development Engineer in Test",
+    "baseline": true
+  },
+  "saviynt:1f86bc1a-b581-423f-b670-93e52d0944a2": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, AI Onboarding",
+    "baseline": true
+  },
+  "saviynt:ebb9bb76-6390-4cfb-af4d-a170a9f2cfbc": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, AI Platform Engineering",
+    "baseline": true
+  },
+  "saviynt:6320f7ee-d6e0-48b8-ad73-abb2ab3f31df": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, Application Access Governance",
+    "baseline": true
+  },
+  "saviynt:1e521506-d72e-4b94-8b9c-248253b03230": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, Cloud & Edge Backend",
+    "baseline": true
+  },
+  "saviynt:c10bc35e-fd44-4fec-9e7a-d049240b0aae": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, Cloud Architecture",
+    "baseline": true
+  },
+  "saviynt:c4d28111-dd04-4011-b023-0072f6fe1afe": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, Connectors",
+    "baseline": true
+  },
+  "saviynt:1c7dcf57-4c0d-4d02-8bf2-3d092d47aff7": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, Endpoint Platform",
+    "baseline": true
+  },
+  "saviynt:8a5b0999-d866-4482-b5c0-fa82eb2c49bc": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer, Platform Engineering & Edge Infrastructure",
+    "baseline": true
+  },
+  "saviynt:7cfd70c7-5ccc-430f-b8e4-84f783cffcbc": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Principal Threat Researcher/ Associate Principal Threat Researcher",
+    "baseline": true
+  },
+  "saviynt:76f2adf9-48d4-444d-a1dc-056e24c6bb92": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Sales Development Representative",
+    "baseline": true
+  },
+  "saviynt:73b92781-6468-4574-bac8-3fb090b7d1b0": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Sales Development Representative - Bi-lingual (German / French / Swedish / Norwegian / Danish / Spanish / Finnish / Arabic / Italian)",
+    "baseline": true
+  },
+  "saviynt:caf633b3-4f4a-499d-ad0c-26192a10b42a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Sales Director",
+    "baseline": true
+  },
+  "saviynt:b9e94c6c-8967-43cc-a8ba-b7df62f61d9b": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior / Staff Site Reliability, Platform Engineering",
+    "baseline": true
+  },
+  "saviynt:3533aecd-45ea-4399-ac00-93f2c216bbd5": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Accountant - Collections",
+    "baseline": true
+  },
+  "saviynt:712e3e82-4cd7-43ad-92a9-89b53b8c47f0": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Accountant - Contract Review Specialist",
+    "baseline": true
+  },
+  "saviynt:8b92316c-6b11-4a90-a206-f614669bd6be": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Accountant- Billing Specialist",
+    "baseline": true
+  },
+  "saviynt:b3fa563f-d423-4c21-b18d-731211c9d223": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Compensation Analyst",
+    "baseline": true
+  },
+  "saviynt:f99f1fb2-9025-4696-a147-8570f107ecae": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Director, Technology Alliances & (SaaS/ERP Ecosystems)",
+    "baseline": true
+  },
+  "saviynt:0d279015-8280-49c8-9a06-24cf0533cb6c": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Engineer , Software Engineering",
+    "baseline": true
+  },
+  "saviynt:09e0d5f0-957c-4f78-88f0-5f980bd85322": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Engineer, Federal Cloud Platform",
+    "baseline": true
+  },
+  "saviynt:86e66dc6-ae67-4f33-90b2-1bb151d36ed6": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Manager, Platform Support",
+    "baseline": true
+  },
+  "saviynt:69af975a-71db-4e03-b746-86f29a0fa905": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Principal Engineer - Java/Microservices",
+    "baseline": true
+  },
+  "saviynt:425dd0d1-567e-4bab-80a0-f0a0ab9e98a9": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Principal Software Engineer, AI Onboarding",
+    "baseline": true
+  },
+  "saviynt:c34f16eb-a137-4457-822a-84608055cfdc": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Principal Technical Program Manager",
+    "baseline": true
+  },
+  "saviynt:b8bfe397-60ac-4807-9b51-e29c15ba380f": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Sales Engineer",
+    "baseline": true
+  },
+  "saviynt:05b9dc03-9d0f-4500-91c7-684f82f9e60e": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Site Reliability Engineer",
+    "baseline": true
+  },
+  "saviynt:4ff9cf78-58dc-4b4a-a0f0-2f171b78e162": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Software Engineer",
+    "baseline": true
+  },
+  "saviynt:835c982f-1533-43f5-b77f-e7ea0e889519": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Software Engineer",
+    "baseline": true
+  },
+  "saviynt:238d448a-d003-4815-b81d-87168638eeac": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Senior Solutions Engineer - DACH",
+    "baseline": true
+  },
+  "saviynt:1a899598-fe0e-4cd6-a117-0512b7cbec35": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Sr. Revenue Systems and Operations Specialist",
+    "baseline": true
+  },
+  "saviynt:ba7305f9-b3a5-4f46-8483-5ca9c49795e7": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Sr. Solutions Engineer",
+    "baseline": true
+  },
+  "saviynt:53b6e38f-ed8d-4764-bc39-8671961ca8c7": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Staff Product Manager (Partner & Developer Ecosystem)",
+    "baseline": true
+  },
+  "saviynt:5868298e-f873-40dd-b751-82dfeaf4d65a": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Staff Product Operations Manager",
+    "baseline": true
+  },
+  "saviynt:9cbfe1f0-997f-469b-a31e-a96cbd15c47b": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Staff Solutions Engineer",
+    "baseline": true
+  },
+  "saviynt:863bd436-f4cd-4fff-a28d-7eea1ecaa597": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Staff UX Designer",
+    "baseline": true
+  },
+  "saviynt:21435e12-ebf5-4d4d-afa1-cc7030b61986": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive",
+    "baseline": true
+  },
+  "saviynt:e309fb59-65aa-486d-ada7-6f06fc3c0c58": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive",
+    "baseline": true
+  },
+  "saviynt:b7a81579-d54e-4493-8f4e-81ba252fd979": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - Germany",
+    "baseline": true
+  },
+  "saviynt:ffa5bae0-a6dd-41ff-a469-ad425397dec4": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive EMEA – Application Access Governance (AAG)",
+    "baseline": true
+  },
+  "saviynt:251f997b-bdb8-40b5-87d3-e856c8c6b24b": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive Nordics",
+    "baseline": true
+  },
+  "saviynt:38ba4afe-1369-4e4b-b26c-10d472e1fb19": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Technical Support Engineer",
+    "baseline": true
+  },
+  "saviynt:31402a79-f8b8-403b-9167-eed7469734f0": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Technical Support Engineer (PAM)",
+    "baseline": true
+  },
+  "saviynt:e2b6ea31-1f27-44b9-bf61-dbb26beea2d9": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Vice President - Security Operations Center and Cyber Defense",
+    "baseline": true
+  },
+  "saviynt:556cb1a4-c1e2-49a5-a4b4-1029e132edb8": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Vice President, Application Security",
+    "baseline": true
+  },
+  "saviynt:b3ef73cf-da9d-4dd7-ab94-2aa601417040": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Vice President, Business Development",
+    "baseline": true
+  },
+  "saviynt:eede57fe-fb0c-462d-8e27-928812e110b5": {
+    "first_seen": "2026-09-14T10:53:39.113627+00:00",
+    "company": "Saviynt",
+    "title": "Vice President, FP&A",
+    "baseline": true
+  },
+  "__meta__": {
+    "initialized": true,
+    "initialized_at": "2026-09-14T10:57:03.312670+00:00"
+  }
+}

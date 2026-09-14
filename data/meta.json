@@ -1,10 +1,11 @@
 {
-  "refreshed_at": "2026-09-14T10:48:12.341638+00:00",
+  "refreshed_at": "2026-09-14T10:59:05.344541+00:00",
   "total_jobs": 13,
+  "existing_recent_jobs": 13,
   "jooble_new_jobs": 10,
   "greenhouse_new_jobs": 0,
+  "lever_new_jobs": 0,
   "total_new_jobs": 10,
-  "existing_recent_jobs": 12,
   "jooble_rejected_by_experience": 12,
   "max_age_hours": 24,
   "experience_min": 0,
