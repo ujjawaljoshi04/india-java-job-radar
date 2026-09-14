@@ -35,6 +35,11 @@ LEVER_SITES = [
     {
         "company": "Zimperium",
         "site": "zimperium"
+    },
+
+    {
+        "company": "Hevo Data",
+        "site": "hevodata"
     }
 
 ]
@@ -279,6 +284,7 @@ def is_java_role(
 
 
     # Java directly in title
+
     if any(
         keyword in title_lower
         for keyword in DIRECT_JAVA_KEYWORDS
@@ -286,9 +292,22 @@ def is_java_role(
         return True
 
 
+    # Generic developer / engineer titles
+
     generic_role = any(
         keyword in title_lower
         for keyword in GENERIC_DEV_TITLES
+    )
+
+
+    # SDE I / SDE II
+    # Do NOT match SDE III / IV / higher levels
+
+    sde_role = bool(
+        re.search(
+            r"\bsde\s*[-]?\s*(?:i|1|ii|2)\b",
+            title_lower
+        )
     )
 
 
@@ -299,7 +318,11 @@ def is_java_role(
 
 
     return (
-        generic_role
+        (
+            generic_role
+            or
+            sde_role
+        )
         and
         java_required
     )
