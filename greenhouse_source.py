@@ -31,6 +31,46 @@ GREENHOUSE_BOARDS = [
     {
         "company": "project44",
         "board": "project44"
+    },
+
+    {
+        "company": "Celonis",
+        "board": "celonis"
+    },
+
+    {
+        "company": "Rubrik",
+        "board": "rubrik"
+    },
+
+    {
+        "company": "Glean",
+        "board": "gleanwork"
+    },
+
+    {
+        "company": "SmartBear",
+        "board": "smartbear"
+    },
+
+    {
+        "company": "Sigmoid",
+        "board": "sigmoid"
+    },
+
+    {
+        "company": "Forward Networks",
+        "board": "forwardnetworks"
+    },
+
+    {
+        "company": "Pure Storage",
+        "board": "purestorage"
+    },
+
+    {
+        "company": "MongoDB",
+        "board": "mongodb"
     }
 
 ]
