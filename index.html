@@ -47,9 +47,15 @@
         }
 
         .stats {
-            margin-bottom: 20px;
+            margin-bottom: 8px;
             font-size: 18px;
             font-weight: bold;
+        }
+
+        .last-refreshed {
+            margin-bottom: 20px;
+            color: #666;
+            font-size: 14px;
         }
 
         .filters {
@@ -153,6 +159,14 @@
     </div>
 
 
+    <div
+        class="last-refreshed"
+        id="lastRefreshed"
+    >
+        Latest job posted: Loading...
+    </div>
+
+
     <div class="filters">
 
 
@@ -177,8 +191,21 @@
                 Fresher
             </option>
 
-            <option value="0">
+            <option value="0-2">
                 0-2 Years
+            </option>
+
+        </select>
+
+
+        <select id="sortFilter">
+
+            <option value="newest">
+                Newest First
+            </option>
+
+            <option value="oldest">
+                Oldest First
             </option>
 
         </select>
@@ -204,8 +231,8 @@
 
             const response =
                 await fetch(
-    "https://raw.githubusercontent.com/ujjawaljoshi04/india-java-job-radar/main/data/jobs.json?t=" + Date.now()
-);
+                    "./data/jobs.json?t=" + Date.now()
+                );
 
 
             if (!response.ok) {
@@ -221,9 +248,10 @@
                 await response.json();
 
 
-            renderJobs(
-                allJobs
-            );
+            updateLatestJobTime();
+
+
+            filterJobs();
 
 
         } catch (error) {
@@ -247,7 +275,93 @@
 
                 `;
 
+
+            document
+                .getElementById(
+                    "stats"
+                )
+                .innerText =
+                "Could not load jobs";
+
         }
+
+    }
+
+
+
+    function updateLatestJobTime() {
+
+        if (
+            !allJobs ||
+            allJobs.length === 0
+        ) {
+
+            document
+                .getElementById(
+                    "lastRefreshed"
+                )
+                .innerText =
+                "Latest job posted: No jobs available";
+
+            return;
+
+        }
+
+
+        const validJobs =
+            allJobs.filter(
+                job =>
+                    job.updated &&
+                    !isNaN(
+                        new Date(
+                            job.updated
+                        )
+                    )
+            );
+
+
+        if (
+            validJobs.length === 0
+        ) {
+
+            document
+                .getElementById(
+                    "lastRefreshed"
+                )
+                .innerText =
+                "Latest job posted: Not available";
+
+            return;
+
+        }
+
+
+        validJobs.sort(
+            (a, b) =>
+                new Date(
+                    b.updated
+                ) -
+                new Date(
+                    a.updated
+                )
+        );
+
+
+        const latestJob =
+            validJobs[0];
+
+
+        document
+            .getElementById(
+                "lastRefreshed"
+            )
+            .innerText =
+            "Latest job posted: " +
+            new Date(
+                latestJob.updated
+            ).toLocaleString(
+                "en-IN"
+            );
 
     }
 
@@ -369,7 +483,9 @@
 
 
 
-    function formatDate(dateString) {
+    function formatDate(
+        dateString
+    ) {
 
         if (!dateString) {
 
@@ -382,6 +498,15 @@
             new Date(
                 dateString
             );
+
+
+        if (
+            isNaN(date)
+        ) {
+
+            return "Not specified";
+
+        }
 
 
         return date.toLocaleString(
@@ -401,7 +526,8 @@
                     "searchInput"
                 )
                 .value
-                .toLowerCase();
+                .toLowerCase()
+                .trim();
 
 
         const experience =
@@ -412,20 +538,49 @@
                 .value;
 
 
-        const filtered =
+        const sort =
+            document
+                .getElementById(
+                    "sortFilter"
+                )
+                .value;
+
+
+        let filtered =
             allJobs.filter(
                 (job) => {
 
 
-                    const text = `
+                    const title =
+                        (
+                            job.title ||
+                            ""
+                        ).toLowerCase();
 
-                        ${job.title}
 
-                        ${job.company}
+                    const company =
+                        (
+                            job.company ||
+                            ""
+                        ).toLowerCase();
 
-                        ${job.location}
 
-                    `.toLowerCase();
+                    const location =
+                        (
+                            job.location ||
+                            ""
+                        ).toLowerCase();
+
+
+                    const exp =
+                        (
+                            job.experience ||
+                            "Not specified"
+                        );
+
+
+                    const text =
+                        `${title} ${company} ${location}`;
 
 
                     const matchesSearch =
@@ -444,32 +599,33 @@
                     ) {
 
                         matchesExperience =
-                            job.experience ===
+                            exp ===
                             "Not specified";
 
                     }
 
 
-                    if (
+                    else if (
                         experience ===
                         "Fresher"
                     ) {
 
                         matchesExperience =
-                            job.experience ===
+                            exp ===
                             "Fresher";
 
                     }
 
 
-                    if (
+                    else if (
                         experience ===
-                        "0"
+                        "0-2"
                     ) {
 
                         matchesExperience =
-                            job.experience !==
-                            undefined;
+                            matchesZeroToTwoYears(
+                                exp
+                            );
 
                     }
 
@@ -483,9 +639,96 @@
             );
 
 
+        filtered.sort(
+            (a, b) => {
+
+                const dateA =
+                    new Date(
+                        a.updated || 0
+                    );
+
+
+                const dateB =
+                    new Date(
+                        b.updated || 0
+                    );
+
+
+                if (
+                    sort ===
+                    "oldest"
+                ) {
+
+                    return (
+                        dateA -
+                        dateB
+                    );
+
+                }
+
+
+                return (
+                    dateB -
+                    dateA
+                );
+
+            }
+        );
+
+
         renderJobs(
             filtered
         );
+
+    }
+
+
+
+    function matchesZeroToTwoYears(
+        experience
+    ) {
+
+        if (
+            !experience ||
+            experience ===
+            "Not specified"
+        ) {
+
+            return true;
+
+        }
+
+
+        if (
+            experience ===
+            "Fresher"
+        ) {
+
+            return true;
+
+        }
+
+
+        const numbers =
+            experience.match(
+                /\d+/g
+            );
+
+
+        if (!numbers) {
+
+            return false;
+
+        }
+
+
+        const min =
+            parseInt(
+                numbers[0]
+            );
+
+
+        return min <= 2;
 
     }
 
@@ -504,6 +747,16 @@
     document
         .getElementById(
             "experienceFilter"
+        )
+        .addEventListener(
+            "change",
+            filterJobs
+        );
+
+
+    document
+        .getElementById(
+            "sortFilter"
         )
         .addEventListener(
             "change",
