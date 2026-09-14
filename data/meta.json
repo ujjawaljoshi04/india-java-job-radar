@@ -1,18 +1,17 @@
 {
-  "refreshed_at": "2026-09-14T11:13:00.613067+00:00",
+  "refreshed_at": "2026-09-14T11:22:50.821774+00:00",
   "total_jobs": 13,
   "existing_recent_jobs": 13,
-  "jooble_new_jobs": 9,
+  "jooble_new_jobs": 2,
   "greenhouse_new_jobs": 0,
   "lever_new_jobs": 0,
   "ashby_new_jobs": 0,
-  "total_new_jobs": 9,
+  "total_new_jobs": 2,
   "final_source_counts": {
-    "jooble": 10,
-    "easyhiring_indeed": 2,
-    "levit8.ai": 1
+    "jooble": 11,
+    "easyhiring_indeed": 2
   },
-  "jooble_rejected_by_experience": 12,
+  "jooble_rejected_by_experience": 0,
   "max_age_hours": 24,
   "experience_min": 0,
   "experience_max": 2

@@ -91,8 +91,11 @@
     "location": "Tamil Nadu",
     "experience": "Not specified",
     "updated": "2026-09-14T00:00:00.0000000",
-    "source": "levit8.ai",
-    "apply_link": "https://in.jooble.org/jdp/-6710828720869899709"
+    "source": "jooble",
+    "original_source": "levit8.ai",
+    "apply_link": "https://in.jooble.org/jdp/-6710828720869899709",
+    "snippet": "&nbsp;...We \r\n need a skilled <b>Java developer.</b> The application is build as a Spring Boot \r\n application sitting on a Tomcat server. It needs another interface. The \r\n internal logic has to be extended. We expect support of the entire Software \r\n Development Life Cycle (SDLC) up to Release...&nbsp;",
+    "date_basis": "updated"
   },
   {
     "title": "Java Full Stack Developer",
