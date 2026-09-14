@@ -98,7 +98,17 @@ ASHBY_BOARDS = [
     {
         "company": "Cyberhaven",
         "board": "cyberhaven"
-    }
+    },
+
+        {
+        "company": "CertifyOS",
+        "board": "certifyos"
+    },
+
+    {
+        "company": "Nightfall AI",
+        "board": "nightfall-ai"
+    },
 
 ]
 

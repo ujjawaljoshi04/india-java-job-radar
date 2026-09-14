@@ -101,9 +101,12 @@ LEVER_SITES = [
     {
         "company": "Weekday",
         "site": "weekdayworks"
-    }
+    },
 
-]
+    {
+        "company": "Meesho",
+        "site": "meesho"
+    },]
 
 
 SEEN_FILE = "data/lever_seen.json"
