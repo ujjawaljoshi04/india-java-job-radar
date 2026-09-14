@@ -51,6 +51,11 @@ LEVER_SITES = [
             "infra",
             "test infrastructure"
         ]
+    },
+
+   {
+        "company": "Brillio",
+        "site": "brillio-2"
     }
 
 ]
