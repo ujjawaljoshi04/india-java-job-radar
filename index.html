@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -10,7 +11,10 @@
         content="width=device-width, initial-scale=1.0"
     >
 
-    <title>India Java Job Radar</title>
+    <title>
+        India Java Job Radar
+    </title>
+
 
     <style>
 
@@ -18,111 +22,272 @@
             box-sizing: border-box;
         }
 
+
         body {
+
             margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f6f8;
-            color: #222;
+
+            font-family:
+                Arial,
+                sans-serif;
+
+            background:
+                #f4f6f8;
+
+            color:
+                #222;
         }
+
 
         header {
-            background: #111827;
-            color: white;
-            padding: 30px;
-            text-align: center;
+
+            background:
+                #111827;
+
+            color:
+                white;
+
+            padding:
+                35px 20px;
+
+            text-align:
+                center;
         }
+
 
         header h1 {
+
             margin: 0;
+
+            font-size:
+                34px;
         }
+
 
         header p {
-            color: #cbd5e1;
+
+            color:
+                #cbd5e1;
+
+            margin-top:
+                14px;
         }
+
 
         .container {
-            max-width: 1200px;
-            margin: auto;
-            padding: 25px;
+
+            max-width:
+                1200px;
+
+            margin:
+                auto;
+
+            padding:
+                30px 20px;
         }
+
 
         .stats {
-            margin-bottom: 8px;
-            font-size: 18px;
-            font-weight: bold;
+
+            font-size:
+                20px;
+
+            font-weight:
+                bold;
+
+            margin-bottom:
+                8px;
         }
 
-        .last-refreshed {
-            margin-bottom: 20px;
-            color: #666;
-            font-size: 14px;
+
+        .refresh-info {
+
+            color:
+                #666;
+
+            font-size:
+                14px;
+
+            line-height:
+                1.7;
+
+            margin-bottom:
+                22px;
         }
+
 
         .filters {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin-bottom: 25px;
+
+            display:
+                flex;
+
+            gap:
+                10px;
+
+            flex-wrap:
+                wrap;
+
+            margin-bottom:
+                28px;
         }
+
 
         input,
         select {
-            padding: 12px;
-            border: 1px solid #ccc;
-            border-radius: 7px;
-            font-size: 14px;
+
+            padding:
+                13px;
+
+            border:
+                1px solid #ccc;
+
+            border-radius:
+                8px;
+
+            font-size:
+                14px;
+
+            background:
+                white;
         }
+
 
         input {
-            flex: 1;
-            min-width: 220px;
+
+            flex:
+                1;
+
+            min-width:
+                260px;
         }
 
+
         .job-card {
-            background: white;
-            padding: 20px;
-            margin-bottom: 15px;
-            border-radius: 10px;
+
+            background:
+                white;
+
+            padding:
+                22px;
+
+            margin-bottom:
+                16px;
+
+            border-radius:
+                12px;
+
             box-shadow:
-                0 2px 8px
+                0 2px 10px
                 rgba(0, 0, 0, 0.08);
         }
 
+
         .job-title {
-            font-size: 20px;
-            font-weight: bold;
-            margin-bottom: 8px;
+
+            font-size:
+                21px;
+
+            font-weight:
+                bold;
+
+            margin-bottom:
+                7px;
         }
+
 
         .company {
-            font-weight: bold;
-            color: #374151;
+
+            font-weight:
+                bold;
+
+            color:
+                #374151;
+
+            margin-bottom:
+                8px;
         }
+
 
         .details {
-            margin-top: 10px;
-            color: #555;
-            line-height: 1.8;
+
+            color:
+                #555;
+
+            line-height:
+                1.9;
         }
+
 
         .apply-button {
-            display: inline-block;
-            margin-top: 15px;
-            padding: 10px 18px;
-            background: #2563eb;
-            color: white;
-            text-decoration: none;
-            border-radius: 7px;
+
+            display:
+                inline-block;
+
+            margin-top:
+                16px;
+
+            padding:
+                11px 19px;
+
+            background:
+                #2563eb;
+
+            color:
+                white;
+
+            text-decoration:
+                none;
+
+            border-radius:
+                7px;
         }
+
 
         .apply-button:hover {
-            background: #1d4ed8;
+
+            background:
+                #1d4ed8;
         }
 
+
         .no-jobs {
-            text-align: center;
-            padding: 30px;
-            color: #777;
+
+            text-align:
+                center;
+
+            padding:
+                40px;
+
+            color:
+                #777;
+        }
+
+
+        @media (
+            max-width: 700px
+        ) {
+
+            header h1 {
+
+                font-size:
+                    27px;
+            }
+
+
+            .filters {
+
+                flex-direction:
+                    column;
+            }
+
+
+            input,
+            select {
+
+                width:
+                    100%;
+            }
+
         }
 
     </style>
@@ -135,11 +300,15 @@
 
 <header>
 
-    <h1>☕ India Java Job Radar</h1>
+    <h1>
+        ☕ India Java Job Radar
+    </h1>
+
 
     <p>
         Java • Spring Boot • Backend • Microservices
     </p>
+
 
     <p>
         Jobs posted within the last 24 hours
@@ -152,18 +321,32 @@
 
 
     <div
-        class="stats"
         id="stats"
+        class="stats"
     >
+
         Loading jobs...
+
     </div>
 
 
-    <div
-        class="last-refreshed"
-        id="lastRefreshed"
-    >
-        Latest job posted: Loading...
+    <div class="refresh-info">
+
+        <div id="lastRefreshed">
+
+            Latest job posted:
+            Loading...
+
+        </div>
+
+
+        <div id="automationRefreshed">
+
+            Data refreshed:
+            Loading...
+
+        </div>
+
     </div>
 
 
@@ -222,16 +405,25 @@
 
 <script>
 
+
     let allJobs = [];
 
+
+    // =====================================================
+    // LOAD JOBS
+    // =====================================================
 
     async function loadJobs() {
 
         try {
 
+
             const response =
                 await fetch(
-                    "./data/jobs.json?t=" + Date.now()
+
+                    "./data/jobs.json?t=" +
+                    Date.now()
+
                 );
 
 
@@ -251,14 +443,26 @@
             updateLatestJobTime();
 
 
+            await loadRefreshMetadata();
+
+
             filterJobs();
 
 
         } catch (error) {
 
+
             console.error(
                 error
             );
+
+
+            document
+                .getElementById(
+                    "stats"
+                )
+                .innerText =
+                "Could not load jobs";
 
 
             document
@@ -275,21 +479,107 @@
 
                 `;
 
+        }
+
+    }
+
+
+    // =====================================================
+    // LOAD META.JSON
+    // =====================================================
+
+    async function loadRefreshMetadata() {
+
+        try {
+
+
+            const response =
+                await fetch(
+
+                    "./data/meta.json?t=" +
+                    Date.now()
+
+                );
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    "Could not load meta.json"
+                );
+
+            }
+
+
+            const meta =
+                await response.json();
+
+
+            if (!meta.refreshed_at) {
+
+                throw new Error(
+                    "Refresh timestamp missing"
+                );
+
+            }
+
+
+            const refreshedDate =
+                new Date(
+                    meta.refreshed_at
+                );
+
 
             document
                 .getElementById(
-                    "stats"
+                    "automationRefreshed"
                 )
                 .innerText =
-                "Could not load jobs";
+
+                "Data refreshed: " +
+
+                refreshedDate
+                    .toLocaleString(
+
+                        "en-IN",
+
+                        {
+                            timeZone:
+                                "Asia/Kolkata"
+                        }
+
+                    )
+
+                + " IST";
+
+
+        } catch (error) {
+
+
+            console.error(
+                error
+            );
+
+
+            document
+                .getElementById(
+                    "automationRefreshed"
+                )
+                .innerText =
+
+                "Data refreshed: Not available";
 
         }
 
     }
 
 
+    // =====================================================
+    // LATEST JOB TIME
+    // =====================================================
 
     function updateLatestJobTime() {
+
 
         if (
             !allJobs ||
@@ -301,6 +591,7 @@
                     "lastRefreshed"
                 )
                 .innerText =
+
                 "Latest job posted: No jobs available";
 
             return;
@@ -310,13 +601,17 @@
 
         const validJobs =
             allJobs.filter(
+
                 job =>
+
                     job.updated &&
+
                     !isNaN(
                         new Date(
                             job.updated
                         )
                     )
+
             );
 
 
@@ -329,6 +624,7 @@
                     "lastRefreshed"
                 )
                 .innerText =
+
                 "Latest job posted: Not available";
 
             return;
@@ -337,17 +633,23 @@
 
 
         validJobs.sort(
+
             (a, b) =>
+
                 new Date(
                     b.updated
-                ) -
+                )
+
+                -
+
                 new Date(
                     a.updated
                 )
+
         );
 
 
-        const latestJob =
+        const latest =
             validJobs[0];
 
 
@@ -356,136 +658,36 @@
                 "lastRefreshed"
             )
             .innerText =
+
             "Latest job posted: " +
+
             new Date(
-                latestJob.updated
-            ).toLocaleString(
-                "en-IN"
-            );
+                latest.updated
+            )
+            .toLocaleString(
+
+                "en-IN",
+
+                {
+                    timeZone:
+                        "Asia/Kolkata"
+                }
+
+            )
+
+            + " IST";
 
     }
 
 
-
-    function renderJobs(jobs) {
-
-
-        const container =
-            document.getElementById(
-                "jobsContainer"
-            );
-
-
-        const stats =
-            document.getElementById(
-                "stats"
-            );
-
-
-        stats.innerText =
-            `${jobs.length} matching jobs found`;
-
-
-        container.innerHTML = "";
-
-
-        if (jobs.length === 0) {
-
-            container.innerHTML = `
-
-                <div class="no-jobs">
-
-                    No matching jobs found.
-
-                </div>
-
-            `;
-
-            return;
-
-        }
-
-
-        jobs.forEach(
-            (job) => {
-
-
-                const card =
-                    document.createElement(
-                        "div"
-                    );
-
-
-                card.className =
-                    "job-card";
-
-
-                card.innerHTML = `
-
-                    <div class="job-title">
-
-                        ${job.title || "Unknown Role"}
-
-                    </div>
-
-
-                    <div class="company">
-
-                        ${job.company || "Unknown Company"}
-
-                    </div>
-
-
-                    <div class="details">
-
-                        📍 ${job.location || "Not specified"}
-
-                        <br>
-
-                        💼 Experience:
-                        ${job.experience || "Not specified"}
-
-                        <br>
-
-                        🕒 Posted:
-                        ${formatDate(job.updated)}
-
-                        <br>
-
-                        🔎 Source:
-                        ${job.source || "Unknown"}
-
-                    </div>
-
-
-                    <a
-                        href="${job.apply_link}"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        class="apply-button"
-                    >
-
-                        Apply Now →
-
-                    </a>
-
-                `;
-
-
-                container.appendChild(
-                    card
-                );
-
-            }
-        );
-
-    }
-
-
+    // =====================================================
+    // DATE FORMATTER
+    // =====================================================
 
     function formatDate(
         dateString
     ) {
+
 
         if (!dateString) {
 
@@ -510,183 +712,192 @@
 
 
         return date.toLocaleString(
-            "en-IN"
-        );
+
+            "en-IN",
+
+            {
+                timeZone:
+                    "Asia/Kolkata"
+            }
+
+        )
+
+        + " IST";
 
     }
 
 
+    // =====================================================
+    // RENDER JOBS
+    // =====================================================
 
-    function filterJobs() {
-
-
-        const search =
-            document
-                .getElementById(
-                    "searchInput"
-                )
-                .value
-                .toLowerCase()
-                .trim();
+    function renderJobs(jobs) {
 
 
-        const experience =
-            document
-                .getElementById(
-                    "experienceFilter"
-                )
-                .value;
-
-
-        const sort =
-            document
-                .getElementById(
-                    "sortFilter"
-                )
-                .value;
-
-
-        let filtered =
-            allJobs.filter(
-                (job) => {
-
-
-                    const title =
-                        (
-                            job.title ||
-                            ""
-                        ).toLowerCase();
-
-
-                    const company =
-                        (
-                            job.company ||
-                            ""
-                        ).toLowerCase();
-
-
-                    const location =
-                        (
-                            job.location ||
-                            ""
-                        ).toLowerCase();
-
-
-                    const exp =
-                        (
-                            job.experience ||
-                            "Not specified"
-                        );
-
-
-                    const text =
-                        `${title} ${company} ${location}`;
-
-
-                    const matchesSearch =
-                        text.includes(
-                            search
-                        );
-
-
-                    let matchesExperience =
-                        true;
-
-
-                    if (
-                        experience ===
-                        "Not specified"
-                    ) {
-
-                        matchesExperience =
-                            exp ===
-                            "Not specified";
-
-                    }
-
-
-                    else if (
-                        experience ===
-                        "Fresher"
-                    ) {
-
-                        matchesExperience =
-                            exp ===
-                            "Fresher";
-
-                    }
-
-
-                    else if (
-                        experience ===
-                        "0-2"
-                    ) {
-
-                        matchesExperience =
-                            matchesZeroToTwoYears(
-                                exp
-                            );
-
-                    }
-
-
-                    return (
-                        matchesSearch &&
-                        matchesExperience
-                    );
-
-                }
+        const container =
+            document.getElementById(
+                "jobsContainer"
             );
 
 
-        filtered.sort(
-            (a, b) => {
+        const stats =
+            document.getElementById(
+                "stats"
+            );
 
-                const dateA =
-                    new Date(
-                        a.updated || 0
+
+        stats.innerText =
+
+            `${jobs.length} matching jobs found`;
+
+
+        container.innerHTML =
+            "";
+
+
+        if (
+            jobs.length === 0
+        ) {
+
+
+            container.innerHTML = `
+
+                <div class="no-jobs">
+
+                    No matching jobs found.
+
+                </div>
+
+            `;
+
+
+            return;
+
+        }
+
+
+        jobs.forEach(
+
+            job => {
+
+
+                const card =
+                    document.createElement(
+                        "div"
                     );
 
 
-                const dateB =
-                    new Date(
-                        b.updated || 0
-                    );
+                card.className =
+                    "job-card";
 
 
-                if (
-                    sort ===
-                    "oldest"
-                ) {
-
-                    return (
-                        dateA -
-                        dateB
-                    );
-
-                }
+                card.innerHTML = `
 
 
-                return (
-                    dateB -
-                    dateA
+                    <div class="job-title">
+
+                        ${
+                            job.title ||
+                            "Unknown Role"
+                        }
+
+                    </div>
+
+
+                    <div class="company">
+
+                        ${
+                            job.company ||
+                            "Unknown Company"
+                        }
+
+                    </div>
+
+
+                    <div class="details">
+
+
+                        📍 ${
+                            job.location ||
+                            "Not specified"
+                        }
+
+
+                        <br>
+
+
+                        💼 Experience:
+                        ${
+                            job.experience ||
+                            "Not specified"
+                        }
+
+
+                        <br>
+
+
+                        🕒 Posted:
+                        ${
+                            formatDate(
+                                job.updated
+                            )
+                        }
+
+
+                        <br>
+
+
+                        🔎 Source:
+                        ${
+                            job.source ||
+                            "Unknown"
+                        }
+
+
+                    </div>
+
+
+                    <a
+
+                        href="${
+                            job.apply_link
+                        }"
+
+                        target="_blank"
+
+                        rel="noopener noreferrer"
+
+                        class="apply-button"
+
+                    >
+
+                        Apply Now →
+
+                    </a>
+
+
+                `;
+
+
+                container.appendChild(
+                    card
                 );
 
             }
-        );
 
-
-        renderJobs(
-            filtered
         );
 
     }
 
 
+    // =====================================================
+    // EXPERIENCE FILTER
+    // =====================================================
 
     function matchesZeroToTwoYears(
         experience
     ) {
+
 
         if (
             !experience ||
@@ -722,17 +933,207 @@
         }
 
 
-        const min =
+        const minimum =
             parseInt(
                 numbers[0]
             );
 
 
-        return min <= 2;
+        return minimum <= 2;
 
     }
 
 
+    // =====================================================
+    // FILTER + SORT
+    // =====================================================
+
+    function filterJobs() {
+
+
+        const search =
+            document
+                .getElementById(
+                    "searchInput"
+                )
+                .value
+                .toLowerCase()
+                .trim();
+
+
+        const experience =
+            document
+                .getElementById(
+                    "experienceFilter"
+                )
+                .value;
+
+
+        const sort =
+            document
+                .getElementById(
+                    "sortFilter"
+                )
+                .value;
+
+
+        let filtered =
+            allJobs.filter(
+
+                job => {
+
+
+                    const title =
+                        (
+                            job.title ||
+                            ""
+                        )
+                        .toLowerCase();
+
+
+                    const company =
+                        (
+                            job.company ||
+                            ""
+                        )
+                        .toLowerCase();
+
+
+                    const location =
+                        (
+                            job.location ||
+                            ""
+                        )
+                        .toLowerCase();
+
+
+                    const exp =
+                        (
+                            job.experience ||
+                            "Not specified"
+                        );
+
+
+                    const searchableText =
+
+                        `${title} ${company} ${location}`;
+
+
+                    const matchesSearch =
+
+                        searchableText
+                            .includes(
+                                search
+                            );
+
+
+                    let matchesExperience =
+                        true;
+
+
+                    if (
+                        experience ===
+                        "Not specified"
+                    ) {
+
+                        matchesExperience =
+
+                            exp ===
+                            "Not specified";
+
+                    }
+
+
+                    else if (
+                        experience ===
+                        "Fresher"
+                    ) {
+
+                        matchesExperience =
+
+                            exp ===
+                            "Fresher";
+
+                    }
+
+
+                    else if (
+                        experience ===
+                        "0-2"
+                    ) {
+
+                        matchesExperience =
+
+                            matchesZeroToTwoYears(
+                                exp
+                            );
+
+                    }
+
+
+                    return (
+
+                        matchesSearch &&
+
+                        matchesExperience
+
+                    );
+
+                }
+
+            );
+
+
+        filtered.sort(
+
+            (a, b) => {
+
+
+                const dateA =
+                    new Date(
+                        a.updated || 0
+                    );
+
+
+                const dateB =
+                    new Date(
+                        b.updated || 0
+                    );
+
+
+                if (
+                    sort ===
+                    "oldest"
+                ) {
+
+                    return (
+                        dateA -
+                        dateB
+                    );
+
+                }
+
+
+                return (
+                    dateB -
+                    dateA
+                );
+
+            }
+
+        );
+
+
+        renderJobs(
+            filtered
+        );
+
+    }
+
+
+    // =====================================================
+    // EVENTS
+    // =====================================================
 
     document
         .getElementById(
@@ -764,7 +1165,12 @@
         );
 
 
+    // =====================================================
+    // START
+    // =====================================================
+
     loadJobs();
+
 
 </script>
 

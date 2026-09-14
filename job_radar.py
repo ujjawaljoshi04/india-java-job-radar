@@ -28,6 +28,7 @@ if not API_KEY:
 with open("config.yml", "r", encoding="utf-8") as file:
     config = yaml.safe_load(file)
 
+
 search_config = config["search"]
 
 roles = search_config["roles"]
@@ -65,9 +66,11 @@ output_file = config["output"].get(
     "data/jobs.json"
 )
 
+meta_file = "data/meta.json"
+
 
 # =========================================================
-# INFO
+# START INFO
 # =========================================================
 
 print("Configured roles:")
@@ -91,10 +94,7 @@ def parse_job_date(date_value):
         return None
 
     try:
-
-        job_time = parser.parse(
-            date_value
-        )
+        job_time = parser.parse(date_value)
 
         if job_time.tzinfo is None:
             job_time = job_time.replace(
@@ -106,7 +106,6 @@ def parse_job_date(date_value):
         )
 
     except Exception:
-
         return None
 
 
@@ -134,7 +133,7 @@ def is_within_last_hours(
 
 
 # =========================================================
-# SENIOR FILTER
+# TITLE EXCLUSION
 # =========================================================
 
 def is_excluded_title(title):
@@ -180,6 +179,7 @@ def extract_experience_from_text(text):
     ).lower()
 
 
+    # Fresher / entry level
     fresher_terms = [
         "fresher",
         "freshers",
@@ -231,7 +231,7 @@ def extract_experience_from_text(text):
         return minimum, 99
 
 
-    # minimum 3 years
+    # minimum 3 years / at least 3 years
     minimum_match = re.search(
         r"(?:minimum|min\.?|at least)\s*(\d+)\s*(?:years?|yrs?)",
         text
@@ -264,6 +264,10 @@ def extract_experience_from_text(text):
     return None, None
 
 
+# =========================================================
+# EXPERIENCE MATCHING
+# =========================================================
+
 def experience_matches(
     title,
     snippet
@@ -281,7 +285,7 @@ def experience_matches(
     )
 
     # Experience not mentioned:
-    # keep it so we don't miss good jobs
+    # keep the job
     if job_min is None:
         return True
 
@@ -324,7 +328,7 @@ def experience_label(
 
 
 # =========================================================
-# NORMALIZE NEW JOB
+# NORMALIZE JOB
 # =========================================================
 
 def normalize_job(job):
@@ -361,7 +365,7 @@ def normalize_job(job):
 
 
 # =========================================================
-# DEDUPLICATION
+# JOB UNIQUE KEY
 # =========================================================
 
 def create_job_key(job):
@@ -373,6 +377,7 @@ def create_job_key(job):
 
     if link:
         return link
+
 
     title = (
         job.get("title")
@@ -389,12 +394,17 @@ def create_job_key(job):
         or ""
     ).strip().lower()
 
+
     return (
         f"{title}|"
         f"{company}|"
         f"{location}"
     )
 
+
+# =========================================================
+# DEDUPLICATION
+# =========================================================
 
 def deduplicate_jobs(jobs):
 
@@ -409,7 +419,6 @@ def deduplicate_jobs(jobs):
         if not key:
             continue
 
-        # Newer version replaces older duplicate
         unique[key] = job
 
     return list(
@@ -467,7 +476,7 @@ print(
 
 
 # =========================================================
-# KEEP ONLY VALID EXISTING JOBS
+# CLEAN EXISTING JOBS
 # =========================================================
 
 valid_existing_jobs = []
@@ -511,7 +520,7 @@ rejected_experience = 0
 
 
 # =========================================================
-# FETCH
+# FETCH JOBS
 # =========================================================
 
 for role in roles:
@@ -575,9 +584,10 @@ for role in roles:
 
     for job in jobs:
 
-        # -----------------------------------------
+
+        # -----------------------------
         # LAST 24 HOURS
-        # -----------------------------------------
+        # -----------------------------
 
         if not is_within_last_hours(
             job.get("updated"),
@@ -586,9 +596,9 @@ for role in roles:
             continue
 
 
-        # -----------------------------------------
-        # SENIOR FILTER
-        # -----------------------------------------
+        # -----------------------------
+        # SENIOR / LEAD FILTER
+        # -----------------------------
 
         if is_excluded_title(
             job.get("title")
@@ -596,9 +606,9 @@ for role in roles:
             continue
 
 
-        # -----------------------------------------
+        # -----------------------------
         # EXPERIENCE FILTER
-        # -----------------------------------------
+        # -----------------------------
 
         if not experience_matches(
             job.get("title"),
@@ -606,6 +616,7 @@ for role in roles:
         ):
 
             rejected_experience += 1
+
             continue
 
 
@@ -615,12 +626,13 @@ for role in roles:
 
 
 # =========================================================
-# DEDUP NEW JOBS
+# REMOVE DUPLICATES FROM NEW JOBS
 # =========================================================
 
 new_jobs = deduplicate_jobs(
     new_jobs
 )
+
 
 print(
     "\nNew unique jobs found:",
@@ -629,7 +641,7 @@ print(
 
 
 # =========================================================
-# MERGE OLD + NEW
+# MERGE EXISTING + NEW
 # =========================================================
 
 merged_jobs = (
@@ -686,15 +698,18 @@ final_jobs.sort(
 
 
 # =========================================================
-# SAVE
+# CREATE DATA DIRECTORY
 # =========================================================
 
 os.makedirs(
-    os.path.dirname(
-        output_file
-    ),
+    "data",
     exist_ok=True
 )
+
+
+# =========================================================
+# SAVE JOBS.JSON
+# =========================================================
 
 with open(
     output_file,
@@ -704,6 +719,54 @@ with open(
 
     json.dump(
         final_jobs,
+        file,
+        indent=2,
+        ensure_ascii=False
+    )
+
+
+# =========================================================
+# SAVE REFRESH METADATA
+# =========================================================
+
+refresh_metadata = {
+
+    "refreshed_at":
+        datetime.now(
+            timezone.utc
+        ).isoformat(),
+
+    "total_jobs":
+        len(final_jobs),
+
+    "new_jobs_found":
+        len(new_jobs),
+
+    "existing_recent_jobs":
+        len(valid_existing_jobs),
+
+    "rejected_by_experience":
+        rejected_experience,
+
+    "max_age_hours":
+        max_age_hours,
+
+    "experience_min":
+        USER_MIN_EXP,
+
+    "experience_max":
+        USER_MAX_EXP
+}
+
+
+with open(
+    meta_file,
+    "w",
+    encoding="utf-8"
+) as file:
+
+    json.dump(
+        refresh_metadata,
         file,
         indent=2,
         ensure_ascii=False
@@ -739,8 +802,13 @@ print(
 )
 
 print(
-    "Saved to:",
+    "Saved jobs to:",
     output_file
+)
+
+print(
+    "Refresh metadata saved to:",
+    meta_file
 )
 
 print(
