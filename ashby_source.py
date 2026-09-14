@@ -39,6 +39,11 @@ ASHBY_BOARDS = [
     {
         "company": "Netspend",
         "board": "Netspend-Careers-Page"
+    },
+
+    {
+        "company": "AiPrise",
+        "board": "aiprise"
     }
 
 ]
