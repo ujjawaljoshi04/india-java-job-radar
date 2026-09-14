@@ -56,6 +56,26 @@ LEVER_SITES = [
    {
         "company": "Brillio",
         "site": "brillio-2"
+    },
+
+        {
+        "company": "Sonatype",
+        "site": "sonatype"
+    },
+
+    {
+        "company": "RapidAI",
+        "site": "rapidai"
+    },
+
+    {
+        "company": "Turvo",
+        "site": "turvo"
+    },
+
+    {
+        "company": "ValGenesis",
+        "site": "valgenesis"
     }
 
 ]

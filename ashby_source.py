@@ -49,6 +49,35 @@ ASHBY_BOARDS = [
    {
         "company": "Ontic",
         "board": "ontic"
+    },
+        {
+        "company": "LG Ad Solutions",
+        "board": "lgads"
+    },
+
+    {
+        "company": "Handshake",
+        "board": "handshake"
+    },
+
+    {
+        "company": "Confluent",
+        "board": "confluent"
+    },
+
+    {
+        "company": "Gainsight",
+        "board": "gainsight"
+    },
+
+    {
+        "company": "Granica",
+        "board": "granica"
+    },
+
+    {
+        "company": "Menlo Security",
+        "board": "menlosecurity"
     }
 
 ]
