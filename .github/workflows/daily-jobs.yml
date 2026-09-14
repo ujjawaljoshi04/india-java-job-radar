@@ -2,16 +2,23 @@ name: Daily Java Job Refresh
 
 on:
 
-  # Every day at 9:00 AM IST
-  # 03:30 UTC = 09:00 IST
   schedule:
+    # 09:00 AM IST / 03:30 UTC
     - cron: "30 3 * * *"
 
-  # Manual trigger
   workflow_dispatch:
 
 
+# Prevent two refresh workflows from pushing at the same time
+concurrency:
+
+  group: daily-java-job-refresh
+
+  cancel-in-progress: false
+
+
 permissions:
+
   contents: write
 
 
@@ -25,26 +32,33 @@ jobs:
     steps:
 
       # ==========================================
-      # 1. CHECKOUT REPOSITORY
+      # 1. CHECKOUT
       # ==========================================
 
       - name: Checkout repository
+
         uses: actions/checkout@v4
+
+        with:
+
+          fetch-depth: 0
 
 
       # ==========================================
-      # 2. SETUP PYTHON
+      # 2. PYTHON
       # ==========================================
 
       - name: Setup Python
+
         uses: actions/setup-python@v5
 
         with:
+
           python-version: "3.12"
 
 
       # ==========================================
-      # 3. INSTALL DEPENDENCIES
+      # 3. DEPENDENCIES
       # ==========================================
 
       - name: Install dependencies
@@ -57,7 +71,7 @@ jobs:
 
 
       # ==========================================
-      # 4. FETCH LATEST JOBS
+      # 4. FETCH JOBS
       # ==========================================
 
       - name: Fetch latest Java jobs
@@ -76,7 +90,7 @@ jobs:
 
 
       # ==========================================
-      # 5. COMMIT UPDATED DATA
+      # 5. COMMIT + SYNC + PUSH
       # ==========================================
 
       - name: Commit updated job data
@@ -93,6 +107,7 @@ jobs:
 
           git add data/lever_seen.json
 
+
           if git diff --cached --quiet; then
 
             echo "No changes found."
@@ -101,6 +116,14 @@ jobs:
 
             git commit -m "Daily multi-source job refresh"
 
-            git push
+
+            echo "Syncing with latest remote main..."
+
+            git pull --rebase origin main
+
+
+            echo "Pushing refreshed job data..."
+
+            git push origin main
 
           fi
