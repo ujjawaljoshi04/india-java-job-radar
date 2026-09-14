@@ -44,6 +44,11 @@ ASHBY_BOARDS = [
     {
         "company": "AiPrise",
         "board": "aiprise"
+    },
+
+   {
+        "company": "Ontic",
+        "board": "ontic"
     }
 
 ]
