@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>India Java Job Radar</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            color: #222;
+        }
+
+        header {
+            background: #111827;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        header p {
+            color: #cbd5e1;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 25px;
+        }
+
+        .stats {
+            margin-bottom: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .filters {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 25px;
+        }
+
+        input,
+        select {
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+            font-size: 14px;
+        }
+
+        input {
+            flex: 1;
+            min-width: 220px;
+        }
+
+        .job-card {
+            background: white;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-radius: 10px;
+            box-shadow:
+                0 2px 8px
+                rgba(0, 0, 0, 0.08);
+        }
+
+        .job-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .company {
+            font-weight: bold;
+            color: #374151;
+        }
+
+        .details {
+            margin-top: 10px;
+            color: #555;
+            line-height: 1.8;
+        }
+
+        .apply-button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 18px;
+            background: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 7px;
+        }
+
+        .apply-button:hover {
+            background: #1d4ed8;
+        }
+
+        .no-jobs {
+            text-align: center;
+            padding: 30px;
+            color: #777;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+    <h1>☕ India Java Job Radar</h1>
+
+    <p>
+        Java • Spring Boot • Backend • Microservices
+    </p>
+
+    <p>
+        Jobs posted within the last 24 hours
+    </p>
+
+</header>
+
+
+<div class="container">
+
+
+    <div
+        class="stats"
+        id="stats"
+    >
+        Loading jobs...
+    </div>
+
+
+    <div class="filters">
+
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search title, company, location..."
+        >
+
+
+        <select id="experienceFilter">
+
+            <option value="">
+                All Experience
+            </option>
+
+            <option value="Not specified">
+                Experience Not Specified
+            </option>
+
+            <option value="Fresher">
+                Fresher
+            </option>
+
+            <option value="0">
+                0-2 Years
+            </option>
+
+        </select>
+
+
+    </div>
+
+
+    <div id="jobsContainer"></div>
+
+
+</div>
+
+
+<script>
+
+    let allJobs = [];
+
+
+    async function loadJobs() {
+
+        try {
+
+            const response =
+                await fetch(
+                    "./data/jobs.json"
+                );
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    "Could not load jobs.json"
+                );
+
+            }
+
+
+            allJobs =
+                await response.json();
+
+
+            renderJobs(
+                allJobs
+            );
+
+
+        } catch (error) {
+
+            console.error(
+                error
+            );
+
+
+            document
+                .getElementById(
+                    "jobsContainer"
+                )
+                .innerHTML = `
+
+                    <div class="no-jobs">
+
+                        Unable to load job data.
+
+                    </div>
+
+                `;
+
+        }
+
+    }
+
+
+
+    function renderJobs(jobs) {
+
+
+        const container =
+            document.getElementById(
+                "jobsContainer"
+            );
+
+
+        const stats =
+            document.getElementById(
+                "stats"
+            );
+
+
+        stats.innerText =
+            `${jobs.length} matching jobs found`;
+
+
+        container.innerHTML = "";
+
+
+        if (jobs.length === 0) {
+
+            container.innerHTML = `
+
+                <div class="no-jobs">
+
+                    No matching jobs found.
+
+                </div>
+
+            `;
+
+            return;
+
+        }
+
+
+        jobs.forEach(
+            (job) => {
+
+
+                const card =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                card.className =
+                    "job-card";
+
+
+                card.innerHTML = `
+
+                    <div class="job-title">
+
+                        ${job.title || "Unknown Role"}
+
+                    </div>
+
+
+                    <div class="company">
+
+                        ${job.company || "Unknown Company"}
+
+                    </div>
+
+
+                    <div class="details">
+
+                        📍 ${job.location || "Not specified"}
+
+                        <br>
+
+                        💼 Experience:
+                        ${job.experience || "Not specified"}
+
+                        <br>
+
+                        🕒 Posted:
+                        ${formatDate(job.updated)}
+
+                        <br>
+
+                        🔎 Source:
+                        ${job.source || "Unknown"}
+
+                    </div>
+
+
+                    <a
+                        href="${job.apply_link}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="apply-button"
+                    >
+
+                        Apply Now →
+
+                    </a>
+
+                `;
+
+
+                container.appendChild(
+                    card
+                );
+
+            }
+        );
+
+    }
+
+
+
+    function formatDate(dateString) {
+
+        if (!dateString) {
+
+            return "Not specified";
+
+        }
+
+
+        const date =
+            new Date(
+                dateString
+            );
+
+
+        return date.toLocaleString(
+            "en-IN"
+        );
+
+    }
+
+
+
+    function filterJobs() {
+
+
+        const search =
+            document
+                .getElementById(
+                    "searchInput"
+                )
+                .value
+                .toLowerCase();
+
+
+        const experience =
+            document
+                .getElementById(
+                    "experienceFilter"
+                )
+                .value;
+
+
+        const filtered =
+            allJobs.filter(
+                (job) => {
+
+
+                    const text = `
+
+                        ${job.title}
+
+                        ${job.company}
+
+                        ${job.location}
+
+                    `.toLowerCase();
+
+
+                    const matchesSearch =
+                        text.includes(
+                            search
+                        );
+
+
+                    let matchesExperience =
+                        true;
+
+
+                    if (
+                        experience ===
+                        "Not specified"
+                    ) {
+
+                        matchesExperience =
+                            job.experience ===
+                            "Not specified";
+
+                    }
+
+
+                    if (
+                        experience ===
+                        "Fresher"
+                    ) {
+
+                        matchesExperience =
+                            job.experience ===
+                            "Fresher";
+
+                    }
+
+
+                    if (
+                        experience ===
+                        "0"
+                    ) {
+
+                        matchesExperience =
+                            job.experience !==
+                            undefined;
+
+                    }
+
+
+                    return (
+                        matchesSearch &&
+                        matchesExperience
+                    );
+
+                }
+            );
+
+
+        renderJobs(
+            filtered
+        );
+
+    }
+
+
+
+    document
+        .getElementById(
+            "searchInput"
+        )
+        .addEventListener(
+            "input",
+            filterJobs
+        );
+
+
+    document
+        .getElementById(
+            "experienceFilter"
+        )
+        .addEventListener(
+            "change",
+            filterJobs
+        );
+
+
+    loadJobs();
+
+</script>
+
+
+</body>
+
+</html>

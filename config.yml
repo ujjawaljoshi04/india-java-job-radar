@@ -1,0 +1,58 @@
+search:
+  roles:
+    - Java Developer
+    - Java Backend Developer
+    - Spring Boot Developer
+    - Backend Engineer Java
+    - Java Software Engineer
+    - Java Full Stack Developer
+    - Microservices Developer
+    - Software Engineer Java
+
+  skills:
+    - Java
+    - Spring Boot
+    - REST API
+    - Microservices
+    - SQL
+    - MySQL
+    - JPA
+    - Hibernate
+
+  experience:
+    min_years: 0
+    max_years: 2
+
+  locations:
+    - India
+    - Remote
+    - Bengaluru
+    - Bangalore
+    - Hyderabad
+    - Pune
+    - Chennai
+    - Mumbai
+    - Delhi
+    - Gurugram
+    - Gurgaon
+    - Noida
+    - Ahmedabad
+    - Indore
+    - Kolkata
+    - Kochi
+    - Coimbatore
+
+  max_age_hours: 24
+
+  exclude_keywords:
+    - Senior
+    - Lead
+    - Architect
+    - Manager
+
+settings:
+  timeout_seconds: 20
+  max_jobs_per_source: 100
+
+output:
+  json_file: data/jobs.json
