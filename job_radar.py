@@ -1558,16 +1558,6 @@ adzuna_jobs = (
 )
 
 
-print(
-
-    "\n[Adzuna] Unique matching jobs:",
-
-    len(
-        adzuna_jobs
-    )
-
-)
-
 
 # =========================================================
 # MERGE ALL NEW SOURCES
