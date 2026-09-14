@@ -104,9 +104,20 @@ LEVER_SITES = [
     },
 
     {
-        "company": "Meesho",
-        "site": "meesho"
-    },]
+    "company": "Meesho",
+    "site": "meesho"
+},
+
+{
+    "company": "Warner Music Group",
+    "site": "wmg"
+},
+
+{
+    "company": "Wing Assistant",
+    "site": "getwingapp"
+}
+]
 
 
 SEEN_FILE = "data/lever_seen.json"
@@ -518,8 +529,11 @@ def is_india_job(job):
     )
 
 
-    if country == "in":
-        return True
+    if country:
+        return country in {
+        "in",
+        "india"
+    }
 
 
     india_terms = [
