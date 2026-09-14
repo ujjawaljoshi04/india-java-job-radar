@@ -1,4 +1,9 @@
+@"
 .venv/
 __pycache__/
 *.pyc
 .env
+adzuna_test.py
+greenhouse_multi_test.py
+greenhouse_test.py
+"@ | Set-Content .gitignore
