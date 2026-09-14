@@ -1112,5 +1112,281 @@
     "company": "Zimperium",
     "title": "Technical Product Support Engineer - Endpoint/MTD (Device) & Cybersecurity",
     "baseline": false
+  },
+  "hevodata:cfdb183c-e9f4-4877-8b8c-bd7a3b4a7fde": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "hevodata:a7f26742-f965-4a59-840d-f7afa0a28176": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "AI Solution Engineer",
+    "baseline": false
+  },
+  "hevodata:d8ea771e-fe9b-4c14-b184-4bed18296928": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Analytics Manager",
+    "baseline": false
+  },
+  "hevodata:f74eb975-45dd-47a8-a27a-5880d1d776c7": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Associate Account Executive (SMB - US)",
+    "baseline": false
+  },
+  "hevodata:a49edaa6-dd55-4e15-930e-ed0228169da2": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Associate Director - Technical Account Management",
+    "baseline": false
+  },
+  "hevodata:cf7e9545-dc6a-4116-af4c-70ad3da9a37c": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Associate Director - Technical Account Management",
+    "baseline": false
+  },
+  "hevodata:277fa847-0d99-4565-a0fc-b2e6089f6cc4": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Business Development Representative (US)",
+    "baseline": false
+  },
+  "hevodata:96b31db5-3825-4a1b-868b-43ed969848d1": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Director of Engineering",
+    "baseline": false
+  },
+  "hevodata:c8c4adc7-f565-46cb-8928-ae2b57555d48": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Engineering Manager",
+    "baseline": false
+  },
+  "hevodata:a170b9aa-eb95-4819-bbcd-aa5e12b2c826": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Event Marketing Specialist",
+    "baseline": false
+  },
+  "hevodata:339545b3-8cbe-4630-966e-f5b852a2d3d1": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Finance Manager",
+    "baseline": false
+  },
+  "hevodata:e5f3a222-9686-4c2d-959f-6238eab503b0": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "PLG Growth Manager",
+    "baseline": false
+  },
+  "hevodata:c665b22f-6336-4ec2-88d8-4165f51d5396": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Product Manager",
+    "baseline": false
+  },
+  "hevodata:5876f95d-c1c3-4959-8321-e569120bc901": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Sales Manager - US",
+    "baseline": false
+  },
+  "hevodata:6cbbe304-e065-4711-bf3e-756795d2bc2a": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "SDE I",
+    "baseline": false
+  },
+  "hevodata:53987105-3d28-42b1-9132-3672abcef2aa": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "SDE II",
+    "baseline": false
+  },
+  "hevodata:3d8a647b-44f5-4615-8623-2f9142b34602": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "SDE III",
+    "baseline": false
+  },
+  "hevodata:c396cf1e-6a73-475d-b84b-aa90f916c8a2": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "SDE-  IV  / Lead Engineer",
+    "baseline": false
+  },
+  "hevodata:c980e017-70b5-44ad-aa84-ab0664ade0de": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Account Executive",
+    "baseline": false
+  },
+  "hevodata:78b3c3f9-6e0e-4e1b-9716-25bad2d5b532": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Account Manager",
+    "baseline": false
+  },
+  "hevodata:20a999d9-db54-4534-814a-fe69d01abc16": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior BDR (North America Market)",
+    "baseline": false
+  },
+  "hevodata:308fe760-b657-45d3-ab4c-a13efdcf230f": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Data Analyst",
+    "baseline": false
+  },
+  "hevodata:4d46a036-002b-4817-ae13-69185ffb4ce3": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Director, Sales Engineering",
+    "baseline": false
+  },
+  "hevodata:9e8b22dd-245b-4e8d-a2a4-3b905a3ff1f5": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Frontend Developer (Marketing)",
+    "baseline": false
+  },
+  "hevodata:fa7b8a9c-dc0a-45f4-81c6-739cd114460a": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Fullstack Engineer - Marketing",
+    "baseline": false
+  },
+  "hevodata:3c22a84f-7eb6-4105-aa3b-7698322a98af": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Product Designer",
+    "baseline": false
+  },
+  "hevodata:a314fc47-9ba4-4b9e-a0da-0e22b9ea6a45": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Sales Engineer",
+    "baseline": false
+  },
+  "hevodata:c34f6ebe-c5e9-4482-bba3-f6e89b9cdb32": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior SEO Specialist/Manager",
+    "baseline": false
+  },
+  "hevodata:370f9639-f2c5-4647-a4ab-8d070f71549f": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Visual Designer",
+    "baseline": false
+  },
+  "hevodata:86fd190d-754d-45b6-9f04-59585dc6d15b": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Solution Engineer (Post-sales)",
+    "baseline": false
+  },
+  "hevodata:8a0f0134-9781-457d-a588-ef9b0eacb184": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Solution Engineer (Post-sales)",
+    "baseline": false
+  },
+  "hevodata:ee02ca24-94ec-415b-ab36-7dec4d62099b": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Solutions Engineer",
+    "baseline": false
+  },
+  "hevodata:5e3fb7c5-94ae-4848-9068-a362bf103746": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Sr Recruiter - GTM",
+    "baseline": false
+  },
+  "hevodata:3058284b-babf-4764-a0b9-552501d6005a": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Sr. Tech Recruiter",
+    "baseline": false
+  },
+  "hevodata:5a453311-2088-4916-812e-ec402e9c6a1c": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "hevodata:8d0ee4a7-1ecb-4129-af6b-14abc69b84e5": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Strategy & Ops (Founder's Office)",
+    "baseline": false
+  },
+  "hevodata:e927d9dc-e132-43fb-a58e-c4206e824a28": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Talent Acquisition Manager",
+    "baseline": false
+  },
+  "hevodata:8f922c73-c3c5-445d-aedc-1e531ea099f7": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Tech Lead",
+    "baseline": false
+  },
+  "hevodata:c712254d-4ac5-46d9-8430-fde1242eca40": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Account Manager",
+    "baseline": false
+  },
+  "hevodata:c6b90bb1-d645-4bb5-9f87-44aec3dd2783": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Lead Manager",
+    "baseline": false
+  },
+  "hevodata:251010a4-5da6-4c8c-afe1-4c6f4ee45be8": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Product Marketing",
+    "baseline": false
+  },
+  "hevodata:4f174de1-5f37-443a-b379-b6f55d9d7727": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Program Manager",
+    "baseline": false
+  },
+  "hevodata:69ebcdbb-03cb-4800-91c6-426c60f91d65": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Program Manager",
+    "baseline": false
+  },
+  "hevodata:433ffdef-3125-48ed-a131-52c697c321ee": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "UX Design Intern",
+    "baseline": false
+  },
+  "hevodata:8cbb28f0-746d-4887-b32f-8242cbb5d56a": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "Video Marketer",
+    "baseline": false
+  },
+  "hevodata:ec8d8975-d200-4c20-a53c-e095c964230e": {
+    "first_seen": "2026-09-14T13:34:53.198444+00:00",
+    "company": "Hevo Data",
+    "title": "VP Product Marketing",
+    "baseline": false
   }
 }
