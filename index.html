@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
@@ -29,13 +28,14 @@
 
             font-family:
                 Arial,
+                Helvetica,
                 sans-serif;
 
             background:
-                #f4f6f8;
+                #f3f4f6;
 
             color:
-                #222;
+                #111827;
         }
 
 
@@ -48,7 +48,7 @@
                 white;
 
             padding:
-                35px 20px;
+                38px 20px;
 
             text-align:
                 center;
@@ -57,33 +57,34 @@
 
         header h1 {
 
-            margin: 0;
+            margin:
+                0 0 12px 0;
 
             font-size:
-                34px;
+                36px;
         }
 
 
         header p {
 
-            color:
-                #cbd5e1;
+            margin:
+                6px 0;
 
-            margin-top:
-                14px;
+            color:
+                #d1d5db;
         }
 
 
         .container {
 
-            max-width:
-                1200px;
+            width:
+                min(
+                    1100px,
+                    92%
+                );
 
             margin:
-                auto;
-
-            padding:
-                30px 20px;
+                30px auto 60px auto;
         }
 
 
@@ -96,23 +97,29 @@
                 bold;
 
             margin-bottom:
-                8px;
+                10px;
         }
 
 
         .refresh-info {
 
+            display:
+                flex;
+
+            flex-wrap:
+                wrap;
+
+            gap:
+                10px 25px;
+
+            margin-bottom:
+                20px;
+
             color:
-                #666;
+                #6b7280;
 
             font-size:
                 14px;
-
-            line-height:
-                1.7;
-
-            margin-bottom:
-                22px;
         }
 
 
@@ -121,14 +128,14 @@
             display:
                 flex;
 
-            gap:
-                10px;
-
             flex-wrap:
                 wrap;
 
+            gap:
+                12px;
+
             margin-bottom:
-                28px;
+                25px;
         }
 
 
@@ -136,16 +143,16 @@
         select {
 
             padding:
-                13px;
+                12px 13px;
 
             border:
-                1px solid #ccc;
+                1px solid #d1d5db;
 
             border-radius:
                 8px;
 
             font-size:
-                14px;
+                15px;
 
             background:
                 white;
@@ -155,10 +162,25 @@
         input {
 
             flex:
-                1;
+                1 1 300px;
+        }
+
+
+        select {
 
             min-width:
-                260px;
+                170px;
+        }
+
+
+        input:focus,
+        select:focus {
+
+            outline:
+                2px solid #bfdbfe;
+
+            border-color:
+                #2563eb;
         }
 
 
@@ -215,6 +237,44 @@
 
             line-height:
                 1.9;
+        }
+
+
+        .source-badge {
+
+            display:
+                inline-block;
+
+            padding:
+                3px 8px;
+
+            border-radius:
+                999px;
+
+            background:
+                #eef2ff;
+
+            color:
+                #3730a3;
+
+            font-size:
+                12px;
+
+            font-weight:
+                bold;
+
+            text-transform:
+                uppercase;
+        }
+
+
+        .provider {
+
+            color:
+                #6b7280;
+
+            font-size:
+                13px;
         }
 
 
@@ -304,11 +364,9 @@
         ☕ India Java Job Radar
     </h1>
 
-
     <p>
         Java • Spring Boot • Backend • Microservices
     </p>
-
 
     <p>
         Jobs posted within the last 24 hours
@@ -324,27 +382,20 @@
         id="stats"
         class="stats"
     >
-
         Loading jobs...
-
     </div>
 
 
     <div class="refresh-info">
 
         <div id="lastRefreshed">
-
             Latest job posted:
             Loading...
-
         </div>
 
-
         <div id="automationRefreshed">
-
             Data refreshed:
             Loading...
-
         </div>
 
     </div>
@@ -353,12 +404,16 @@
     <div class="filters">
 
 
+        <!-- SEARCH -->
+
         <input
             type="text"
             id="searchInput"
             placeholder="Search title, company, location..."
         >
 
+
+        <!-- EXPERIENCE -->
 
         <select id="experienceFilter">
 
@@ -380,6 +435,35 @@
 
         </select>
 
+
+        <!-- SOURCE -->
+
+        <select id="sourceFilter">
+
+            <option value="">
+                All Sources
+            </option>
+
+            <option value="jooble">
+                Jooble
+            </option>
+
+            <option value="greenhouse">
+                Greenhouse
+            </option>
+
+            <option value="lever">
+                Lever
+            </option>
+
+            <option value="ashby">
+                Ashby
+            </option>
+
+        </select>
+
+
+        <!-- SORT -->
 
         <select id="sortFilter">
 
@@ -416,7 +500,6 @@
     async function loadJobs() {
 
         try {
-
 
             const response =
                 await fetch(
@@ -594,6 +677,7 @@
 
                 "Latest job posted: No jobs available";
 
+
             return;
 
         }
@@ -627,12 +711,18 @@
 
                 "Latest job posted: Not available";
 
+
             return;
 
         }
 
 
-        validJobs.sort(
+        const sortedJobs = [
+            ...validJobs
+        ];
+
+
+        sortedJobs.sort(
 
             (a, b) =>
 
@@ -650,7 +740,7 @@
 
 
         const latest =
-            validJobs[0];
+            sortedJobs[0];
 
 
         document
@@ -728,6 +818,122 @@
 
 
     // =====================================================
+    // SOURCE NAME FORMATTER
+    // =====================================================
+
+    function formatSource(
+        source
+    ) {
+
+        const sourceMap = {
+
+            jooble:
+                "Jooble",
+
+            greenhouse:
+                "Greenhouse",
+
+            lever:
+                "Lever",
+
+            ashby:
+                "Ashby"
+
+        };
+
+
+        const normalized =
+            (
+                source ||
+                "unknown"
+            )
+            .toLowerCase();
+
+
+        return (
+            sourceMap[normalized]
+            ||
+            source
+            ||
+            "Unknown"
+        );
+
+    }
+
+
+    // =====================================================
+    // ESCAPE HTML
+    // =====================================================
+
+    function escapeHtml(value) {
+
+        return String(
+            value ?? ""
+        )
+        .replaceAll(
+            "&",
+            "&amp;"
+        )
+        .replaceAll(
+            "<",
+            "&lt;"
+        )
+        .replaceAll(
+            ">",
+            "&gt;"
+        )
+        .replaceAll(
+            '"',
+            "&quot;"
+        )
+        .replaceAll(
+            "'",
+            "&#039;"
+        );
+
+    }
+
+
+    // =====================================================
+    // SAFE LINK
+    // =====================================================
+
+    function getSafeApplyLink(
+        value
+    ) {
+
+        try {
+
+            const url =
+                new URL(
+                    value
+                );
+
+
+            if (
+                url.protocol === "http:"
+                ||
+                url.protocol === "https:"
+            ) {
+
+                return url.href;
+
+            }
+
+
+        } catch (error) {
+
+            return "#";
+
+        }
+
+
+        return "#";
+
+    }
+
+
+    // =====================================================
     // RENDER JOBS
     // =====================================================
 
@@ -748,7 +954,9 @@
 
         stats.innerText =
 
-            `${jobs.length} matching jobs found`;
+            `${jobs.length} matching jobs found`
+            +
+            ` • ${allJobs.length} total`;
 
 
         container.innerHTML =
@@ -791,25 +999,95 @@
                     "job-card";
 
 
+                const title =
+                    escapeHtml(
+                        job.title ||
+                        "Unknown Role"
+                    );
+
+
+                const company =
+                    escapeHtml(
+                        job.company ||
+                        "Unknown Company"
+                    );
+
+
+                const location =
+                    escapeHtml(
+                        job.location ||
+                        "Not specified"
+                    );
+
+
+                const experience =
+                    escapeHtml(
+                        job.experience ||
+                        "Not specified"
+                    );
+
+
+                const source =
+                    escapeHtml(
+                        formatSource(
+                            job.source
+                        )
+                    );
+
+
+                const applyLink =
+                    getSafeApplyLink(
+                        job.apply_link
+                    );
+
+
+                let providerHtml =
+                    "";
+
+
+                if (
+                    job.original_source
+                    &&
+                    job.source === "jooble"
+                    &&
+                    job.original_source
+                        .toLowerCase()
+                        !== "jooble"
+                ) {
+
+                    providerHtml = `
+
+                        <br>
+
+                        <span class="provider">
+
+                            Original provider:
+                            ${
+                                escapeHtml(
+                                    job.original_source
+                                )
+                            }
+
+                        </span>
+
+                    `;
+
+                }
+
+
                 card.innerHTML = `
 
 
                     <div class="job-title">
 
-                        ${
-                            job.title ||
-                            "Unknown Role"
-                        }
+                        ${title}
 
                     </div>
 
 
                     <div class="company">
 
-                        ${
-                            job.company ||
-                            "Unknown Company"
-                        }
+                        ${company}
 
                     </div>
 
@@ -817,20 +1095,14 @@
                     <div class="details">
 
 
-                        📍 ${
-                            job.location ||
-                            "Not specified"
-                        }
+                        📍 ${location}
 
 
                         <br>
 
 
                         💼 Experience:
-                        ${
-                            job.experience ||
-                            "Not specified"
-                        }
+                        ${experience}
 
 
                         <br>
@@ -848,10 +1120,15 @@
 
 
                         🔎 Source:
-                        ${
-                            job.source ||
-                            "Unknown"
-                        }
+
+                        <span class="source-badge">
+
+                            ${source}
+
+                        </span>
+
+
+                        ${providerHtml}
 
 
                     </div>
@@ -859,9 +1136,7 @@
 
                     <a
 
-                        href="${
-                            job.apply_link
-                        }"
+                        href="${applyLink}"
 
                         target="_blank"
 
@@ -900,7 +1175,8 @@
 
 
         if (
-            !experience ||
+            !experience
+            ||
             experience ===
             "Not specified"
         ) {
@@ -939,7 +1215,9 @@
             );
 
 
-        return minimum <= 2;
+        return (
+            minimum <= 2
+        );
 
     }
 
@@ -967,6 +1245,15 @@
                     "experienceFilter"
                 )
                 .value;
+
+
+        const source =
+            document
+                .getElementById(
+                    "sourceFilter"
+                )
+                .value
+                .toLowerCase();
 
 
         const sort =
@@ -1007,6 +1294,14 @@
                         .toLowerCase();
 
 
+                    const jobSource =
+                        (
+                            job.source ||
+                            ""
+                        )
+                        .toLowerCase();
+
+
                     const exp =
                         (
                             job.experience ||
@@ -1026,6 +1321,10 @@
                                 search
                             );
 
+
+                    // =====================================
+                    // EXPERIENCE MATCH
+                    // =====================================
 
                     let matchesExperience =
                         true;
@@ -1071,11 +1370,28 @@
                     }
 
 
+                    // =====================================
+                    // SOURCE MATCH
+                    // =====================================
+
+                    const matchesSource =
+
+                        !source
+                        ||
+                        jobSource === source;
+
+
                     return (
 
-                        matchesSearch &&
+                        matchesSearch
+
+                        &&
 
                         matchesExperience
+
+                        &&
+
+                        matchesSource
 
                     );
 
@@ -1084,6 +1400,10 @@
             );
 
 
+        // =================================================
+        // SORT
+        // =================================================
+
         filtered.sort(
 
             (a, b) => {
@@ -1091,13 +1411,15 @@
 
                 const dateA =
                     new Date(
-                        a.updated || 0
+                        a.updated ||
+                        0
                     );
 
 
                 const dateB =
                     new Date(
-                        b.updated || 0
+                        b.updated ||
+                        0
                     );
 
 
@@ -1148,6 +1470,16 @@
     document
         .getElementById(
             "experienceFilter"
+        )
+        .addEventListener(
+            "change",
+            filterJobs
+        );
+
+
+    document
+        .getElementById(
+            "sourceFilter"
         )
         .addEventListener(
             "change",
