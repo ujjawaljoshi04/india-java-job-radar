@@ -204,8 +204,8 @@
 
             const response =
                 await fetch(
-                    "./data/jobs.json"
-                );
+    "https://raw.githubusercontent.com/ujjawaljoshi04/india-java-job-radar/main/data/jobs.json?t=" + Date.now()
+);
 
 
             if (!response.ok) {
