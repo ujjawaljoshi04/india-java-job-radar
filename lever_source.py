@@ -40,6 +40,17 @@ LEVER_SITES = [
     {
         "company": "Hevo Data",
         "site": "hevodata"
+    },
+
+    {
+        "company": "Veeva Systems",
+        "site": "veeva",
+        "exclude_title_terms": [
+            "test automation",
+            "release engineer",
+            "infra",
+            "test infrastructure"
+        ]
     }
 
 ]
@@ -628,6 +639,14 @@ def fetch_lever_jobs(
             "site"
         ]
 
+        company_excluded_title_terms = [
+            term.lower()
+            for term in site_config.get(
+                "exclude_title_terms",
+                []
+            )
+        ]
+
 
         print(
             f"\n[Lever] Scanning {company}"
@@ -721,18 +740,31 @@ def fetch_lever_jobs(
             )
 
 
-            description = (
-                job.get(
-                    "descriptionPlain"
-                )
-                or
-                job.get(
-                    "descriptionBodyPlain"
-                )
-                or
-                ""
-            )
+            description_parts = [
+                job.get("descriptionPlain") or "",
+                job.get("descriptionBodyPlain") or "",
+                job.get("additionalPlain") or ""
+            ]
 
+
+            for item in job.get(
+                "lists",
+                []
+            ):
+
+                description_parts.append(
+                    str(
+                        item.get(
+                            "content",
+                            ""
+                        )
+                    )
+                )
+
+
+            description = " ".join(
+                description_parts
+            )
 
             categories = (
                 job.get("categories")
@@ -795,6 +827,18 @@ def fetch_lever_jobs(
 
             if is_excluded_title(
                 title
+            ):
+                continue
+
+            title_lower = (
+                title
+                or ""
+            ).lower()
+
+
+            if any(
+                term in title_lower
+                for term in company_excluded_title_terms
             ):
                 continue
 
