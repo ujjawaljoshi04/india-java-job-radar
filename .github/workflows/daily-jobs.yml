@@ -1,0 +1,73 @@
+name: Daily Java Job Refresh
+
+on:
+  # Run every day at 9:00 AM IST
+  # GitHub Actions cron uses UTC
+  schedule:
+    - cron: "30 3 * * *"
+
+  # Also allows us to run it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-jobs:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ---------------------------------------
+      # 1. Download repository
+      # ---------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      # ---------------------------------------
+      # 2. Setup Python
+      # ---------------------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+
+      # ---------------------------------------
+      # 3. Install dependencies
+      # ---------------------------------------
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+
+      # ---------------------------------------
+      # 4. Run Job Radar
+      # ---------------------------------------
+      - name: Fetch latest Java jobs
+        env:
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+        run: |
+          python job_radar.py
+
+
+      # ---------------------------------------
+      # 5. Save updated jobs.json
+      # ---------------------------------------
+      - name: Commit updated jobs
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/jobs.json
+
+          if git diff --cached --quiet; then
+            echo "No job changes found."
+          else
+            git commit -m "Daily job refresh"
+            git push
+          fi
