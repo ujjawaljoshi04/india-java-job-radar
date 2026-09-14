@@ -3,6 +3,7 @@ import re
 import json
 import yaml
 import requests
+from adzuna_source import fetch_adzuna_jobs
 
 from datetime import datetime, timedelta, timezone
 from dateutil import parser
@@ -474,15 +475,12 @@ def create_job_key(job):
 def source_priority(source):
 
     priority = {
-
-        # Direct company ATS sources
         "greenhouse": 4,
         "lever": 4,
         "ashby": 4,
 
-        # Aggregator
+        "adzuna": 2,
         "jooble": 2
-
     }
 
 
@@ -932,6 +930,42 @@ print(
     len(ashby_jobs)
 )
 
+# =========================================================
+# SOURCE 5: ADZUNA
+# =========================================================
+
+print(
+    "\n" + "=" * 70
+)
+
+print("SOURCE 5: ADZUNA")
+
+print("=" * 70)
+
+
+adzuna_jobs = fetch_adzuna_jobs(
+
+    max_age_hours=
+        max_age_hours,
+
+    user_min_exp=
+        USER_MIN_EXP,
+
+    user_max_exp=
+        USER_MAX_EXP
+
+)
+
+
+adzuna_jobs = deduplicate_jobs(
+    adzuna_jobs
+)
+
+
+print(
+    "\n[Adzuna] Unique matching jobs:",
+    len(adzuna_jobs)
+)
 
 # =========================================================
 # MERGE ALL NEW SOURCES
@@ -952,6 +986,10 @@ new_jobs = (
     +
 
     ashby_jobs
+
+    +
+
+    adzuna_jobs
 
 )
 
@@ -1147,9 +1185,15 @@ refresh_metadata = {
         len(lever_jobs),
 
 
-    "ashby_new_jobs":
+   "ashby_new_jobs":
 
-        len(ashby_jobs),
+    len(ashby_jobs),
+
+
+"adzuna_new_jobs":
+
+    len(adzuna_jobs),
+        
 
 
     "total_new_jobs":
@@ -1248,6 +1292,11 @@ print(
 print(
     "Ashby new jobs:",
     len(ashby_jobs)
+)
+
+print(
+    "Adzuna new jobs:",
+    len(adzuna_jobs)
 )
 
 
