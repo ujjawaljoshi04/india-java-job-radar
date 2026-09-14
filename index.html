@@ -32,10 +32,10 @@
                 sans-serif;
 
             background:
-                #f3f4f6;
+                #f4f6f8;
 
             color:
-                #111827;
+                #1f2937;
         }
 
 
@@ -47,21 +47,21 @@
             color:
                 white;
 
-            padding:
-                38px 20px;
-
             text-align:
                 center;
+
+            padding:
+                32px 20px;
         }
 
 
         header h1 {
 
             margin:
-                0 0 12px 0;
+                0 0 10px;
 
             font-size:
-                36px;
+                34px;
         }
 
 
@@ -80,24 +80,37 @@
             width:
                 min(
                     1100px,
-                    92%
+                    calc(100% - 30px)
                 );
 
             margin:
-                30px auto 60px auto;
+                30px auto;
         }
 
 
         .stats {
 
+            background:
+                white;
+
+            padding:
+                18px;
+
+            border-radius:
+                12px;
+
             font-size:
-                20px;
+                18px;
 
             font-weight:
                 bold;
 
             margin-bottom:
-                10px;
+                12px;
+
+            box-shadow:
+                0 2px 10px
+                rgba(0, 0, 0, 0.06);
         }
 
 
@@ -106,11 +119,14 @@
             display:
                 flex;
 
-            flex-wrap:
-                wrap;
+            justify-content:
+                space-between;
 
             gap:
-                10px 25px;
+                15px;
+
+            flex-wrap:
+                wrap;
 
             margin-bottom:
                 20px;
@@ -126,61 +142,64 @@
         .filters {
 
             display:
-                flex;
+                grid;
 
-            flex-wrap:
-                wrap;
+            grid-template-columns:
+                minmax(220px, 2fr)
+                repeat(
+                    4,
+                    minmax(150px, 1fr)
+                );
 
             gap:
-                12px;
+                10px;
 
             margin-bottom:
-                25px;
+                24px;
         }
 
 
         input,
         select {
 
-            padding:
-                12px 13px;
+            width:
+                100%;
 
             border:
-                1px solid #d1d5db;
+                1px solid
+                #d1d5db;
+
+            background:
+                white;
+
+            padding:
+                12px 13px;
 
             border-radius:
                 8px;
 
             font-size:
-                15px;
+                14px;
 
-            background:
-                white;
-        }
-
-
-        input {
-
-            flex:
-                1 1 300px;
-        }
-
-
-        select {
-
-            min-width:
-                170px;
+            outline:
+                none;
         }
 
 
         input:focus,
         select:focus {
 
-            outline:
-                2px solid #bfdbfe;
-
             border-color:
                 #2563eb;
+
+            box-shadow:
+                0 0 0 2px
+                rgba(
+                    37,
+                    99,
+                    235,
+                    0.12
+                );
         }
 
 
@@ -204,6 +223,14 @@
         }
 
 
+        .job-card:hover {
+
+            box-shadow:
+                0 5px 18px
+                rgba(0, 0, 0, 0.11);
+        }
+
+
         .job-title {
 
             font-size:
@@ -214,6 +241,9 @@
 
             margin-bottom:
                 7px;
+
+            line-height:
+                1.4;
         }
 
 
@@ -226,7 +256,7 @@
                 #374151;
 
             margin-bottom:
-                8px;
+                10px;
         }
 
 
@@ -249,7 +279,7 @@
                 3px 8px;
 
             border-radius:
-                999px;
+                12px;
 
             background:
                 #eef2ff;
@@ -262,19 +292,6 @@
 
             font-weight:
                 bold;
-
-            text-transform:
-                uppercase;
-        }
-
-
-        .provider {
-
-            color:
-                #6b7280;
-
-            font-size:
-                13px;
         }
 
 
@@ -300,6 +317,9 @@
 
             border-radius:
                 7px;
+
+            font-weight:
+                bold;
         }
 
 
@@ -312,19 +332,47 @@
 
         .no-jobs {
 
+            background:
+                white;
+
             text-align:
                 center;
 
             padding:
-                40px;
+                45px;
 
             color:
                 #777;
+
+            border-radius:
+                12px;
         }
 
 
         @media (
-            max-width: 700px
+            max-width: 950px
+        ) {
+
+            .filters {
+
+                grid-template-columns:
+                    repeat(
+                        2,
+                        1fr
+                    );
+            }
+
+
+            #searchInput {
+
+                grid-column:
+                    1 / -1;
+            }
+        }
+
+
+        @media (
+            max-width: 600px
         ) {
 
             header h1 {
@@ -336,6 +384,9 @@
 
             .filters {
 
+                display:
+                    flex;
+
                 flex-direction:
                     column;
             }
@@ -346,6 +397,16 @@
 
                 width:
                     100%;
+            }
+
+
+            .refresh-info {
+
+                flex-direction:
+                    column;
+
+                gap:
+                    5px;
             }
 
         }
@@ -382,24 +443,35 @@
         id="stats"
         class="stats"
     >
+
         Loading jobs...
+
     </div>
 
 
     <div class="refresh-info">
 
         <div id="lastRefreshed">
+
             Latest job posted:
             Loading...
+
         </div>
 
+
         <div id="automationRefreshed">
+
             Data refreshed:
             Loading...
+
         </div>
 
     </div>
 
+
+    <!-- ================================================= -->
+    <!-- FILTERS                                           -->
+    <!-- ================================================= -->
 
     <div class="filters">
 
@@ -436,6 +508,65 @@
         </select>
 
 
+        <!-- LOCATION -->
+
+        <select id="locationFilter">
+
+            <option value="">
+                All Locations
+            </option>
+
+            <option value="remote">
+                Remote
+            </option>
+
+            <option value="bangalore">
+                Bangalore / Bengaluru
+            </option>
+
+            <option value="hyderabad">
+                Hyderabad
+            </option>
+
+            <option value="pune">
+                Pune
+            </option>
+
+            <option value="chennai">
+                Chennai
+            </option>
+
+            <option value="mumbai">
+                Mumbai
+            </option>
+
+            <option value="delhi">
+                Delhi
+            </option>
+
+            <option value="gurgaon">
+                Gurgaon / Gurugram
+            </option>
+
+            <option value="noida">
+                Noida
+            </option>
+
+            <option value="indore">
+                Indore
+            </option>
+
+            <option value="kolkata">
+                Kolkata
+            </option>
+
+            <option value="india">
+                India / Other
+            </option>
+
+        </select>
+
+
         <!-- SOURCE -->
 
         <select id="sourceFilter">
@@ -459,9 +590,10 @@
             <option value="ashby">
                 Ashby
             </option>
+
             <option value="adzuna">
-    Adzuna
-</option>
+                Adzuna
+            </option>
 
         </select>
 
@@ -493,7 +625,144 @@
 <script>
 
 
+    // =====================================================
+    // GLOBAL DATA
+    // =====================================================
+
     let allJobs = [];
+
+
+    // =====================================================
+    // HTML ESCAPE
+    // =====================================================
+
+    function escapeHtml(value) {
+
+        return String(
+            value ?? ""
+        )
+        .replace(
+            /&/g,
+            "&amp;"
+        )
+        .replace(
+            /</g,
+            "&lt;"
+        )
+        .replace(
+            />/g,
+            "&gt;"
+        )
+        .replace(
+            /"/g,
+            "&quot;"
+        )
+        .replace(
+            /'/g,
+            "&#039;"
+        );
+
+    }
+
+
+    // =====================================================
+    // SAFE APPLY URL
+    // =====================================================
+
+    function safeUrl(value) {
+
+        if (!value) {
+
+            return "#";
+
+        }
+
+
+        try {
+
+            const url =
+                new URL(
+                    value
+                );
+
+
+            if (
+
+                url.protocol ===
+                "http:"
+
+                ||
+
+                url.protocol ===
+                "https:"
+
+            ) {
+
+                return url.href;
+
+            }
+
+        }
+
+        catch (error) {
+
+            console.warn(
+                "Invalid job URL:",
+                value
+            );
+
+        }
+
+
+        return "#";
+
+    }
+
+
+    // =====================================================
+    // SOURCE NAME
+    // =====================================================
+
+    function formatSource(
+        source
+    ) {
+
+        const sourceMap = {
+
+            jooble:
+                "Jooble",
+
+            greenhouse:
+                "Greenhouse",
+
+            lever:
+                "Lever",
+
+            ashby:
+                "Ashby",
+
+            adzuna:
+                "Adzuna"
+
+        };
+
+
+        const key =
+            String(
+                source || ""
+            )
+            .toLowerCase();
+
+
+        return (
+            sourceMap[key]
+            ||
+            source
+            ||
+            "Unknown"
+        );
+
+    }
 
 
     // =====================================================
@@ -503,6 +772,7 @@
     async function loadJobs() {
 
         try {
+
 
             const response =
                 await fetch(
@@ -526,6 +796,19 @@
                 await response.json();
 
 
+            if (
+                !Array.isArray(
+                    allJobs
+                )
+            ) {
+
+                throw new Error(
+                    "jobs.json is not an array"
+                );
+
+            }
+
+
             updateLatestJobTime();
 
 
@@ -535,7 +818,9 @@
             filterJobs();
 
 
-        } catch (error) {
+        }
+
+        catch (error) {
 
 
             console.error(
@@ -630,8 +915,10 @@
                         "en-IN",
 
                         {
+
                             timeZone:
                                 "Asia/Kolkata"
+
                         }
 
                     )
@@ -639,7 +926,9 @@
                 + " IST";
 
 
-        } catch (error) {
+        }
+
+        catch (error) {
 
 
             console.error(
@@ -668,9 +957,15 @@
 
 
         if (
-            !allJobs ||
+
+            !allJobs
+
+            ||
+
             allJobs.length === 0
+
         ) {
+
 
             document
                 .getElementById(
@@ -689,15 +984,28 @@
         const validJobs =
             allJobs.filter(
 
-                job =>
+                job => {
 
-                    job.updated &&
+                    if (!job.updated) {
 
-                    !isNaN(
+                        return false;
+
+                    }
+
+
+                    const date =
                         new Date(
                             job.updated
+                        );
+
+
+                    return (
+                        !isNaN(
+                            date.getTime()
                         )
-                    )
+                    );
+
+                }
 
             );
 
@@ -705,6 +1013,7 @@
         if (
             validJobs.length === 0
         ) {
+
 
             document
                 .getElementById(
@@ -720,30 +1029,49 @@
         }
 
 
-        const sortedJobs = [
-            ...validJobs
-        ];
-
-
-        sortedJobs.sort(
-
-            (a, b) =>
-
-                new Date(
-                    b.updated
-                )
-
-                -
-
-                new Date(
-                    a.updated
-                )
-
-        );
-
-
         const latest =
-            sortedJobs[0];
+            validJobs.reduce(
+
+                (
+                    currentLatest,
+                    job
+                ) => {
+
+
+                    if (!currentLatest) {
+
+                        return job;
+
+                    }
+
+
+                    return (
+
+                        new Date(
+                            job.updated
+                        )
+
+                        >
+
+                        new Date(
+                            currentLatest.updated
+                        )
+
+                    )
+
+                    ?
+
+                    job
+
+                    :
+
+                    currentLatest;
+
+                },
+
+                null
+
+            );
 
 
         document
@@ -762,8 +1090,10 @@
                 "en-IN",
 
                 {
+
                     timeZone:
                         "Asia/Kolkata"
+
                 }
 
             )
@@ -796,7 +1126,9 @@
 
 
         if (
-            isNaN(date)
+            isNaN(
+                date.getTime()
+            )
         ) {
 
             return "Not specified";
@@ -804,136 +1136,281 @@
         }
 
 
-        return date.toLocaleString(
-
-            "en-IN",
-
-            {
-                timeZone:
-                    "Asia/Kolkata"
-            }
-
-        )
-
-        + " IST";
-
-    }
-
-
-    // =====================================================
-    // SOURCE NAME FORMATTER
-    // =====================================================
-
-    function formatSource(
-        source
-    ) {
-
-        const sourceMap = {
-
-            jooble:
-                "Jooble",
-
-            greenhouse:
-                "Greenhouse",
-
-            lever:
-                "Lever",
-
-            ashby:
-                "Ashby",
-                adzuna:
-    "Adzuna"
-
-        };
-
-
-        const normalized =
-            (
-                source ||
-                "unknown"
-            )
-            .toLowerCase();
-
-
         return (
-            sourceMap[normalized]
-            ||
-            source
-            ||
-            "Unknown"
+
+            date.toLocaleString(
+
+                "en-IN",
+
+                {
+
+                    timeZone:
+                        "Asia/Kolkata"
+
+                }
+
+            )
+
+            +
+
+            " IST"
+
         );
 
     }
 
 
     // =====================================================
-    // ESCAPE HTML
+    // LOCATION FILTER MATCHING
     // =====================================================
 
-    function escapeHtml(value) {
-
-        return String(
-            value ?? ""
-        )
-        .replaceAll(
-            "&",
-            "&amp;"
-        )
-        .replaceAll(
-            "<",
-            "&lt;"
-        )
-        .replaceAll(
-            ">",
-            "&gt;"
-        )
-        .replaceAll(
-            '"',
-            "&quot;"
-        )
-        .replaceAll(
-            "'",
-            "&#039;"
-        );
-
-    }
-
-
-    // =====================================================
-    // SAFE LINK
-    // =====================================================
-
-    function getSafeApplyLink(
-        value
+    function matchesLocation(
+        jobLocation,
+        selectedLocation
     ) {
 
-        try {
 
-            const url =
-                new URL(
-                    value
-                );
+        if (!selectedLocation) {
 
-
-            if (
-                url.protocol === "http:"
-                ||
-                url.protocol === "https:"
-            ) {
-
-                return url.href;
-
-            }
-
-
-        } catch (error) {
-
-            return "#";
+            return true;
 
         }
 
 
-        return "#";
+        const location =
+            String(
+                jobLocation || ""
+            )
+            .toLowerCase();
+
+
+        // ---------------------------------------------
+        // Remote
+        // ---------------------------------------------
+
+        if (
+            selectedLocation ===
+            "remote"
+        ) {
+
+            return (
+
+                location.includes(
+                    "remote"
+                )
+
+                ||
+
+                location.includes(
+                    "work from home"
+                )
+
+                ||
+
+                location.includes(
+                    "wfh"
+                )
+
+            );
+
+        }
+
+
+        // ---------------------------------------------
+        // Bangalore / Bengaluru
+        // ---------------------------------------------
+
+        if (
+            selectedLocation ===
+            "bangalore"
+        ) {
+
+            return (
+
+                location.includes(
+                    "bangalore"
+                )
+
+                ||
+
+                location.includes(
+                    "bengaluru"
+                )
+
+            );
+
+        }
+
+
+        // ---------------------------------------------
+        // Gurgaon / Gurugram
+        // ---------------------------------------------
+
+        if (
+            selectedLocation ===
+            "gurgaon"
+        ) {
+
+            return (
+
+                location.includes(
+                    "gurgaon"
+                )
+
+                ||
+
+                location.includes(
+                    "gurugram"
+                )
+
+            );
+
+        }
+
+
+        // ---------------------------------------------
+        // Delhi
+        // ---------------------------------------------
+
+        if (
+            selectedLocation ===
+            "delhi"
+        ) {
+
+            return (
+
+                location.includes(
+                    "delhi"
+                )
+
+                ||
+
+                location.includes(
+                    "new delhi"
+                )
+
+            );
+
+        }
+
+
+        // ---------------------------------------------
+        // Generic India / Other
+        // ---------------------------------------------
+
+        if (
+            selectedLocation ===
+            "india"
+        ) {
+
+            const knownLocations = [
+
+                "bangalore",
+                "bengaluru",
+                "hyderabad",
+                "pune",
+                "chennai",
+                "mumbai",
+                "delhi",
+                "gurgaon",
+                "gurugram",
+                "noida",
+                "indore",
+                "kolkata",
+                "remote"
+
+            ];
+
+
+            const isKnownCity =
+                knownLocations.some(
+
+                    city =>
+                        location.includes(
+                            city
+                        )
+
+                );
+
+
+            return (
+                !isKnownCity
+            );
+
+        }
+
+
+        // ---------------------------------------------
+        // Normal city match
+        // ---------------------------------------------
+
+        return location.includes(
+            selectedLocation
+        );
+
+    }
+
+
+    // =====================================================
+    // EXPERIENCE FILTER
+    // =====================================================
+
+    function matchesZeroToTwoYears(
+        experience
+    ) {
+
+
+        if (
+
+            !experience
+
+            ||
+
+            experience ===
+            "Not specified"
+
+        ) {
+
+            return true;
+
+        }
+
+
+        if (
+            experience ===
+            "Fresher"
+        ) {
+
+            return true;
+
+        }
+
+
+        const numbers =
+            String(
+                experience
+            )
+            .match(
+                /\d+(?:\.\d+)?/g
+            );
+
+
+        if (!numbers) {
+
+            return false;
+
+        }
+
+
+        const minimum =
+            parseFloat(
+                numbers[0]
+            );
+
+
+        return (
+            minimum <= 2
+        );
 
     }
 
@@ -942,26 +1419,30 @@
     // RENDER JOBS
     // =====================================================
 
-    function renderJobs(jobs) {
+    function renderJobs(
+        jobs
+    ) {
 
 
         const container =
-            document.getElementById(
-                "jobsContainer"
-            );
+            document
+                .getElementById(
+                    "jobsContainer"
+                );
 
 
         const stats =
-            document.getElementById(
-                "stats"
-            );
+            document
+                .getElementById(
+                    "stats"
+                );
 
 
         stats.innerText =
 
             `${jobs.length} matching jobs found`
             +
-            ` • ${allJobs.length} total`;
+            ` / ${allJobs.length} total`;
 
 
         container.innerHTML =
@@ -995,9 +1476,10 @@
 
 
                 const card =
-                    document.createElement(
-                        "div"
-                    );
+                    document
+                        .createElement(
+                            "div"
+                        );
 
 
                 card.className =
@@ -1006,78 +1488,131 @@
 
                 const title =
                     escapeHtml(
-                        job.title ||
+
+                        job.title
+                        ||
                         "Unknown Role"
+
                     );
 
 
                 const company =
                     escapeHtml(
-                        job.company ||
+
+                        job.company
+                        ||
                         "Unknown Company"
+
                     );
 
 
                 const location =
                     escapeHtml(
-                        job.location ||
+
+                        job.location
+                        ||
                         "Not specified"
+
                     );
 
 
                 const experience =
                     escapeHtml(
-                        job.experience ||
+
+                        job.experience
+                        ||
                         "Not specified"
+
                     );
 
 
                 const source =
                     escapeHtml(
+
                         formatSource(
                             job.source
                         )
+
                     );
 
 
+                let sourceDetails =
+                    source;
+
+
+                if (
+
+                    job.source ===
+                    "jooble"
+
+                    &&
+
+                    job.original_source
+
+                ) {
+
+
+                    const original =
+                        escapeHtml(
+                            job.original_source
+                        );
+
+
+                    if (
+
+                        original
+                            .toLowerCase()
+
+                        !==
+
+                        "jooble"
+
+                    ) {
+
+                        sourceDetails =
+
+                            `${source} (${original})`;
+
+                    }
+
+                }
+
+
                 const applyLink =
-                    getSafeApplyLink(
+                    safeUrl(
                         job.apply_link
                     );
 
 
-                let providerHtml =
+                const applyButton =
+
+                    applyLink !== "#"
+
+                    ?
+
+                    `
+
+                    <a
+
+                        href="${escapeHtml(applyLink)}"
+
+                        target="_blank"
+
+                        rel="noopener noreferrer"
+
+                        class="apply-button"
+
+                    >
+
+                        Apply Now →
+
+                    </a>
+
+                    `
+
+                    :
+
                     "";
-
-
-                if (
-                    job.original_source
-                    &&
-                    job.source === "jooble"
-                    &&
-                    job.original_source
-                        .toLowerCase()
-                        !== "jooble"
-                ) {
-
-                    providerHtml = `
-
-                        <br>
-
-                        <span class="provider">
-
-                            Original provider:
-                            ${
-                                escapeHtml(
-                                    job.original_source
-                                )
-                            }
-
-                        </span>
-
-                    `;
-
-                }
 
 
                 card.innerHTML = `
@@ -1115,8 +1650,10 @@
 
                         🕒 Posted:
                         ${
-                            formatDate(
-                                job.updated
+                            escapeHtml(
+                                formatDate(
+                                    job.updated
+                                )
                             )
                         }
 
@@ -1128,32 +1665,15 @@
 
                         <span class="source-badge">
 
-                            ${source}
+                            ${sourceDetails}
 
                         </span>
-
-
-                        ${providerHtml}
 
 
                     </div>
 
 
-                    <a
-
-                        href="${applyLink}"
-
-                        target="_blank"
-
-                        rel="noopener noreferrer"
-
-                        class="apply-button"
-
-                    >
-
-                        Apply Now →
-
-                    </a>
+                    ${applyButton}
 
 
                 `;
@@ -1171,68 +1691,15 @@
 
 
     // =====================================================
-    // EXPERIENCE FILTER
-    // =====================================================
-
-    function matchesZeroToTwoYears(
-        experience
-    ) {
-
-
-        if (
-            !experience
-            ||
-            experience ===
-            "Not specified"
-        ) {
-
-            return true;
-
-        }
-
-
-        if (
-            experience ===
-            "Fresher"
-        ) {
-
-            return true;
-
-        }
-
-
-        const numbers =
-            experience.match(
-                /\d+/g
-            );
-
-
-        if (!numbers) {
-
-            return false;
-
-        }
-
-
-        const minimum =
-            parseInt(
-                numbers[0]
-            );
-
-
-        return (
-            minimum <= 2
-        );
-
-    }
-
-
-    // =====================================================
     // FILTER + SORT
     // =====================================================
 
     function filterJobs() {
 
+
+        // ---------------------------------------------
+        // SEARCH
+        // ---------------------------------------------
 
         const search =
             document
@@ -1244,6 +1711,10 @@
                 .trim();
 
 
+        // ---------------------------------------------
+        // EXPERIENCE
+        // ---------------------------------------------
+
         const experience =
             document
                 .getElementById(
@@ -1251,6 +1722,23 @@
                 )
                 .value;
 
+
+        // ---------------------------------------------
+        // LOCATION
+        // ---------------------------------------------
+
+        const selectedLocation =
+            document
+                .getElementById(
+                    "locationFilter"
+                )
+                .value
+                .toLowerCase();
+
+
+        // ---------------------------------------------
+        // SOURCE
+        // ---------------------------------------------
 
         const source =
             document
@@ -1261,6 +1749,10 @@
                 .toLowerCase();
 
 
+        // ---------------------------------------------
+        // SORT
+        // ---------------------------------------------
+
         const sort =
             document
                 .getElementById(
@@ -1269,6 +1761,10 @@
                 .value;
 
 
+        // ---------------------------------------------
+        // FILTER JOBS
+        // ---------------------------------------------
+
         let filtered =
             allJobs.filter(
 
@@ -1276,48 +1772,47 @@
 
 
                     const title =
-                        (
-                            job.title ||
-                            ""
+                        String(
+                            job.title || ""
                         )
                         .toLowerCase();
 
 
                     const company =
-                        (
-                            job.company ||
-                            ""
+                        String(
+                            job.company || ""
                         )
                         .toLowerCase();
 
 
                     const location =
-                        (
-                            job.location ||
-                            ""
+                        String(
+                            job.location || ""
                         )
                         .toLowerCase();
 
 
                     const jobSource =
-                        (
-                            job.source ||
-                            ""
+                        String(
+                            job.source || ""
                         )
                         .toLowerCase();
 
 
                     const exp =
-                        (
-                            job.experience ||
-                            "Not specified"
-                        );
+                        job.experience
+                        ||
+                        "Not specified";
 
 
                     const searchableText =
 
                         `${title} ${company} ${location}`;
 
+
+                    // =====================================
+                    // SEARCH MATCH
+                    // =====================================
 
                     const matchesSearch =
 
@@ -1340,6 +1835,7 @@
                         "Not specified"
                     ) {
 
+
                         matchesExperience =
 
                             exp ===
@@ -1352,6 +1848,7 @@
                         experience ===
                         "Fresher"
                     ) {
+
 
                         matchesExperience =
 
@@ -1366,6 +1863,7 @@
                         "0-2"
                     ) {
 
+
                         matchesExperience =
 
                             matchesZeroToTwoYears(
@@ -1376,15 +1874,36 @@
 
 
                     // =====================================
+                    // LOCATION MATCH
+                    // =====================================
+
+                    const matchesJobLocation =
+
+                        matchesLocation(
+
+                            location,
+
+                            selectedLocation
+
+                        );
+
+
+                    // =====================================
                     // SOURCE MATCH
                     // =====================================
 
                     const matchesSource =
 
                         !source
+
                         ||
+
                         jobSource === source;
 
+
+                    // =====================================
+                    // FINAL MATCH
+                    // =====================================
 
                     return (
 
@@ -1393,6 +1912,10 @@
                         &&
 
                         matchesExperience
+
+                        &&
+
+                        matchesJobLocation
 
                         &&
 
@@ -1411,20 +1934,21 @@
 
         filtered.sort(
 
-            (a, b) => {
+            (
+                a,
+                b
+            ) => {
 
 
                 const dateA =
                     new Date(
-                        a.updated ||
-                        0
+                        a.updated || 0
                     );
 
 
                 const dateB =
                     new Date(
-                        b.updated ||
-                        0
+                        b.updated || 0
                     );
 
 
@@ -1432,6 +1956,7 @@
                     sort ===
                     "oldest"
                 ) {
+
 
                     return (
                         dateA -
@@ -1467,8 +1992,11 @@
             "searchInput"
         )
         .addEventListener(
+
             "input",
+
             filterJobs
+
         );
 
 
@@ -1477,8 +2005,24 @@
             "experienceFilter"
         )
         .addEventListener(
+
             "change",
+
             filterJobs
+
+        );
+
+
+    document
+        .getElementById(
+            "locationFilter"
+        )
+        .addEventListener(
+
+            "change",
+
+            filterJobs
+
         );
 
 
@@ -1487,8 +2031,11 @@
             "sourceFilter"
         )
         .addEventListener(
+
             "change",
+
             filterJobs
+
         );
 
 
@@ -1497,8 +2044,11 @@
             "sortFilter"
         )
         .addEventListener(
+
             "change",
+
             filterJobs
+
         );
 
 
