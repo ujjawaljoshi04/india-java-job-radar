@@ -1,8 +1,8 @@
 import os
 import re
+import json
 import yaml
 import requests
-import json
 
 from datetime import datetime, timedelta, timezone
 from dateutil import parser
@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 
 # =========================================================
-# LOAD ENVIRONMENT VARIABLES
+# LOAD ENVIRONMENT
 # =========================================================
 
 load_dotenv()
@@ -18,7 +18,7 @@ load_dotenv()
 API_KEY = os.getenv("JOOBLE_API_KEY")
 
 if not API_KEY:
-    raise ValueError("JOOBLE_API_KEY .env file me nahi mila")
+    raise ValueError("JOOBLE_API_KEY not found")
 
 
 # =========================================================
@@ -37,19 +37,6 @@ max_age_hours = search_config.get(
     24
 )
 
-exclude_keywords = [
-    word.lower()
-    for word in search_config.get(
-        "exclude_keywords",
-        []
-    )
-]
-
-
-# =========================================================
-# EXPERIENCE CONFIG
-# =========================================================
-
 experience_config = search_config.get(
     "experience",
     {}
@@ -65,6 +52,23 @@ USER_MAX_EXP = experience_config.get(
     2
 )
 
+exclude_keywords = [
+    word.lower()
+    for word in search_config.get(
+        "exclude_keywords",
+        []
+    )
+]
+
+output_file = config["output"].get(
+    "json_file",
+    "data/jobs.json"
+)
+
+
+# =========================================================
+# INFO
+# =========================================================
 
 print("Configured roles:")
 
@@ -78,17 +82,18 @@ print(
 
 
 # =========================================================
-# DATE FILTER
+# DATE FUNCTIONS
 # =========================================================
 
-def is_within_last_hours(updated_time, hours):
+def parse_job_date(date_value):
 
-    if not updated_time:
-        return False
+    if not date_value:
+        return None
 
     try:
+
         job_time = parser.parse(
-            updated_time
+            date_value
         )
 
         if job_time.tzinfo is None:
@@ -96,34 +101,46 @@ def is_within_last_hours(updated_time, hours):
                 tzinfo=timezone.utc
             )
 
-        now = datetime.now(
+        return job_time.astimezone(
             timezone.utc
         )
 
-        cutoff_time = now - timedelta(
-            hours=hours
-        )
+    except Exception:
 
-        return job_time >= cutoff_time
+        return None
 
-    except Exception as error:
-        print(
-            "Date parse error:",
-            updated_time,
-            error
-        )
 
+def is_within_last_hours(
+    date_value,
+    hours
+):
+
+    job_time = parse_job_date(
+        date_value
+    )
+
+    if not job_time:
         return False
 
+    now = datetime.now(
+        timezone.utc
+    )
+
+    cutoff = now - timedelta(
+        hours=hours
+    )
+
+    return job_time >= cutoff
+
 
 # =========================================================
-# SENIOR / LEAD FILTER
+# SENIOR FILTER
 # =========================================================
 
-def is_excluded(job):
+def is_excluded_title(title):
 
     title = (
-        job.get("title")
+        title
         or ""
     ).lower()
 
@@ -143,12 +160,10 @@ def is_excluded(job):
         if term in title:
             return True
 
-
     for keyword in exclude_keywords:
 
         if keyword in title:
             return True
-
 
     return False
 
@@ -157,34 +172,21 @@ def is_excluded(job):
 # EXPERIENCE PARSER
 # =========================================================
 
-def extract_experience(job):
-
-    title = (
-        job.get("title")
-        or ""
-    )
-
-    snippet = (
-        job.get("snippet")
-        or ""
-    )
+def extract_experience_from_text(text):
 
     text = (
-        title + " " + snippet
+        text
+        or ""
     ).lower()
 
-
-    # ---------------------------------------
-    # Fresher / entry level
-    # ---------------------------------------
 
     fresher_terms = [
         "fresher",
         "freshers",
         "entry level",
         "entry-level",
-        "graduate",
         "new grad",
+        "graduate trainee",
         "0 year",
         "0 years"
     ]
@@ -195,132 +197,115 @@ def extract_experience(job):
             return 0, 0
 
 
-    # ---------------------------------------
-    # Example:
-    # 1-3 years
-    # 1 - 3 years
-    # 1 to 3 years
-    # ---------------------------------------
-
-    range_pattern = re.search(
+    # 1-3 years / 1 to 3 years
+    range_match = re.search(
         r"(\d+)\s*(?:-|–|to)\s*(\d+)\s*(?:years?|yrs?)",
         text
     )
 
-    if range_pattern:
+    if range_match:
 
         minimum = int(
-            range_pattern.group(1)
+            range_match.group(1)
         )
 
         maximum = int(
-            range_pattern.group(2)
+            range_match.group(2)
         )
 
         return minimum, maximum
 
 
-    # ---------------------------------------
-    # Example:
-    # 5+ years
-    # 3+ yrs
-    # ---------------------------------------
-
-    plus_pattern = re.search(
+    # 3+ years
+    plus_match = re.search(
         r"(\d+)\s*\+\s*(?:years?|yrs?)",
         text
     )
 
-    if plus_pattern:
+    if plus_match:
 
         minimum = int(
-            plus_pattern.group(1)
+            plus_match.group(1)
         )
 
         return minimum, 99
 
 
-    # ---------------------------------------
-    # Example:
     # minimum 3 years
-    # at least 3 years
-    # ---------------------------------------
-
-    minimum_pattern = re.search(
+    minimum_match = re.search(
         r"(?:minimum|min\.?|at least)\s*(\d+)\s*(?:years?|yrs?)",
         text
     )
 
-    if minimum_pattern:
+    if minimum_match:
 
         minimum = int(
-            minimum_pattern.group(1)
+            minimum_match.group(1)
         )
 
         return minimum, 99
 
 
-    # ---------------------------------------
-    # Example:
-    # experience: 2 years
     # 2 years experience
-    # ---------------------------------------
-
-    exact_pattern = re.search(
+    exact_match = re.search(
         r"(\d+)\s*(?:years?|yrs?)\s*(?:of\s*)?(?:experience|exp)",
         text
     )
 
-    if exact_pattern:
+    if exact_match:
 
         years = int(
-            exact_pattern.group(1)
+            exact_match.group(1)
         )
 
         return years, years
 
 
-    # Experience not mentioned
     return None, None
 
 
-# =========================================================
-# EXPERIENCE MATCHING
-# =========================================================
+def experience_matches(
+    title,
+    snippet
+):
 
-def experience_matches(job):
-
-    job_min, job_max = extract_experience(
-        job
+    combined_text = (
+        f"{title or ''} "
+        f"{snippet or ''}"
     )
 
+    job_min, job_max = (
+        extract_experience_from_text(
+            combined_text
+        )
+    )
 
-    # Experience not specified.
-    # Keep the job so we don't miss suitable jobs.
+    # Experience not mentioned:
+    # keep it so we don't miss good jobs
     if job_min is None:
         return True
 
-
-    # Check if required experience range
-    # overlaps with user's experience range
-    if (
+    return (
         job_min <= USER_MAX_EXP
-        and job_max >= USER_MIN_EXP
-    ):
-        return True
+        and
+        job_max >= USER_MIN_EXP
+    )
 
 
-    return False
+def experience_label(
+    title,
+    snippet
+):
 
+    combined_text = (
+        f"{title or ''} "
+        f"{snippet or ''}"
+    )
 
-# =========================================================
-# EXPERIENCE LABEL
-# =========================================================
-
-def get_experience_label(job):
-
-    minimum, maximum = extract_experience(
-        job
+    minimum, maximum = (
+        extract_experience_from_text(
+            combined_text
+        )
     )
 
     if minimum is None:
@@ -339,74 +324,194 @@ def get_experience_label(job):
 
 
 # =========================================================
+# NORMALIZE NEW JOB
+# =========================================================
+
+def normalize_job(job):
+
+    return {
+
+        "title":
+            job.get("title"),
+
+        "company":
+            job.get("company"),
+
+        "location":
+            job.get("location"),
+
+        "experience":
+            experience_label(
+                job.get("title"),
+                job.get("snippet")
+            ),
+
+        "updated":
+            job.get("updated"),
+
+        "source":
+            job.get("source"),
+
+        "apply_link":
+            job.get("link"),
+
+        "snippet":
+            job.get("snippet")
+    }
+
+
+# =========================================================
 # DEDUPLICATION
 # =========================================================
 
+def create_job_key(job):
+
+    link = (
+        job.get("apply_link")
+        or ""
+    ).strip().lower()
+
+    if link:
+        return link
+
+    title = (
+        job.get("title")
+        or ""
+    ).strip().lower()
+
+    company = (
+        job.get("company")
+        or ""
+    ).strip().lower()
+
+    location = (
+        job.get("location")
+        or ""
+    ).strip().lower()
+
+    return (
+        f"{title}|"
+        f"{company}|"
+        f"{location}"
+    )
+
+
 def deduplicate_jobs(jobs):
 
-    unique_jobs = []
-
-    seen = set()
+    unique = {}
 
     for job in jobs:
 
-        link = (
-            job.get("link")
-            or ""
-        ).strip().lower()
+        key = create_job_key(
+            job
+        )
 
-        title = (
-            job.get("title")
-            or ""
-        ).strip().lower()
+        if not key:
+            continue
 
-        company = (
-            job.get("company")
-            or ""
-        ).strip().lower()
+        # Newer version replaces older duplicate
+        unique[key] = job
 
-        location = (
-            job.get("location")
-            or ""
-        ).strip().lower()
+    return list(
+        unique.values()
+    )
 
 
-        if link:
+# =========================================================
+# LOAD EXISTING JOBS
+# =========================================================
 
-            key = link
+def load_existing_jobs():
 
-        else:
+    if not os.path.exists(
+        output_file
+    ):
+        return []
 
-            key = (
-                f"{title}|"
-                f"{company}|"
-                f"{location}"
+    try:
+
+        with open(
+            output_file,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            jobs = json.load(
+                file
             )
 
+        if not isinstance(
+            jobs,
+            list
+        ):
+            return []
 
-        if key not in seen:
+        return jobs
 
-            seen.add(key)
+    except Exception as error:
 
-            unique_jobs.append(job)
+        print(
+            "Could not load existing jobs:",
+            error
+        )
+
+        return []
 
 
-    return unique_jobs
+existing_jobs = load_existing_jobs()
+
+print(
+    "\nExisting jobs loaded:",
+    len(existing_jobs)
+)
+
+
+# =========================================================
+# KEEP ONLY VALID EXISTING JOBS
+# =========================================================
+
+valid_existing_jobs = []
+
+for job in existing_jobs:
+
+    if not is_within_last_hours(
+        job.get("updated"),
+        max_age_hours
+    ):
+        continue
+
+    if is_excluded_title(
+        job.get("title")
+    ):
+        continue
+
+    valid_existing_jobs.append(
+        job
+    )
+
+
+print(
+    "Existing jobs still within 24h:",
+    len(valid_existing_jobs)
+)
 
 
 # =========================================================
 # JOOBLE API
 # =========================================================
 
-URL = f"https://in.jooble.org/api/{API_KEY}"
+URL = (
+    f"https://in.jooble.org/api/"
+    f"{API_KEY}"
+)
 
-all_jobs = []
+new_jobs = []
 
-rejected_by_experience = 0
+rejected_experience = 0
 
 
 # =========================================================
-# SEARCH EVERY ROLE
+# FETCH
 # =========================================================
 
 for role in roles:
@@ -420,7 +525,6 @@ for role in roles:
         "location": "India",
         "page": "1"
     }
-
 
     try:
 
@@ -449,7 +553,7 @@ for role in roles:
     if response.status_code != 200:
 
         print(
-            "API Error:",
+            "API error:",
             response.text
         )
 
@@ -463,23 +567,17 @@ for role in roles:
         []
     )
 
-
     print(
         "Received:",
         len(jobs)
     )
 
 
-    # =====================================================
-    # FILTER JOBS
-    # =====================================================
-
     for job in jobs:
 
-
-        # -----------------------------
-        # 24 HOURS
-        # -----------------------------
+        # -----------------------------------------
+        # LAST 24 HOURS
+        # -----------------------------------------
 
         if not is_within_last_hours(
             job.get("updated"),
@@ -488,43 +586,128 @@ for role in roles:
             continue
 
 
-        # -----------------------------
+        # -----------------------------------------
         # SENIOR FILTER
-        # -----------------------------
+        # -----------------------------------------
 
-        if is_excluded(job):
+        if is_excluded_title(
+            job.get("title")
+        ):
             continue
 
 
-        # -----------------------------
+        # -----------------------------------------
         # EXPERIENCE FILTER
-        # -----------------------------
+        # -----------------------------------------
 
-        if not experience_matches(job):
+        if not experience_matches(
+            job.get("title"),
+            job.get("snippet")
+        ):
 
-            rejected_by_experience += 1
-
+            rejected_experience += 1
             continue
 
 
-        all_jobs.append(job)
+        new_jobs.append(
+            normalize_job(job)
+        )
 
 
 # =========================================================
-# DEDUPLICATE
+# DEDUP NEW JOBS
 # =========================================================
 
-before_deduplication = len(
-    all_jobs
+new_jobs = deduplicate_jobs(
+    new_jobs
 )
 
-all_jobs = deduplicate_jobs(
-    all_jobs
+print(
+    "\nNew unique jobs found:",
+    len(new_jobs)
 )
 
-after_deduplication = len(
-    all_jobs
+
+# =========================================================
+# MERGE OLD + NEW
+# =========================================================
+
+merged_jobs = (
+    valid_existing_jobs
+    +
+    new_jobs
 )
+
+merged_jobs = deduplicate_jobs(
+    merged_jobs
+)
+
+
+# =========================================================
+# FINAL STALE CLEANUP
+# =========================================================
+
+final_jobs = []
+
+for job in merged_jobs:
+
+    if is_within_last_hours(
+        job.get("updated"),
+        max_age_hours
+    ):
+
+        final_jobs.append(
+            job
+        )
+
+
+# =========================================================
+# SORT NEWEST FIRST
+# =========================================================
+
+def sorting_date(job):
+
+    parsed = parse_job_date(
+        job.get("updated")
+    )
+
+    if parsed:
+        return parsed
+
+    return datetime.min.replace(
+        tzinfo=timezone.utc
+    )
+
+
+final_jobs.sort(
+    key=sorting_date,
+    reverse=True
+)
+
+
+# =========================================================
+# SAVE
+# =========================================================
+
+os.makedirs(
+    os.path.dirname(
+        output_file
+    ),
+    exist_ok=True
+)
+
+with open(
+    output_file,
+    "w",
+    encoding="utf-8"
+) as file:
+
+    json.dump(
+        final_jobs,
+        file,
+        indent=2,
+        ensure_ascii=False
+    )
 
 
 # =========================================================
@@ -536,28 +719,28 @@ print(
 )
 
 print(
-    "Target experience:",
-    f"{USER_MIN_EXP}-{USER_MAX_EXP} years"
+    "Existing recent jobs:",
+    len(valid_existing_jobs)
 )
 
 print(
-    "Rejected because of experience:",
-    rejected_by_experience
+    "New unique jobs:",
+    len(new_jobs)
 )
 
 print(
-    "Jobs before duplicate removal:",
-    before_deduplication
+    "Rejected by experience:",
+    rejected_experience
 )
 
 print(
-    "Jobs after duplicate removal:",
-    after_deduplication
+    "Final jobs after merge:",
+    len(final_jobs)
 )
 
 print(
-    "Total matching jobs:",
-    len(all_jobs)
+    "Saved to:",
+    output_file
 )
 
 print(
@@ -570,16 +753,13 @@ print(
 # =========================================================
 
 for index, job in enumerate(
-    all_jobs,
+    final_jobs,
     start=1
 ):
 
     print(
-        "\n" + "=" * 70
-    )
-
-    print(
-        f"{index}. {job.get('title')}"
+        f"\n{index}. "
+        f"{job.get('title')}"
     )
 
     print(
@@ -594,7 +774,7 @@ for index, job in enumerate(
 
     print(
         "Experience:",
-        get_experience_label(job)
+        job.get("experience")
     )
 
     print(
@@ -603,57 +783,6 @@ for index, job in enumerate(
     )
 
     print(
-        "Source:",
-        job.get("source")
+        "Apply:",
+        job.get("apply_link")
     )
-
-    print(
-        "Apply Link:",
-        job.get("link")
-    )
-
-
-print(
-    "\n" + "=" * 70
-)
-# =========================================================
-# SAVE RESULTS TO JSON
-# =========================================================
-
-output_file = config["output"].get(
-    "json_file",
-    "data/jobs.json"
-)
-
-json_jobs = []
-
-for job in all_jobs:
-
-    json_jobs.append({
-        "title": job.get("title"),
-        "company": job.get("company"),
-        "location": job.get("location"),
-        "experience": get_experience_label(job),
-        "updated": job.get("updated"),
-        "source": job.get("source"),
-        "apply_link": job.get("link")
-    })
-
-
-with open(
-    output_file,
-    "w",
-    encoding="utf-8"
-) as file:
-
-    json.dump(
-        json_jobs,
-        file,
-        indent=2,
-        ensure_ascii=False
-    )
-
-
-print(
-    f"\nSaved {len(json_jobs)} jobs to {output_file}"
-)
