@@ -30,6 +30,11 @@ LEVER_SITES = [
     {
         "company": "Saviynt",
         "site": "saviynt"
+    },
+
+    {
+        "company": "Zimperium",
+        "site": "zimperium"
     }
 
 ]
