@@ -8420,5 +8420,995 @@
     "company": "ValGenesis",
     "title": "Test Engineer, Functional",
     "baseline": false
+  },
+  "acceldata:9c1e2902-deb2-4577-8028-8bdf9adc1b48": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Enterprise Account Executive - Central",
+    "baseline": false
+  },
+  "acceldata:9bdbe07c-582b-44bb-98f2-65885f410a6f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Enterprise Account Executive - Great Lakes",
+    "baseline": false
+  },
+  "acceldata:d30b142c-545e-4da7-a370-d9af33261373": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Enterprise Account Executive - NY Metro",
+    "baseline": false
+  },
+  "acceldata:f43cc266-6ca0-491d-b474-0223ad874ad7": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Enterprise Account Executive - UK",
+    "baseline": false
+  },
+  "acceldata:d69a1a62-284c-47d1-b74f-ea02dffad32f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Field Engineering Co-Op",
+    "baseline": false
+  },
+  "acceldata:247b75d6-3829-4cfa-8ef1-34465ecf7a3d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Finance Intern",
+    "baseline": false
+  },
+  "acceldata:ab4a629c-a36b-4ee9-8948-c4ba7a4eb519": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Global Events and Field Marketing Specialist",
+    "baseline": false
+  },
+  "acceldata:495913ff-d0ef-4234-b44e-ac2470c53540": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Lead SDET - Hadoop Observability (Pulse)",
+    "baseline": false
+  },
+  "acceldata:46b8c77c-9a0c-43ac-ad13-af649d60ac52": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Manager, Deal Desk",
+    "baseline": false
+  },
+  "acceldata:1f5eca00-7d10-4f45-b5f5-260a34f40fbb": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Partner Sales Manager - EMEA",
+    "baseline": false
+  },
+  "acceldata:19000065-506d-4318-ae52-388cd3f20e16": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "People Partner",
+    "baseline": false
+  },
+  "acceldata:040901c5-dbe2-4858-a893-b10b394ea2ae": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Principal  Frontend Engineer",
+    "baseline": false
+  },
+  "acceldata:18f8c832-7a0c-4ccb-a0bf-9af63fabd9a1": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Principal Engineer - Open Source Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:307e052c-a765-4b81-ba97-53f007e5d96b": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Principal Engineer - Open Source Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:d8f43db5-5bfa-4033-b040-10260c024cd6": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Sales Engineer  | xLake Platform",
+    "baseline": false
+  },
+  "acceldata:2cd162fc-a490-4b9d-8ee4-0294a6738d34": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Sales Engineer - Hadoop Observability & Open Data Platform",
+    "baseline": false
+  },
+  "acceldata:ffd01330-b32f-4868-9390-3af135335ab0": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Sales Engineering Co-Op",
+    "baseline": false
+  },
+  "acceldata:d3410611-78e7-4130-9d9b-b2f720863ae6": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Engineering Manager",
+    "baseline": false
+  },
+  "acceldata:428eb3e3-06cf-412b-bb76-e1d1c5b882ee": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Frontend Engineer",
+    "baseline": false
+  },
+  "acceldata:fd5775d1-c48c-49ba-a17e-1a37b8a75b82": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Manager , Brand Management & Public Relations",
+    "baseline": false
+  },
+  "acceldata:348c5d77-59a9-4cb7-8da9-fe0ccc7bde2c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Manager, Sales Enablement",
+    "baseline": false
+  },
+  "acceldata:1f658cf4-9ea7-4d1c-bf3c-b78d132f78bb": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior SDET",
+    "baseline": false
+  },
+  "acceldata:9c037a7b-4d1a-4c97-a05c-7948072e13e1": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Software Engineer - Backend",
+    "baseline": false
+  },
+  "acceldata:d2f5cb2d-fb99-46a8-9694-d66400b516bf": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Software Engineer - Open Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:e33dd25d-2943-48f3-a01e-be2b03245be9": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Software Engineer - Open Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:1d0ccbc3-01c5-4139-a673-0638ad4b8645": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Solutions Consultant - Open Data Platform",
+    "baseline": false
+  },
+  "acceldata:ed1889bc-d8b8-41a1-9981-95de63ebc998": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Solutions Consultant - Open Data Platform",
+    "baseline": false
+  },
+  "acceldata:114a9f19-acdf-4614-a5eb-6b913c685175": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Senior Solutions Consultant - xLake Platform",
+    "baseline": false
+  },
+  "acceldata:1f0af3a2-a2f4-4e62-a347-1b85524b0c87": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Site Reliability Engineer - Hadoop Modernization",
+    "baseline": false
+  },
+  "acceldata:0c47e882-83ff-471e-ba75-5543796aa34a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Software Engineer - Open Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:ed869a17-f438-4bb5-b8db-ecf412cd0def": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Software Engineer - Open Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Software Engineering Co-op",
+    "baseline": false
+  },
+  "acceldata:3fc169fa-1b94-481d-8104-e55054e666c5": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Staff Engineer - Open Source Committer and Contributor | (ODP)",
+    "baseline": false
+  },
+  "acceldata:9f6a7669-5697-40e2-a0b3-07c3cdb45792": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Staff Engineer ( Backend )",
+    "baseline": false
+  },
+  "acceldata:615b113d-7123-406a-9cce-ccb554abbfee": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Staff Engineer ( Full Stack )",
+    "baseline": false
+  },
+  "acceldata:63634645-c457-4c73-a1bd-7bc8e1dc18c8": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Staff Platform Engineer",
+    "baseline": false
+  },
+  "acceldata:ef679998-fbd9-45c8-a3e2-a675a93ed37f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Staff Software Engineer - Open Source Data Platform (ODP)",
+    "baseline": false
+  },
+  "acceldata:d527fc32-5f61-4c3e-9e55-1294681ff03a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Staff Software Engineer- Backend",
+    "baseline": false
+  },
+  "acceldata:289d564f-1305-4214-8e78-9be6ce0f6605": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "System Administrator - Contract",
+    "baseline": false
+  },
+  "acceldata:a06df205-c681-4703-bf7b-c26c92b4af7d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Technical Account Manager - Acceldata Data Observability Cloud (ADOC)",
+    "baseline": false
+  },
+  "acceldata:074a15b8-5400-4134-88aa-bc94ec16a938": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Technical Account Manager - xLake: Data & AI Platform",
+    "baseline": false
+  },
+  "acceldata:09e0bf21-189a-473a-af7c-105159d6cc3e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Technical Marketing Manager, Data & AI Platforms",
+    "baseline": false
+  },
+  "acceldata:7068646a-5d2c-41d8-9fd1-ddea8e416faf": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Technical Support Manager - Hadoop Observability & Open Data Platform",
+    "baseline": false
+  },
+  "acceldata:825d994c-e1dd-472f-9b30-2f9ae149ee94": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Technology Alliances Manager - SaaS Alliances",
+    "baseline": false
+  },
+  "acceldata:0ee5988d-7d08-461d-8899-571f005159dc": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "Technology Alliances Manager – Storage Alliances",
+    "baseline": false
+  },
+  "acceldata:09c46d0d-1e92-4be2-b89d-f8750c788c7a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Acceldata",
+    "title": "VP of Enterprise Sales",
+    "baseline": false
+  },
+  "safe:8543068c-35f2-4115-bff6-6b6372d65e5d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Customer Success Advisor",
+    "baseline": false
+  },
+  "safe:56730ba4-967a-461f-90b1-73269c41dcc1": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Director of Demand Generation",
+    "baseline": false
+  },
+  "safe:89fb68f8-df2c-4a33-90a6-4fd5ef71ad18": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Engineering Manager",
+    "baseline": false
+  },
+  "safe:8363a494-7ea3-499b-b45b-63aadc906a9b": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Enterprise Account Executive - East",
+    "baseline": false
+  },
+  "safe:bd1da8dd-02f6-41dd-9ac3-f6b4d24065d0": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Enterprise Account Executive - London",
+    "baseline": false
+  },
+  "safe:c1afb10c-83fc-4451-9f33-481286906977": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Enterprise Account Executive - Northeast/Midwest",
+    "baseline": false
+  },
+  "safe:1d8d126b-a4e9-4287-a191-08154579ff2b": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Enterprise Account Executive - West",
+    "baseline": false
+  },
+  "safe:73a04bbe-15e5-4d53-9c5a-23d3e86c9770": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "People Operations Manager",
+    "baseline": false
+  },
+  "safe:47ce9d2d-a8de-44d9-aa96-241987c67211": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Principal Engineer - AI",
+    "baseline": false
+  },
+  "safe:8660983b-ecc2-44d1-813b-f210bf9a3131": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Sales Development Representative | United Kingdom",
+    "baseline": false
+  },
+  "safe:6c2f5678-38a5-40ac-a0d7-f5274a1fd620": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer I",
+    "baseline": false
+  },
+  "safe:91e23536-2a94-496c-9c74-9dbfd815923f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer I",
+    "baseline": false
+  },
+  "safe:9510407e-70d3-44d6-83f3-feecf7bd729c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer II",
+    "baseline": false
+  },
+  "safe:454976f8-9c35-460c-bc24-588de8f328b3": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer II - Android",
+    "baseline": false
+  },
+  "safe:d15de9fc-f1f9-4123-9149-d39398bd7988": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer II – Sensors / Systems & Security Engineering",
+    "baseline": false
+  },
+  "safe:35ab6904-dbd3-4a78-9c12-aa62b855dfee": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer III - DevOps Engineer",
+    "baseline": false
+  },
+  "safe:5b26cd61-68e4-4e19-bda2-d47c73764ac0": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Software Development Engineer in Test III (SDET III)",
+    "baseline": false
+  },
+  "safe:9f3ffa00-48fd-45b4-8f17-20fdfd634d2b": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Staff Engineer- Network Security & Attack Path Intelligence",
+    "baseline": false
+  },
+  "safe:8f2be12c-bb7a-49a6-967e-8cf595cfc3d9": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Talent Acquisition Operations Intern",
+    "baseline": false
+  },
+  "safe:7d447182-98e0-4758-9fa8-bdc10a1415b9": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Tech Lead / Software Development Engineer III",
+    "baseline": false
+  },
+  "safe:72d231a2-6bf3-43b8-b520-4ff1d1238276": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Safe Security",
+    "title": "Threat Researcher II",
+    "baseline": false
+  },
+  "everbridge:09236dde-4a28-4f44-8423-dd583b48fe9f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "everbridge:62af77b6-058a-4cb2-ad78-bdd41e23ec3e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Account Executive - Mittelstand (Remote in Germany)",
+    "baseline": false
+  },
+  "everbridge:5b7b1c75-3c3c-48ab-adef-61e071c6a3b7": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Demand Generation Marketing Specialist / Manager (Fixed term contract)",
+    "baseline": false
+  },
+  "everbridge:e65cfb77-968e-484e-b580-9a5331004638": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Platform Engineer",
+    "baseline": false
+  },
+  "everbridge:d42cf9db-791a-48cf-ad5a-5449d5ed8e91": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Project Manager (Public Warning)",
+    "baseline": false
+  },
+  "everbridge:aca20150-10ac-4e82-8287-d135eb6a55e6": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Sales Director, SLED - East",
+    "baseline": false
+  },
+  "everbridge:71714329-30e9-4835-b241-b541d5976c85": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Security Operations Associate",
+    "baseline": false
+  },
+  "everbridge:40ac7ccb-8749-4f07-af06-9c37dce11417": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Senior Product Manager – Risk Intelligence",
+    "baseline": false
+  },
+  "everbridge:ff6eacff-741a-4f60-aff4-a45e89b003a9": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Senior Software Engineer – Backend & AI-Enabled",
+    "baseline": false
+  },
+  "everbridge:208fde4c-c9e5-4cb0-a19b-691a74957e36": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Senior Software Engineer – Full Stack (.NET/React)",
+    "baseline": false
+  },
+  "everbridge:9009b9ab-4b63-470c-b4f1-60359df93b1f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Solution Consultant",
+    "baseline": false
+  },
+  "everbridge:936d1835-e8cd-4986-ae67-64c367dbcb2c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Solution Consultant",
+    "baseline": false
+  },
+  "everbridge:75240a7e-dd10-4845-924c-8ae69111e79c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Sr. Director, Support Intelligence & Transformation",
+    "baseline": false
+  },
+  "everbridge:175b6264-db7f-4a76-9bec-11d923a86ede": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "everbridge:4bd077bd-b83c-4e88-ac4a-376054297175": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Strategic Growth Executive (Remote in the UK)",
+    "baseline": false
+  },
+  "everbridge:9f53c868-3b16-4804-8aa2-ec9f25af2464": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Technical Success Manager",
+    "baseline": false
+  },
+  "everbridge:5ffe15b9-62eb-4e59-92aa-7efcfed240c3": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Technical Support Engineer",
+    "baseline": false
+  },
+  "everbridge:027c8b14-cb41-42f4-b46d-c7b82a786300": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Territory Sales Manager, State & Local Government - East",
+    "baseline": false
+  },
+  "everbridge:9348c964-016c-43eb-afde-095d95c1485e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Everbridge",
+    "title": "Vice President, Global Production Operations & Reliability",
+    "baseline": false
+  },
+  "bazaarvoice:f0af5230-80bc-4f7a-b618-8bd11b9a1975": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "bazaarvoice:564d5404-3800-459b-bf2b-28bb1b978e0d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Account Executive – Central Europe (DACH)",
+    "baseline": false
+  },
+  "bazaarvoice:78f4d406-281c-4e11-b9da-53e6ab206386": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Account Executive – Strategic Retail, DACH and Central Europe (German Speaking)",
+    "baseline": false
+  },
+  "bazaarvoice:8ccb8343-8b5a-44aa-b3bc-759f23f7ac9e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Account Executive – Strategic Retail, Southern Europe (French Speaking)",
+    "baseline": false
+  },
+  "bazaarvoice:592359f4-3d87-49be-bef9-330e73a73a27": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Account Executive – Strategic Retail, UK&I, Nordics",
+    "baseline": false
+  },
+  "bazaarvoice:3ca1c24b-3024-4dac-9e02-20c92f0a0e2f": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Director, Sales Compensation",
+    "baseline": false
+  },
+  "bazaarvoice:362301e0-d124-416a-895a-abff285dceed": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Engineering Manager",
+    "baseline": false
+  },
+  "bazaarvoice:5ac98769-6003-46ea-94d3-67ad672c4e9b": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Enterprise Account Director - Growth",
+    "baseline": false
+  },
+  "bazaarvoice:68c2dd94-efe3-4b8c-9c56-9215f1c46f82": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Lead Product Designer",
+    "baseline": false
+  },
+  "bazaarvoice:d72b25c1-acdf-45d5-b6d3-2a78e7a868f2": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Marketing Automation Administrator(Marketo)",
+    "baseline": false
+  },
+  "bazaarvoice:63bfc23d-cc18-45cc-a908-42afc9601244": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Marketing Manager, UKI (Regional Growth)",
+    "baseline": false
+  },
+  "bazaarvoice:924f9609-5a3e-4142-80eb-668525ce99e2": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Principal Engineer",
+    "baseline": false
+  },
+  "bazaarvoice:e9d3c6b1-0644-4a34-b995-d7c43f944852": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Sales Development Representative DACH - German Speaking",
+    "baseline": false
+  },
+  "bazaarvoice:ac374dab-6462-4fde-8d38-18ab203f59c1": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Sales Enablement Business Partner",
+    "baseline": false
+  },
+  "bazaarvoice:a1d4fbad-5d8a-4a88-94e0-249b42602f5d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior HRIS Analyst",
+    "baseline": false
+  },
+  "bazaarvoice:f031b69e-6ccd-4370-891b-2252a61e3800": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Software Engineer(Date Engineering)",
+    "baseline": false
+  },
+  "bazaarvoice:975b317b-7d47-4e2a-a8f4-4667e3f84e5c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Staff Software Engineer",
+    "baseline": false
+  },
+  "bazaarvoice:58db148a-7f9f-49e6-bba6-1163a4a46de7": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Solution Consultant (German Speaking)",
+    "baseline": false
+  },
+  "bazaarvoice:7a12659a-aa54-49f7-8d61-c6bb339fcdfb": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Staff Data Engineer",
+    "baseline": false
+  },
+  "bazaarvoice:28cd3ded-6aba-41c9-bb67-a5c6887c878c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Staff Database Engineer",
+    "baseline": false
+  },
+  "bazaarvoice:779e032e-7970-47a9-aaad-150e89ef7790": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Staff Machine Learning Engineer",
+    "baseline": false
+  },
+  "bazaarvoice:bcd72ca1-c6d0-439c-82de-850f236d2b25": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Staff Software Engineer (Real Time/ Streaming Data Engineer)",
+    "baseline": false
+  },
+  "bazaarvoice:200fa3eb-9b64-4c48-ac81-4d5daec57a12": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Strategic Account Director (Enterprise)",
+    "baseline": false
+  },
+  "bazaarvoice:44e0d4f2-6693-422c-a9ec-6ab24ac58523": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Team Manager, Client Success - APAC",
+    "baseline": false
+  },
+  "bazaarvoice:fa5f2ff4-e672-419e-8efd-2dc988627a76": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Technical Success Manager (Tier 2 support)",
+    "baseline": false
+  },
+  "bazaarvoice:3bb5b747-48f6-41d1-8890-c94217d0a599": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Bazaarvoice",
+    "title": "Technical Support Analyst - Tier 1",
+    "baseline": false
+  },
+  "weekdayworks:0b4304b7-ae85-4665-8759-a93474fe7807": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "weekdayworks:f75f2a65-513f-4477-903d-69c046981f72": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Account Manager",
+    "baseline": false
+  },
+  "weekdayworks:2dc046c3-3821-4e7c-b97f-46b629f95230": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Agentic AI Engineer",
+    "baseline": false
+  },
+  "weekdayworks:5823246e-8885-481b-a36a-47e5c5b79b5d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Architectural Graphic Designer",
+    "baseline": false
+  },
+  "weekdayworks:21ff7793-f3fa-45e0-bfc4-2f40d43f3e0b": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Area Sales Manager",
+    "baseline": false
+  },
+  "weekdayworks:be98d90f-03e5-4127-bd95-626c1e7d25fe": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Business Analyst - Process & Automation",
+    "baseline": false
+  },
+  "weekdayworks:e7bc46e7-f2af-4b93-bf46-9fedf00cbbfd": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Business Development Associate Intern",
+    "baseline": false
+  },
+  "weekdayworks:f943d4bf-6bd6-4ceb-95e5-2ac34197b6d2": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Business Development Executive",
+    "baseline": false
+  },
+  "weekdayworks:70eed192-777b-4dc8-932d-c9b9e02554c2": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Business Development Executive - Recruitment Specialist",
+    "baseline": false
+  },
+  "weekdayworks:e46c6852-c6d0-4ae5-965d-8761b77982ed": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Business Development Executive – Remote | 6-Month Contract",
+    "baseline": false
+  },
+  "weekdayworks:fd7fb281-5842-498e-918d-8d0b13435491": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Business Development Executive (BDE)",
+    "baseline": false
+  },
+  "weekdayworks:ab8594dc-3bd8-4e4c-9588-c1b6435a0029": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Candidate Outreach Associate Intern",
+    "baseline": false
+  },
+  "weekdayworks:13519146-b357-459e-b0ef-0fbda343982c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Category Head - F&V",
+    "baseline": false
+  },
+  "weekdayworks:6ee77cbb-1010-4217-b123-87245b5ae23c": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Customer Success Specialist",
+    "baseline": false
+  },
+  "weekdayworks:1fc8b30b-8e31-41f0-a449-5c7f25577a3a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Data Entry Intern",
+    "baseline": false
+  },
+  "weekdayworks:2ecfa341-6755-4fa8-9b1a-5c5afd603844": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Data Protection Consultant",
+    "baseline": false
+  },
+  "weekdayworks:994d73e3-298e-496f-84ce-5396beb91fa9": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Database Administrator",
+    "baseline": false
+  },
+  "weekdayworks:4e58fb8f-b07f-4d3f-b225-066390184445": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Engineering Manager",
+    "baseline": false
+  },
+  "weekdayworks:ab4b6fe9-eace-4635-8e46-20567faf7b51": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Founder's Office",
+    "baseline": false
+  },
+  "weekdayworks:8a9bbfc7-770a-4b1e-9a95-b01819eb3ca8": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Founder's Office (Growth & GTM)",
+    "baseline": false
+  },
+  "weekdayworks:ef499474-0367-4252-9075-1b0fff76d2db": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Founding Full-Stack Engineer",
+    "baseline": false
+  },
+  "weekdayworks:3e78c046-553d-4fa2-80d1-28c45c35c403": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Founding Full-Stack Engineer (Python / Django / Go / React)",
+    "baseline": false
+  },
+  "weekdayworks:db329de5-569b-49ab-9b0e-4bc36d8a341e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Frontend Developer",
+    "baseline": false
+  },
+  "weekdayworks:84b31854-3b43-40e8-80f1-401bb2cf97ce": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Frontend Engineer",
+    "baseline": false
+  },
+  "weekdayworks:7f478f4c-f0a3-4185-b373-be311af4b483": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Fullstack Engineer - Contract - Highly Competitive Comp - Immediate Start",
+    "baseline": false
+  },
+  "weekdayworks:ec97a19b-116a-4744-8b0c-9e2784c6765e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Graphic Designer - Architectural",
+    "baseline": false
+  },
+  "weekdayworks:7823cb7e-e9cf-4d22-9b22-99029310e590": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "HR Lead",
+    "baseline": false
+  },
+  "weekdayworks:05f2049c-68c8-4f3c-8748-a0c79cc04bc7": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "International Sales Specialist",
+    "baseline": false
+  },
+  "weekdayworks:eabb7755-f18c-4e7d-af49-a38e1db1b744": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Java Backend Specialist",
+    "baseline": false
+  },
+  "weekdayworks:6b350a31-d4b6-4b4a-8a32-5db6a7eca07a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Key Account Manager – Talent Advisory & Growth",
+    "baseline": false
+  },
+  "weekdayworks:8162fae2-85b1-4b4f-9d2d-ac8566476730": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Key Account Manager (Recruitment Consultant / Program Manager)",
+    "baseline": false
+  },
+  "weekdayworks:c42c24d3-a65c-4298-8943-75e10e69d637": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Manager Paid Media",
+    "baseline": false
+  },
+  "weekdayworks:7a801e5f-9cd0-4d8a-8850-95b62726d34e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Principal Architect (Security)",
+    "baseline": false
+  },
+  "weekdayworks:9832120d-a381-4163-9d07-581ed3204291": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Principal Software Engineer",
+    "baseline": false
+  },
+  "weekdayworks:5c027488-f611-4329-9a78-12121bb99d0e": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Real Estate Sales Manager",
+    "baseline": false
+  },
+  "weekdayworks:abb5d8bd-2688-49df-9b0d-9a0b5a8f0c20": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Sales Manager",
+    "baseline": false
+  },
+  "weekdayworks:3b1c3696-34c6-4f9a-98aa-3651d91a5b17": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Salesforce Developer",
+    "baseline": false
+  },
+  "weekdayworks:74392d06-92fb-4676-b95c-3685ba7b9cac": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Salesforce Developer Expert",
+    "baseline": false
+  },
+  "weekdayworks:1e9ca6af-97f0-44d3-8eab-c034443f7cc0": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Agentic AI Engineer",
+    "baseline": false
+  },
+  "weekdayworks:98defe69-6381-4ef3-b03a-d14513d42e4a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Business Analyst",
+    "baseline": false
+  },
+  "weekdayworks:1cc00112-8143-4c2a-be49-8928b2861011": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Engineering Manager",
+    "baseline": false
+  },
+  "weekdayworks:b5d55a17-d5f8-419b-a518-47b6db32eccb": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Engineering Manager - B2B",
+    "baseline": false
+  },
+  "weekdayworks:fec61b6a-60f0-4580-aec4-d7e07d4b78b4": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Financial Planning Analyst",
+    "baseline": false
+  },
+  "weekdayworks:a47d0936-6557-4ecd-ba5c-0c1c5f67ec6d": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Gen AI Engineer (Freelancer)",
+    "baseline": false
+  },
+  "weekdayworks:606dadc4-5c67-489e-9106-0472e87fb107": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Manager - Performance Marketing",
+    "baseline": false
+  },
+  "weekdayworks:c4fb9689-ec86-45e5-9abe-f9badd2ffff7": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Senior Manager Trade Fair",
+    "baseline": false
+  },
+  "weekdayworks:a86efff4-1c2e-43fc-8ecb-dc8f873db2f1": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Software Engineer Intern",
+    "baseline": false
+  },
+  "weekdayworks:dd2a3462-ccac-43c5-ae3a-a3f386acb21a": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Sourcing Manager – Channel Sales",
+    "baseline": false
+  },
+  "weekdayworks:8dd677ba-c336-47af-8642-129703cc5437": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Sr BI Architect",
+    "baseline": false
+  },
+  "weekdayworks:40e2748e-bd39-4040-80f0-62a3c41678bd": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Sr. BI Architect",
+    "baseline": false
+  },
+  "weekdayworks:286e06b6-f72c-4968-95c2-437798a5e7d2": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Talent Operations Associate Consultant",
+    "baseline": false
+  },
+  "weekdayworks:8cf300d8-3b3e-4cee-b5a4-0cb3f30c3f47": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Talent Operations Associate Intern",
+    "baseline": false
+  },
+  "weekdayworks:ab47ca74-1f57-400c-83fa-999b823da524": {
+    "first_seen": "2026-09-14T17:17:16.540186+00:00",
+    "company": "Weekday",
+    "title": "Video Editor & Motion Designer",
+    "baseline": false
   }
 }
