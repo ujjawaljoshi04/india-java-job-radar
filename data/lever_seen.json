@@ -1016,5 +1016,101 @@
   "__meta__": {
     "initialized": true,
     "initialized_at": "2026-09-14T10:57:03.312670+00:00"
+  },
+  "zimperium:5b35759a-d445-4fcb-b255-d719330af055": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "AI Software Engineer (Python) - Bangalore, India",
+    "baseline": false
+  },
+  "zimperium:51a7d688-18e0-4be7-8398-29f75b6b62c4": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Customer Success Manager  (Public Sector & Endpoint Security) - Dallas, Texas",
+    "baseline": false
+  },
+  "zimperium:a836db18-6efb-4686-af26-09060b68f166": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Detection Researcher (Coding Focused)",
+    "baseline": false
+  },
+  "zimperium:ff0d3ed6-7449-4cbf-bed7-2db2f868c173": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Detection Researcher/Security Engineer (iOS Focused)",
+    "baseline": false
+  },
+  "zimperium:a14254c0-4a57-41cd-8853-9f1e4602d372": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Director, Partners and Alliances, Public Sector",
+    "baseline": false
+  },
+  "zimperium:6b50bb8b-2a86-4e93-8c17-39b66f3e0789": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Java Engineer (Back-End & Microservices) - Bangalore, India",
+    "baseline": false
+  },
+  "zimperium:aa5febcf-51f0-40c2-81e3-a86ab39fef82": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Jr. QA Automation (API) - Bangalore, India",
+    "baseline": false
+  },
+  "zimperium:62345dc6-5179-4e47-8736-0fb3530f4211": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Python Developer - Bangalore, India",
+    "baseline": false
+  },
+  "zimperium:67931844-701a-4da6-a805-940938574caa": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Regional Account Manager - West Coast, Texas, and Northeast",
+    "baseline": false
+  },
+  "zimperium:6e0239b1-9fa6-4967-89a3-f90889dde23b": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Senior AI Engineer/Python Developer (Bangalore, India Based)",
+    "baseline": false
+  },
+  "zimperium:29aff3bb-b00f-457c-9ebb-70f3804c3fa6": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Site Reliability Engineer - India",
+    "baseline": false
+  },
+  "zimperium:b425b2ad-cad4-4c35-a720-9b41274f4861": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Software Engineer (Java or Python) - Dallas, TX",
+    "baseline": false
+  },
+  "zimperium:ed791581-5eac-4760-8203-0dab4688e9b4": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Sr. Cloud Security Engineer - FedRamp",
+    "baseline": false
+  },
+  "zimperium:10bc93e8-f591-4300-92a6-874848475776": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Sr. Customer Success Manager  (Public Sector & Endpoint Security) - Washington D.C.",
+    "baseline": false
+  },
+  "zimperium:8521f18f-e355-4c22-8775-be49d78ef459": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Sr. Technical Writer (India)",
+    "baseline": false
+  },
+  "zimperium:8c50666e-76d4-425b-aed2-4cbdf6cbd099": {
+    "first_seen": "2026-09-14T13:10:03.367358+00:00",
+    "company": "Zimperium",
+    "title": "Technical Product Support Engineer - Endpoint/MTD (Device) & Cybersecurity",
+    "baseline": false
   }
 }
