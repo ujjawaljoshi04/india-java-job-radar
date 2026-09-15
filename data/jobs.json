@@ -1,5 +1,41 @@
 [
   {
+    "title": "Backend Engineer- Java",
+    "company": "QuinStreet",
+    "location": "Pune",
+    "experience": "Not specified",
+    "updated": "2026-09-15T10:28:09.2972395+00:00",
+    "source": "jooble",
+    "original_source": "boards.greenhouse.io",
+    "apply_link": "https://in.jooble.org/jdp/3428184310527542800",
+    "snippet": "&nbsp;...campaign-results-driven matching decision <b>engines </b>and optimization algorithms are built from...&nbsp;&nbsp;...biggest channel. \r\n \r\n Software Engineer – <b>Java </b>(Quest v2 Platform Modernization)...&nbsp;&nbsp;...develop, test, deploy, and support scalable <b>backend </b>services as part of the Quest v2 migration...&nbsp;",
+    "date_basis": "updated"
+  },
+  {
+    "title": "PL/SQL and Java Developer INTERN TO HIRE",
+    "company": "IMPACTO DIGIFIN TECHNOLOGIES PVT LTD",
+    "location": "Rameshnagar, Bangalore",
+    "experience": "Not specified",
+    "updated": "2026-09-15T07:03:13Z",
+    "source": "adzuna",
+    "apply_link": "https://www.adzuna.in/details/5884150358?utm_medium=api&utm_source=abddb2de",
+    "snippet": "Job Title: Intern to Hire – PL/SQL & Java Developer Department: Technology / Product Engineering Location: Bangalore (On-site) Reporting To: Senior Backend Developer / Technical Lead Duration: 6 Months Internship (Intern-to-Hire based on performance) Type: Full-time (with potential for conversion to Developer role) About the Role We are seeking passionate and detail-oriented PL/SQL & Java Developer Interns who aspire to grow into full-time Developers after the internship. You will work closely …",
+    "adzuna_id": "5884150358",
+    "date_basis": "created"
+  },
+  {
+    "title": "PL/SQL and Java Devoloper INTER TO HIRE",
+    "company": "Sirma Business Consulting India Private Limited",
+    "location": "Rameshnagar, Bangalore",
+    "experience": "Not specified",
+    "updated": "2026-09-15T07:03:13Z",
+    "source": "adzuna",
+    "apply_link": "https://www.adzuna.in/details/5884150359?utm_medium=api&utm_source=abddb2de",
+    "snippet": "Job Title: Intern to Hire – PL/SQL & Java Developer Department: Technology / Product Engineering Location: Bangalore (On-site) Reporting To: Senior Backend Developer / Technical Lead Duration: 6 Months Internship (Intern-to-Hire based on performance) Type: Full-time (with potential for conversion to Developer role) About the Role We are seeking passionate and detail-oriented PL/SQL & Java Developer Interns who aspire to grow into full-time Developers after the internship. You will work closely …",
+    "adzuna_id": "5884150359",
+    "date_basis": "created"
+  },
+  {
     "title": "Java FS Developer",
     "company": "CGI",
     "location": "India",
@@ -57,6 +93,18 @@
     "apply_link": "https://www.adzuna.in/details/5883489680?utm_medium=api&utm_source=abddb2de",
     "snippet": "Job Description As a Software Engineer II within the Asset and Wealth Management Data and Analytics team at JPMorgan Chase, you are part of an agile group that designs, enhances, and delivers secure, stable, and scalable software components for the firm's state-of-the-art technology products. As an emerging member of this software engineering team, you implement software solutions by contributing to the design, development, and technical troubleshooting of multiple components across application…",
     "adzuna_id": "5883489680",
+    "date_basis": "created"
+  },
+  {
+    "title": "Java Developer",
+    "company": "BNP Paribas",
+    "location": "Chennai, Tamil Nadu",
+    "experience": "Not specified",
+    "updated": "2026-09-14T16:13:05Z",
+    "source": "adzuna",
+    "apply_link": "https://www.adzuna.in/details/5883489543?utm_medium=api&utm_source=abddb2de",
+    "snippet": "Job Title: Java Developer with Cloud competencies Department: Front & Middle Applications Domain About Business Line/Function Front & Middle Applications Domain manages development and applicative maintenance services and contributes to maintaining, evolving, and migrating applications towards cloud-based platforms, ensuring scalability, resilience, and alignment with the Group’s transformation and digital strategy. Position Purpose As a Java Developer, you will design, develop, and maintain ba…",
+    "adzuna_id": "5883489543",
     "date_basis": "created"
   },
   {
@@ -184,6 +232,42 @@
     "date_basis": "first_seen"
   },
   {
+    "title": "Z2_Oracle mdm with java backend",
+    "company": "NTT America, Inc.",
+    "location": "Bangalore, Karnataka",
+    "experience": "Not specified",
+    "updated": "2026-09-14T11:19:05Z",
+    "source": "adzuna",
+    "apply_link": "https://www.adzuna.in/details/5883282424?utm_medium=api&utm_source=abddb2de",
+    "snippet": "Req ID: 387819 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Z2_Oracle mdm with java backend to join our team in Bangalore, Karnataka (IN-KA), India (IN). Job Description Key Responsibilities - Backend & Microservices (Spring Boot) o Develop and deploy RESTful microservices using Spring Boot and Java. o Develop and ma…",
+    "adzuna_id": "5883282424",
+    "date_basis": "created"
+  },
+  {
+    "title": "Software Engineer II (Java Full Stack Developer)",
+    "company": "Mastercard",
+    "location": "Pune, Maharashtra",
+    "experience": "Not specified",
+    "updated": "2026-09-14T11:18:37Z",
+    "source": "adzuna",
+    "apply_link": "https://www.adzuna.in/details/5883281953?utm_medium=api&utm_source=abddb2de",
+    "snippet": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+    "adzuna_id": "5883281953",
+    "date_basis": "created"
+  },
+  {
+    "title": "Full stack Developer",
+    "company": "Ford Motor Company",
+    "location": "Chennai, Tamil Nadu",
+    "experience": "Not specified",
+    "updated": "2026-09-14T11:17:25Z",
+    "source": "adzuna",
+    "apply_link": "https://www.adzuna.in/details/5883278848?utm_medium=api&utm_source=abddb2de",
+    "snippet": "e are seeking a skilled Full-Stack Cloud Developer to design, develop, deploy, and support cloud-native enterprise applications using Java, Spring Boot, microservices, APIs, and Google Cloud Platform . The successful candidate will work as part of a globally distributed engineering team supporting enterprise applications and integration services. This role will focus on backend development, cloud implementation, API integration, application monitoring, automated testing, and production support.…",
+    "adzuna_id": "5883278848",
+    "date_basis": "created"
+  },
+  {
     "title": "Java Developer",
     "company": "Citigroup",
     "location": "Pune, Maharashtra",
@@ -196,107 +280,15 @@
     "date_basis": "created"
   },
   {
-    "title": "Java Backend Developer",
-    "company": "Terrabit Consulting Pvt. Ltd - India",
-    "location": "Tamil Nadu",
+    "title": "Java spark Developer",
+    "company": "Citigroup",
+    "location": "Chennai, Tamil Nadu",
     "experience": "Not specified",
-    "updated": "2026-09-14T00:00:00.0000000",
-    "source": "jooble",
-    "original_source": "levit8.ai",
-    "apply_link": "https://in.jooble.org/jdp/-6710828720869899709",
-    "snippet": "&nbsp;...We \r\n need a skilled <b>Java developer.</b> The application is build as a Spring Boot \r\n application sitting on a Tomcat server. It needs another interface. The \r\n internal logic has to be extended. We expect support of the entire Software \r\n Development Life Cycle (SDLC) up to Release...&nbsp;",
-    "date_basis": "updated"
-  },
-  {
-    "title": "Java Full Stack Developer",
-    "company": "Terrabit Consulting Pvt. Ltd - India",
-    "location": "Tamil Nadu",
-    "experience": "Not specified",
-    "updated": "2026-09-14T00:00:00.0000000",
-    "source": "jooble",
-    "original_source": "levit8.ai",
-    "apply_link": "https://in.jooble.org/jdp/6787225145825453139",
-    "snippet": "&nbsp;...Task Description: \r\n <b>Java,</b> spring boot, hibernate , Java based Restful WebServices.JavaScript, JQuerry, CanvasJs(Nice to have)\r\n Work Result: Project Deliverable \r\n Skill Area: Application Development \r\n Technology: Java \r\n Proficiency - Technology: Expert \r\n Other Skills:...&nbsp;"
-  },
-  {
-    "title": "Java Backend Developer",
-    "company": "Persistent Systems",
-    "location": "Pune",
-    "experience": "Not specified",
-    "updated": "2026-09-14T00:00:00.0000000",
-    "source": "jooble",
-    "original_source": "easyhiring_indeed",
-    "apply_link": "https://in.jooble.org/jdp/-2507307236381521467",
-    "snippet": "&nbsp;...Position:  We are looking for a skilled with strong expertise in <b>Java </b>backend technologies. The ideal candidate should have hands-on experience...&nbsp;&nbsp;...stakeholders and development teams to deliver high-quality <b>software </b>solutions. \r\n Role: Java Backend Developer \r\n Location: All...&nbsp;"
-  },
-  {
-    "title": "Backend Engineer (Java / Spring Boot)",
-    "company": "Nextloop Technologies LLP",
-    "location": "Thane",
-    "experience": "2-3 years",
-    "updated": "2026-09-14T00:00:00.0000000",
-    "source": "jooble",
-    "original_source": "easyhiring_indeed",
-    "apply_link": "https://in.jooble.org/jdp/7724752177772803154",
-    "snippet": "&nbsp;...<b>Java </b>Developer (Java / Spring Boot)\r\n About the Role \r\n We are looking for a skilled  Java Developer with 2–3 years of experience  in <b>backend </b>application development using Java and Spring Boot. The candidate will work on scalable backend services, data processing pipelines...&nbsp;"
-  },
-  {
-    "title": "Backend Engineer",
-    "company": "Runable",
-    "location": "Bangalore",
-    "experience": "Not specified",
-    "updated": "2026-09-14T00:00:00.0000000",
-    "source": "jooble",
-    "original_source": "appcast.io",
-    "apply_link": "https://in.jooble.org/jdp/7344575087979929183",
-    "snippet": "&nbsp;...building groundbreaking technologies, we encourage you to join us. \r\n\r\n Role Description \r\n This is an on-site full-time role for a <b>Backend Engineer </b>located in Bengaluru. The role involves designing, developing, and optimising backend systems, collaborating with front-end...&nbsp;"
-  },
-  {
-    "title": "Java FullStack Developer",
-    "company": "Luxoft",
-    "location": "Pune",
-    "experience": "Not specified",
-    "updated": "2026-09-14T00:00:00.0000000",
-    "source": "jooble",
-    "original_source": "luxoft.com",
-    "apply_link": "https://in.jooble.org/jdp/4013605506642129295",
-    "snippet": "&nbsp;...lead technical implementation within your pod, mentor mid-level <b>developers,</b> and leverage modern AI-assisted development tools and cloud-native...&nbsp;&nbsp;...models is essential\n                            \r\nExpertise in <b>Java,</b> Spring Boot, REST, and Kafka / MQ...&nbsp;",
-    "date_basis": "updated"
-  },
-  {
-    "title": "Java Full Stack Developer (ReactJS)",
-    "company": "Wipro",
-    "location": "Bangalore, Karnataka",
-    "experience": "Not specified",
-    "updated": "2026-09-13T22:21:37Z",
+    "updated": "2026-09-14T11:16:58Z",
     "source": "adzuna",
-    "apply_link": "https://www.adzuna.in/details/5882812706?utm_medium=api&utm_source=abddb2de",
-    "snippet": "Job description: Job Description Role Purpose The purpose of this role is to facilitate application solutions by developing and reviewing module-level codes, creating replication patterns, performing root cause analysis to identify recurring issues and collaborating with internal and external stakeholders to ensure stable, well-documented deliverables that meet business objectives. ͏ Areas of responsibility Gathering of requirements-Participate in gathering requirements for specific modules and…",
-    "adzuna_id": "5882812706",
-    "date_basis": "created"
-  },
-  {
-    "title": "JAVA Microservices -Managed Services Engineer II",
-    "company": "Deloitte",
-    "location": "Hyderabad, Telangana",
-    "experience": "Not specified",
-    "updated": "2026-09-13T22:21:36Z",
-    "source": "adzuna",
-    "apply_link": "https://www.adzuna.in/details/5882812623?utm_medium=api&utm_source=abddb2de",
-    "snippet": "Summary Position Summary Artificial Intelligence & Engineering AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical operations. Join our AI & Engineering team to help transform technology platforms, driving innovation, and help make a significan…",
-    "adzuna_id": "5882812623",
-    "date_basis": "created"
-  },
-  {
-    "title": "Custom Software Engineer",
-    "company": "Accenture",
-    "location": "India",
-    "experience": "Not specified",
-    "updated": "2026-09-13T21:45:18Z",
-    "source": "adzuna",
-    "apply_link": "https://www.adzuna.in/details/5882779257?utm_medium=api&utm_source=abddb2de",
-    "snippet": "Project Role : Custom Software Engineer Project Role Description : Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs. Must have skills : Java Full Stack Development Good to have skills : Architectural Design, Spring Boot, React.js Educational Qualification : 15 years full time education Summary: As a Custom Software …",
-    "adzuna_id": "5882779257",
+    "apply_link": "https://www.adzuna.in/details/5883278523?utm_medium=api&utm_source=abddb2de",
+    "snippet": "The Applications Development Programmer Analyst is an intermediate level position responsible for participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to applications systems analysis and programming activities. Responsibilities:  Utilize knowledge of applications development procedures and concepts, and basic knowledge of other technical areas to ide…",
+    "adzuna_id": "5883278523",
     "date_basis": "created"
   }
 ]

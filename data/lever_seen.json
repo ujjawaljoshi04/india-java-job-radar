@@ -12518,5 +12518,83 @@
     "company": "Wing Assistant",
     "title": "Workforce Staffing Manager",
     "baseline": false
+  },
+  "lingarogroup:5b9bd5a9-5953-43cf-a7e5-fe9161ac0f21": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Lingaro",
+    "title": "ML/AI Engineer",
+    "baseline": false
+  },
+  "brillio-2:04e423be-42d4-4ae5-bdc1-a16feea3f8c5": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Brillio",
+    "title": "Manager, Marketing - R01571242",
+    "baseline": false
+  },
+  "brillio-2:c1eaeb86-bb57-4c32-b74e-50e4f36ea40d": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Network - R01571000",
+    "baseline": false
+  },
+  "brillio-2:f4a971e3-151f-4c04-88cc-37658f85ed68": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Cloud Engineering - R01570953",
+    "baseline": false
+  },
+  "sonatype:637ee3a2-5f52-4417-8bec-9204d7a00777": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Sonatype",
+    "title": "Staff Software Engineer - Agentic First",
+    "baseline": false
+  },
+  "weekdayworks:8802a9df-4f3d-4c7a-992f-c1cd2b12e77b": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Weekday",
+    "title": "Frontend SDE 2/3",
+    "baseline": false
+  },
+  "weekdayworks:b975ca2a-5403-44e6-b6b8-b4804f12a598": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Weekday",
+    "title": "Interior Designer",
+    "baseline": false
+  },
+  "weekdayworks:ad34bb25-997a-4a67-aa93-45419e2ae0d4": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Weekday",
+    "title": "Snowflake Developer",
+    "baseline": false
+  },
+  "meesho:341136b5-5ea1-4782-8e49-41ff0f564b1b": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Meesho",
+    "title": "Manager – HRBP & ER",
+    "baseline": false
+  },
+  "wmg:ab758fb1-54e0-423f-8d66-ac839d1adc11": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Warner Music Group",
+    "title": "Lead, Business Development & Licensing - Sureel AI",
+    "baseline": false
+  },
+  "wmg:195d7ae7-d74f-474d-88b0-60a190e3e1ac": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Warner Music Group",
+    "title": "Lead, Client Partnerships- Sureel",
+    "baseline": false
+  },
+  "getwingapp:31987b53-c808-45d7-a8e1-d32ceae44104": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Service Representative (Mandarin Bilingual) | 20704",
+    "baseline": false
+  },
+  "getwingapp:bb1157e5-06b9-4d04-a91c-ff164986e3e7": {
+    "first_seen": "2026-09-15T08:49:50.572204+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Service Representative (Mandarin Bilingual) | 20704",
+    "baseline": false
   }
 }
