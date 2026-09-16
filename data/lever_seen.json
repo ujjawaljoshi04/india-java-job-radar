@@ -12596,5 +12596,287 @@
     "company": "Wing Assistant",
     "title": "Customer Service Representative (Mandarin Bilingual) | 20704",
     "baseline": false
+  },
+  "azul:51e82ae2-cb4f-4327-bfc1-afd15633934a": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Azul",
+    "title": "HR Coordinator, nine-month contract",
+    "baseline": false
+  },
+  "saviynt:68aebd2e-0f0f-40fc-88a3-b0b5d02f6f45": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Saviynt",
+    "title": "Global Head of Procurement",
+    "baseline": false
+  },
+  "saviynt:6b9bec99-ad43-4641-9099-fc251d5ea227": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Saviynt",
+    "title": "Global Head of Procurement",
+    "baseline": false
+  },
+  "veeva:45dc7b0c-de19-490d-8bf7-7202687a80ec": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - CRO",
+    "baseline": false
+  },
+  "veeva:dfcb365c-f03b-4eb7-88e3-9a803d79282d": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - CRO",
+    "baseline": false
+  },
+  "veeva:ae5977fa-0b3b-4293-ba77-a355f94f7b69": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant",
+    "baseline": false
+  },
+  "veeva:d1794123-bb86-4a4d-96f9-0aed4269fd76": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant",
+    "baseline": false
+  },
+  "veeva:d34bc298-682e-4201-97b3-7f4a5831b5b3": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant",
+    "baseline": false
+  },
+  "veeva:38135239-80b7-43b0-8a2b-80afa1cfd758": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Implementation Consultant - Commercial (Remote or Onsite)",
+    "baseline": false
+  },
+  "veeva:05621a9a-8949-45dc-a029-0f556df60869": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Support Engineer",
+    "baseline": false
+  },
+  "veeva:1e3e3c89-3f05-487b-8dfa-fea482ab4085": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Support Engineer",
+    "baseline": false
+  },
+  "veeva:46386f9f-e7ff-496f-9509-28fa0de505f9": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Program Manager - Employee Events",
+    "baseline": false
+  },
+  "veeva:f3405d1f-64cf-4f4a-bd59-c5d412700d92": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Proposal Manager - eCOA",
+    "baseline": false
+  },
+  "veeva:579fcf55-a741-4cdd-8fd1-3ef3c9ca8bb9": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Analyst Indirect Tax",
+    "baseline": false
+  },
+  "veeva:cd052d4a-3038-4d17-a92a-acd2b1b9e669": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Architect",
+    "baseline": false
+  },
+  "veeva:260b617d-9903-4d46-8dca-26b0c08298af": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Migration Consultant - Clinical Data Programming",
+    "baseline": false
+  },
+  "veeva:588b293c-ab4e-41d5-8f01-2127df851853": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Migration Consultant - Clinical Data Programming",
+    "baseline": false
+  },
+  "veeva:ca139792-b5ad-4aba-9a9f-95d93b2c54c7": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Migration Consultant - Clinical Data Programming",
+    "baseline": false
+  },
+  "brillio-2:ade49bf9-3886-42aa-9bfb-8055a39f32f1": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571014",
+    "baseline": false
+  },
+  "brillio-2:ca370d82-0f53-4e1d-94cc-618f3d36d02d": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01571015",
+    "baseline": false
+  },
+  "brillio-2:cea5ad80-0cf3-4d0b-8107-ceefb35b0248": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01571191",
+    "baseline": false
+  },
+  "brillio-2:08616705-473f-4c61-91a1-5d16f7e0de0d": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Database & Middleware - R01571246",
+    "baseline": false
+  },
+  "sonatype:f00b30bd-7e89-4c96-8e2a-4fbb1cbe64dc": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Sonatype",
+    "title": "Technical Project Manager",
+    "baseline": false
+  },
+  "safe:7a1fef98-15ab-49cb-bf96-0b612470331a": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Safe Security",
+    "title": "Staff Engineer",
+    "baseline": false
+  },
+  "weekdayworks:cf673186-b9d1-4a66-8ada-40f069dfb797": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Weekday",
+    "title": "AI SEO Engineer",
+    "baseline": false
+  },
+  "weekdayworks:c2e7e7a2-4174-46f0-b0f2-7b4eec648dec": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Weekday",
+    "title": "Senior Technical Lead (Product Releases & Engineering)",
+    "baseline": false
+  },
+  "meesho:e1771bdd-0601-4af4-8f20-53553b4d3f10": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Meesho",
+    "title": "Manager - Performance Marketing",
+    "baseline": false
+  },
+  "meesho:4891a891-f431-4e98-99ae-0e31a21f0190": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Meesho",
+    "title": "Product Manager I",
+    "baseline": false
+  },
+  "getwingapp:18601fea-4383-4c3e-9fc8-aebd3099c221": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:1e4ca8ca-eea1-437e-8d60-efa760cd7ff4": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:52849533-1d8c-41cf-a28b-d43cb43bfe91": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:5b55ede7-b3bf-4f9c-b950-2a9bb46b14c9": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:7919f01f-1594-48a5-997a-3db97138206f": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:85347724-1480-463d-8391-0f91d39fc1fe": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:e5920100-49b5-4abb-be12-c80672c6a1d2": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:ee366e13-66ed-472c-9989-c0e7f7609b34": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI",
+    "baseline": false
+  },
+  "getwingapp:70056e51-59e4-4283-8411-94b0ff090e55": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Creator Sourcing & Content Assistant Full-time | 20869",
+    "baseline": false
+  },
+  "getwingapp:122c2106-882f-4ccb-a9e3-3786c4472cf9": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Digital & Field Events Marketer",
+    "baseline": false
+  },
+  "getwingapp:fde77141-609f-4cad-bbd4-7a898399471f": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Events Marketing Manager",
+    "baseline": false
+  },
+  "getwingapp:c013205f-bde2-4fc3-b328-08a3c1a2937c": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Events Specialist",
+    "baseline": false
+  },
+  "getwingapp:4a6e391f-61b0-4574-88ff-55a50aa0d6c4": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Field & Events Marketer",
+    "baseline": false
+  },
+  "getwingapp:4f9f2888-1ce7-449e-9850-ee12d2bf3f61": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Field & Events Marketer",
+    "baseline": false
+  },
+  "getwingapp:5a724170-a5b0-4878-b48c-a824885e1fcf": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Field & Events Marketer",
+    "baseline": false
+  },
+  "getwingapp:c04f187f-d0e5-463c-9c95-adeae86965d0": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Founding Field & Events Marketer",
+    "baseline": false
+  },
+  "getwingapp:645f3f93-2538-4e56-bf93-1a8e4397840f": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Onsite Recruiter",
+    "baseline": false
+  },
+  "getwingapp:158bb8d4-c2e3-45a8-9276-d162cacce32e": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Onsite Recruiter (143098)",
+    "baseline": false
+  },
+  "getwingapp:5fda8cff-7403-47a6-9c41-2779cea662aa": {
+    "first_seen": "2026-09-16T08:43:46.133201+00:00",
+    "company": "Wing Assistant",
+    "title": "Senior Project Manager | 20872",
+    "baseline": false
   }
 }
