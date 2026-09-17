@@ -12878,5 +12878,377 @@
     "company": "Wing Assistant",
     "title": "Senior Project Manager | 20872",
     "baseline": false
+  },
+  "lingarogroup:705417f0-5e99-422a-b45f-12c4575c178b": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Engineer - freelance",
+    "baseline": false
+  },
+  "lingarogroup:b7768d60-05fb-4cc6-b1a3-6185423ae6fa": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Lingaro",
+    "title": "GCP Data Architect - freelance",
+    "baseline": false
+  },
+  "lingarogroup:c94cbce1-e989-4985-b46c-1badb22e7d9c": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Lingaro",
+    "title": "GCP Data Engineer - freelance",
+    "baseline": false
+  },
+  "lingarogroup:343a65d1-13f3-42d3-9c79-2fe28874efff": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Lingaro",
+    "title": "Senior AWS Data Engineer",
+    "baseline": false
+  },
+  "azul:ce8f6c91-cd24-4865-82f7-d88939e75fb0": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Azul",
+    "title": "Senior Software Engineer, Frontend - Azul Intelligence Cloud",
+    "baseline": false
+  },
+  "saviynt:1aa05e51-e3e3-4ff1-a790-8a94e4e01fb4": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Saviynt",
+    "title": "Named Enterprise Account Executive - Ohio",
+    "baseline": false
+  },
+  "saviynt:005d9120-9c8c-469d-b81c-a07d2f593e6e": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Saviynt",
+    "title": "Sr. Benefits Specialist",
+    "baseline": false
+  },
+  "veeva:35dd31bf-c0ee-4366-b9c9-88a9f41e4cf5": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Development Cloud - France & Benelux",
+    "baseline": false
+  },
+  "veeva:197796f3-d4fa-40df-9e65-61806d47bd56": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Technical Consultant - English & Korean Speaking",
+    "baseline": false
+  },
+  "veeva:b84253b3-4222-40a6-9b02-a7be38a366f5": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Technical Consultant - English & Korean Speaking",
+    "baseline": false
+  },
+  "brillio-2:aea4d164-85a0-4ead-9778-8bbeecaa2f2e": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Data Specialist - R01569581",
+    "baseline": false
+  },
+  "brillio-2:3b650808-6191-4592-8378-c2cc68ceba1d": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Lead Data Engineer DBT ,SQL, Snowflake , Tableau - R01570901",
+    "baseline": false
+  },
+  "brillio-2:e94bec9c-30e3-402e-b8a8-3c3c262e94e7": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571024",
+    "baseline": false
+  },
+  "brillio-2:8d7b925f-c1f5-4112-bb74-e4d4d9201ee9": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Senior AI/ML Engineer - R01570503",
+    "baseline": false
+  },
+  "brillio-2:10aa7b0a-40cc-4f67-98dd-4d86d817281c": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Senior AI/ML Engineer - R01571293",
+    "baseline": false
+  },
+  "brillio-2:0310346e-e37d-4706-a1f8-f8d31fee5d1c": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Automation Solutions - R01571245",
+    "baseline": false
+  },
+  "brillio-2:040479ac-7000-4aa5-a1cd-c0ac5a61fe7a": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01571192",
+    "baseline": false
+  },
+  "brillio-2:82ef6d95-46e7-4713-afd9-3dd47f2bc971": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Database & Middleware - R01571253",
+    "baseline": false
+  },
+  "bazaarvoice:67a6a78c-10d4-4dba-ba19-0cc4cd22cea7": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Offensive Security Engineer(Cloud Operations)",
+    "baseline": false
+  },
+  "weekdayworks:641b2c57-63e7-45a0-97bf-8818524a71ce": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Weekday",
+    "title": "Data Product Analyst",
+    "baseline": false
+  },
+  "weekdayworks:5024c34f-42cc-467d-b9e4-559a12a2c035": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Weekday",
+    "title": "Data Product Analyst Specialist",
+    "baseline": false
+  },
+  "weekdayworks:c7ef3e83-d2db-4170-a533-503751b4a0d5": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Weekday",
+    "title": "Founder’s Office Intern",
+    "baseline": false
+  },
+  "weekdayworks:293bdb3d-454f-4163-bb7c-23eeb0bbeea8": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Weekday",
+    "title": "Leadership role in Finance",
+    "baseline": false
+  },
+  "weekdayworks:970a1630-eec0-464f-9ca2-d04615403984": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Weekday",
+    "title": "Senior Engineer - Analog Simulation CAD",
+    "baseline": false
+  },
+  "getwingapp:271cb520-1259-4c23-add8-4eccfdb9809a": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:b43633f8-13a2-47e8-9328-e24a8666c444": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:6005239f-02e6-4373-ad6a-3257f350582c": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Executive — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:c30c0a3e-cc3f-44a3-8437-d6e38d77fb51": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Account Manager, AI Agents",
+    "baseline": false
+  },
+  "getwingapp:2d8798ac-4aaf-4fcb-ac6e-82df5f95151f": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "B2B SaaS Growth Leader",
+    "baseline": false
+  },
+  "getwingapp:edc02ea5-dc5a-4919-963c-4e5cbb27218c": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Business Development Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:0f516281-4ec4-4baa-bedd-5f5b06a3fe32": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Community Manager | 20756",
+    "baseline": false
+  },
+  "getwingapp:28fc97f0-0134-47e2-b872-7b1ce649f26e": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Account Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:37c2c616-af45-4c26-95bd-67794604ea87": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Account Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:655e1a9f-f8b7-4934-a652-799000b0f956": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Account Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:79a5ea5b-3fd5-45ac-b021-918ca0bb4ef7": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Account Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:bdd5216a-2a81-46cf-b480-bbc7e0a74c13": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Engineer - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:84e9ad2a-4b7b-4162-b4ac-fa7adba448f9": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager",
+    "baseline": false
+  },
+  "getwingapp:3c126e89-1f92-4388-9986-805b7f28b5fe": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:42fbfcd5-a45b-40d4-a44d-98b1e9223157": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager, AI Agents",
+    "baseline": false
+  },
+  "getwingapp:a9a90958-845c-4aec-8a88-bf8a17f6889f": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager, AI Agents",
+    "baseline": false
+  },
+  "getwingapp:e10f026a-dfcf-4a8a-b993-5503523f2259": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager, AI Agents",
+    "baseline": false
+  },
+  "getwingapp:e250b336-9d61-48d3-bb00-dc401553032f": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager, AI Agents",
+    "baseline": false
+  },
+  "getwingapp:fbc4d852-dee0-4203-9b18-22fa1cfebfa2": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Manager, AI Agents",
+    "baseline": false
+  },
+  "getwingapp:0df32942-91b6-4ceb-9665-febabba83082": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Growth Operator - B2B SaaS",
+    "baseline": false
+  },
+  "getwingapp:8389e455-753c-44ac-bc3e-38b0a4d1e793": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Implementation & Customer Success Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:90c5f068-58cf-4f83-bf06-09c9da1536e2": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Implementation & Customer Success Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:c3bbbf52-73bf-4ffd-b1bb-2df957e59722": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Implementation & Customer Success Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:c9d120cb-421a-4466-8f83-473135532ea6": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Implementation & Customer Success Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:aab46c49-ef15-4767-87c1-c7d78b716bb5": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Implementation & Customer Success Specialist — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:8cebf62b-82a1-4751-94ca-15e90cdbbb35": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Inside Sales Manager",
+    "baseline": false
+  },
+  "getwingapp:1cae6ac6-a0aa-4ff4-9221-9c1fc62e4ddb": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Interviewer",
+    "baseline": false
+  },
+  "getwingapp:178725c3-1606-4561-b300-2df99db48fd6": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Product Manager - B2B SaaS & AI",
+    "baseline": false
+  },
+  "getwingapp:42c47de8-783c-4e43-abd7-211256879f75": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Sales Executive — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:fa08f1d6-f9bb-4db4-b5eb-ade16c8722b0": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Sales Executive — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:1e716146-9b46-446f-83a6-baeccf4d4156": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "SEO Content Marketer",
+    "baseline": false
+  },
+  "getwingapp:0ae1a5d5-6345-4abf-a808-48ea23228c84": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "SEO Content Specialist",
+    "baseline": false
+  },
+  "getwingapp:277cf5a8-656b-4471-a525-427b6024040f": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Technical Account Manager - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:e1d060d7-acb7-458b-b8ae-7647e0c32a14": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Technical Account Manager - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:92293938-7c6b-43ac-9f12-f537a6ce3313": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Technical Customer Success Manager - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:c3c9adba-568b-4f5d-864f-9437e442afab": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Technical Customer Success Manager - AI Agents",
+    "baseline": false
+  },
+  "getwingapp:c30c2eed-3ac4-4acc-82d7-f88d1378bb21": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Technical Customer Success Manager — AI Agents",
+    "baseline": false
+  },
+  "getwingapp:eb983330-cecc-4800-b65f-f0ca883b1ee5": {
+    "first_seen": "2026-09-17T08:50:14.731785+00:00",
+    "company": "Wing Assistant",
+    "title": "Technical Product Manager - B2B SaaS/AI",
+    "baseline": false
   }
 }
