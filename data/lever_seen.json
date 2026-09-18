@@ -13250,5 +13250,209 @@
     "company": "Wing Assistant",
     "title": "Technical Product Manager - B2B SaaS/AI",
     "baseline": false
+  },
+  "lingarogroup:48271877-f4e7-4f36-8cc0-cf8717b3f411": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Architect - freelance",
+    "baseline": false
+  },
+  "lingarogroup:75e25102-7c65-40b5-bf5b-39376544dd8f": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Engineering Architect - freelance",
+    "baseline": false
+  },
+  "lingarogroup:c61ffe1d-1076-4a27-ba53-16a778419b44": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineering Tech Lead - freelance",
+    "baseline": false
+  },
+  "lingarogroup:e67fad19-72b4-4708-8fd8-1965e9b42340": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Lingaro",
+    "title": "Senior AWS Data Engineer - freelance",
+    "baseline": false
+  },
+  "hevodata:95ab9f01-3671-4073-9990-4418aecb24e7": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Hevo Data",
+    "title": "Business System Engineer",
+    "baseline": false
+  },
+  "veeva:3fa519be-224f-4983-acce-ac7dc008e4f9": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - CRO",
+    "baseline": false
+  },
+  "veeva:aa4e4a75-eb5d-45fd-ad71-048a6b40f6a1": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Development Cloud - France & Benelux",
+    "baseline": false
+  },
+  "veeva:5e5e36d7-a943-4bf4-99f2-4fe48ec4924a": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Development Cloud - Southern Europe",
+    "baseline": false
+  },
+  "veeva:c19938c9-475d-4350-ad71-e3240d87daf8": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Development Cloud - Southern Europe",
+    "baseline": false
+  },
+  "veeva:79df174f-8b85-488a-aaf9-8737fcc59477": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "AI Solution Analyst",
+    "baseline": false
+  },
+  "veeva:a8b2599f-f9c0-4a46-b736-eacbe9abda88": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "AI Solution Analyst",
+    "baseline": false
+  },
+  "veeva:ba79f7a5-3f93-47e2-a531-5ed06049b6f3": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "AI Solution Analyst",
+    "baseline": false
+  },
+  "veeva:8daa7569-ea8e-4ea6-9778-23d2181be916": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Analyst - Computer Software Validation (Remote)",
+    "baseline": false
+  },
+  "veeva:c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Data Analyst - Pioneer",
+    "baseline": false
+  },
+  "veeva:3b392624-7ae2-46ec-956a-2efdbebffedb": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Managed Services Consultant - Commercial Vault (Remote)",
+    "baseline": false
+  },
+  "veeva:56a662eb-3f1e-43c2-8145-3b05fe714eae": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Managed Services Consultant - Commercial Vault (Remote)",
+    "baseline": false
+  },
+  "veeva:88504a4d-c402-4ff8-bd7d-8a72dbfd6883": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Veeva Systems",
+    "title": "Managed Services Consultant - Commercial Vault (Remote)",
+    "baseline": false
+  },
+  "brillio-2:e899238d-c1f9-4196-8595-16d64cb1aff7": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Brillio",
+    "title": "AI/ML Engineer - R01570580",
+    "baseline": false
+  },
+  "brillio-2:db8fcd41-cd24-4568-97eb-621c10c68fee": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Brillio",
+    "title": "Analyst - R01571355",
+    "baseline": false
+  },
+  "brillio-2:b4b04e62-eb0a-446a-8afa-17ac1e9c6c34": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Brillio",
+    "title": "Lead, Operations - R01571359",
+    "baseline": false
+  },
+  "brillio-2:6e925d17-52e7-41e8-97cf-a20a8b44782b": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Brillio",
+    "title": "Senior Process Associate - R01571357",
+    "baseline": false
+  },
+  "brillio-2:45fc230e-6bc5-422d-9e0b-5fdfbec2ba5e": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Engineer - R01571405",
+    "baseline": false
+  },
+  "brillio-2:18e0bed1-50d7-4b9f-9794-c016391ea758": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01567293",
+    "baseline": false
+  },
+  "everbridge:0e7dd2e6-aeea-426c-b46c-f1293da08bd0": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Everbridge",
+    "title": "Senior Software Engineer",
+    "baseline": false
+  },
+  "everbridge:f64ea5cf-345e-482b-b6ba-1d3fea62893e": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Everbridge",
+    "title": "Technical Account Manager - Everbridge 360 Prepare",
+    "baseline": false
+  },
+  "bazaarvoice:edffc98e-a42b-45b5-b0ef-c114e77cf83c": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Product Manager -Galleries",
+    "baseline": false
+  },
+  "weekdayworks:39c49dc6-bf53-4fc5-b225-050943383b62": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Weekday",
+    "title": "AWS Developer",
+    "baseline": false
+  },
+  "weekdayworks:0ecbceb7-7fab-4c9e-84ac-c498c0e3652a": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Weekday",
+    "title": "AWS Developer Engineer",
+    "baseline": false
+  },
+  "getwingapp:18aab85a-4758-4279-937f-4fbb52fed783": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Wing Assistant",
+    "title": "Head of Post-Sales Operations",
+    "baseline": false
+  },
+  "getwingapp:f4cf7a78-2348-4fdd-8774-eefef8c0e90c": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Wing Assistant",
+    "title": "Kitchen/Bath Design Coordinator Full-time | 20900",
+    "baseline": false
+  },
+  "getwingapp:babe0ae6-b932-4618-9b57-37587fe1225d": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Wing Assistant",
+    "title": "Outbound Sales Development Representative (Ireland-based) | 20355",
+    "baseline": false
+  },
+  "getwingapp:178be0a2-0566-458b-a4a4-9cb230b035d1": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Wing Assistant",
+    "title": "Outbound Sales Development Representative (UK-based) | 20355",
+    "baseline": false
+  },
+  "getwingapp:f1d63aab-c77e-4702-893d-2ae8cc7eb6fa": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Wing Assistant",
+    "title": "Spanish Bilingual Interviewer",
+    "baseline": false
+  },
+  "getwingapp:7bce9a04-dcc7-4e4a-bd77-4224ce0d818e": {
+    "first_seen": "2026-09-18T08:23:22.857146+00:00",
+    "company": "Wing Assistant",
+    "title": "Wholesale Operations Officer",
+    "baseline": false
   }
 }
