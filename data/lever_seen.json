@@ -13454,5 +13454,125 @@
     "company": "Wing Assistant",
     "title": "Wholesale Operations Officer",
     "baseline": false
+  },
+  "zimperium:5a5c97ed-acae-4eae-a638-5d610424d536": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Zimperium",
+    "title": "Sr. Sales Operations/Deal Desk & Order Management Specialist",
+    "baseline": false
+  },
+  "hevodata:8334030a-d6e3-46cc-96a4-f16c5412ed74": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Hevo Data",
+    "title": "Associate Technical Writer",
+    "baseline": false
+  },
+  "veeva:48554fbe-5ba6-479a-818b-bbd4c6ceaad3": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - LIMS - Northern Europe",
+    "baseline": false
+  },
+  "veeva:c55cc056-d55d-4d8c-90f4-b73c2b5cc4cf": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Veeva Systems",
+    "title": "AI Solution Analyst",
+    "baseline": false
+  },
+  "veeva:838b300a-9d8e-4893-9e95-67bef219b1d7": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - CRM Suite",
+    "baseline": false
+  },
+  "veeva:c544c2b1-240f-4fe3-9fea-9270851a9f5a": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - CRM Suite",
+    "baseline": false
+  },
+  "veeva:3b2f6603-7e1a-4dcf-bdee-5ee81405c584": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Veeva Systems",
+    "title": "Engagement Manager - Commercial Life Sciences",
+    "baseline": false
+  },
+  "veeva:5c7a8b6b-485d-44de-afb9-8a39fd451a1c": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Business Consultant - Commercial Life Sciences",
+    "baseline": false
+  },
+  "brillio-2:465a633f-4343-4514-ab52-76aa3e52bc12": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Brillio",
+    "title": "Consultant - R01570996",
+    "baseline": false
+  },
+  "brillio-2:911582db-2bb0-4972-b657-cce903f8ee74": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571349",
+    "baseline": false
+  },
+  "rapidai:c28e7a33-a056-4782-a9e0-16b8804de7b5": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "RapidAI",
+    "title": "Account Executive- Northeast USA",
+    "baseline": false
+  },
+  "safe:fb78afcd-5711-44d4-8533-56a6349dd528": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Safe Security",
+    "title": "SDE II - AI Platform",
+    "baseline": false
+  },
+  "safe:d27c2846-c34b-461a-bcce-b8889014102e": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Safe Security",
+    "title": "SDE III - Engineering Productivity (AI)",
+    "baseline": false
+  },
+  "bazaarvoice:ecb46b2a-77e4-4115-af96-c7e370c99c0d": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Bazaarvoice",
+    "title": "Client Success Manager",
+    "baseline": false
+  },
+  "bazaarvoice:a46c197d-63a1-4726-b877-fc7fce6d3160": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Bazaarvoice",
+    "title": "Product and Regulatory Counsel",
+    "baseline": false
+  },
+  "bazaarvoice:a13affb4-02f7-4785-9f05-5a6bb76789ed": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Bazaarvoice",
+    "title": "Technical Support Analyst.",
+    "baseline": false
+  },
+  "weekdayworks:aa1047ce-5fc0-4c73-bbb1-63283a215ea6": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Weekday",
+    "title": "Marketing Executive",
+    "baseline": false
+  },
+  "getwingapp:64dd59ad-a6f9-4380-a229-294b5efb316b": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Wing Assistant",
+    "title": "Interviewer",
+    "baseline": false
+  },
+  "getwingapp:a032b622-be6f-45c5-b91c-22333500c9f8": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Wing Assistant",
+    "title": "New York-Based Personal Assistant - 20660",
+    "baseline": false
+  },
+  "getwingapp:851cdcbd-a49b-4a4b-b7f8-886feab84c45": {
+    "first_seen": "2026-09-19T08:10:55.453158+00:00",
+    "company": "Wing Assistant",
+    "title": "Staffing Specialist",
+    "baseline": false
   }
 }
