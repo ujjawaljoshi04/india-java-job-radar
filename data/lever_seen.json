@@ -13574,5 +13574,53 @@
     "company": "Wing Assistant",
     "title": "Staffing Specialist",
     "baseline": false
+  },
+  "sonatype:4694e03a-5c74-4e8c-9725-bd4c81db4240": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Sonatype",
+    "title": "Enterprise Account Executive, Japan & SEA",
+    "baseline": false
+  },
+  "rapidai:d44d726c-024d-454d-95aa-0ab2b50f599b": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "RapidAI",
+    "title": "Senior Salesforce Developer",
+    "baseline": false
+  },
+  "weekdayworks:e83d9101-e205-4d3d-b6a0-25040151983b": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Weekday",
+    "title": "BODS Data Engineer",
+    "baseline": false
+  },
+  "weekdayworks:a175356c-6671-40f5-bf2e-cf58eea60f9e": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Weekday",
+    "title": "Data Engineer (BODS)",
+    "baseline": false
+  },
+  "weekdayworks:b5b18b99-d21e-4ae6-8787-a98d57e0e55a": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Weekday",
+    "title": "Machine Learning Engineer - 2",
+    "baseline": false
+  },
+  "weekdayworks:17b90b49-f71f-48a0-8fb7-1b187b6251de": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Weekday",
+    "title": "ML Engineer - 2",
+    "baseline": false
+  },
+  "weekdayworks:e4290ac0-b5e3-4422-8824-e6502051f900": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Weekday",
+    "title": "Salesforce Developer Specialist",
+    "baseline": false
+  },
+  "weekdayworks:5d52ed18-fa2c-489c-95c4-604dfb205e37": {
+    "first_seen": "2026-09-20T08:43:30.768755+00:00",
+    "company": "Weekday",
+    "title": "Sr Engineer Analog Simulation CAD",
+    "baseline": false
   }
 }
