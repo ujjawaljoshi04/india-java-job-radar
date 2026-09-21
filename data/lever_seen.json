@@ -13622,5 +13622,95 @@
     "company": "Weekday",
     "title": "Sr Engineer Analog Simulation CAD",
     "baseline": false
+  },
+  "saviynt:1392b5b8-614f-4ec6-b775-4fa24e87762a": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Saviynt",
+    "title": "Senior SDET",
+    "baseline": false
+  },
+  "hevodata:993a3ed3-3014-432f-b0f4-28d300d58d9a": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Hevo Data",
+    "title": "Associate Software Development Engineer (SDE)",
+    "baseline": false
+  },
+  "brillio-2:82cddac6-8c13-4fff-b240-b54ccb1dd6d6": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571233",
+    "baseline": false
+  },
+  "brillio-2:c66cf5f8-94a2-428c-988f-637f90629a96": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Associate Software Development Engineer - R01571396",
+    "baseline": false
+  },
+  "brillio-2:4eb71683-77d6-4dbf-b2d0-162e40b0d815": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Associate Software Development Engineer - R01571397",
+    "baseline": false
+  },
+  "brillio-2:67ef4169-cca4-4cf1-929a-979fa18a2a78": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer- R01568257",
+    "baseline": false
+  },
+  "brillio-2:a57aafe8-0f03-4eb1-bb1a-4e3beef8877d": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Lead, HR - R01568946",
+    "baseline": false
+  },
+  "brillio-2:dd823f51-19c3-49a4-979e-6b3dae0c10a2": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Senior Data Science Lead - R01571450",
+    "baseline": false
+  },
+  "brillio-2:c8aff68a-76b8-4ec4-84c1-f5e0ea932330": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer, Applications & Platforms - R01571307",
+    "baseline": false
+  },
+  "brillio-2:e6a51b61-8b8d-4c69-bc5e-18fb0803b905": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Senior Manager, Strategy & Consulting - R01568910",
+    "baseline": false
+  },
+  "brillio-2:fe587d24-eb26-4ab1-8ff9-805f797a7476": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01571230",
+    "baseline": false
+  },
+  "weekdayworks:b41743d4-da89-4cdd-8a56-d75eab8676cd": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Weekday",
+    "title": "Senior Accounts Executive",
+    "baseline": false
+  },
+  "weekdayworks:2cf0a4a1-c1d2-44c7-bec7-48865b1108ed": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Weekday",
+    "title": "Senior Manager - marketing",
+    "baseline": false
+  },
+  "meesho:fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Meesho",
+    "title": "Forward Deployed Engineer - II",
+    "baseline": false
+  },
+  "meesho:113ff930-b5bf-42c7-a07d-aa66a9de89d9": {
+    "first_seen": "2026-09-21T09:09:33.868076+00:00",
+    "company": "Meesho",
+    "title": "Project Manager- Warehouse Automation",
+    "baseline": false
   }
 }
