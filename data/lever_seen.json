@@ -13712,5 +13712,161 @@
     "company": "Meesho",
     "title": "Project Manager- Warehouse Automation",
     "baseline": false
+  },
+  "saviynt:93eabf01-25e3-452a-97b6-686274f600c1": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Saviynt",
+    "title": "Technical Support Engineer",
+    "baseline": false
+  },
+  "zimperium:3d25782f-d020-49f3-80f1-43a7ecd85a10": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Zimperium",
+    "title": "Site Reliability Engineer - Dallas, TX",
+    "baseline": false
+  },
+  "hevodata:d8c6feac-e13c-4582-b9e0-550fde88aab4": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Hevo Data",
+    "title": "Engineering Manager",
+    "baseline": false
+  },
+  "hevodata:229a9ab2-2369-4c89-afd8-09cd5bfc2c20": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Lead Manager",
+    "baseline": false
+  },
+  "veeva:4106dc84-7827-4c2f-8262-7adff44a0757": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva Clinical Operations",
+    "baseline": false
+  },
+  "veeva:9af807f1-80f3-4690-b30e-4f5ff69890b5": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva Clinical Operations",
+    "baseline": false
+  },
+  "veeva:68f2a018-52d2-4cbf-bcc4-9f4e4dddfbd9": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - China Clinical Operations",
+    "baseline": false
+  },
+  "veeva:70f2f193-302d-4a45-9f6c-74a1741e15d8": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - China Clinical Operations",
+    "baseline": false
+  },
+  "brillio-2:fd40a821-dfcb-4fe7-9aa8-252524b00572": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571312",
+    "baseline": false
+  },
+  "brillio-2:5da8087b-12b6-4e28-9b31-a8a6caf0c55d": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571315",
+    "baseline": false
+  },
+  "brillio-2:97a1ad5f-480b-44aa-88fe-10f09641268c": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571338",
+    "baseline": false
+  },
+  "brillio-2:b145192a-6a77-4434-890e-10d6dc367fd2": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571345",
+    "baseline": false
+  },
+  "brillio-2:dd802552-7843-4491-b509-e06e15778b17": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Brillio",
+    "title": "Senior Product Manager - R01571422",
+    "baseline": false
+  },
+  "weekdayworks:cda94d4b-bae7-492a-b5f3-707fb69c301d": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Weekday",
+    "title": "Assistant Sales Manager- Real Estate Sales",
+    "baseline": false
+  },
+  "weekdayworks:35d27000-eeac-47d9-b68b-2b16f1013799": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Weekday",
+    "title": "Sales Account Executive (B2B Sales)",
+    "baseline": false
+  },
+  "weekdayworks:c9d6fcaf-4a0b-4a75-8cb7-a4b78086606c": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Weekday",
+    "title": "Senior Architect (Designer)",
+    "baseline": false
+  },
+  "weekdayworks:1d3b3656-6a6d-4adc-bba5-0d7047ef421b": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Weekday",
+    "title": "Sourcing Manager - Channel Sales (Mumbai)",
+    "baseline": false
+  },
+  "wmg:82541d7f-6d5f-485b-9fc3-cd5640bc0d6c": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Warner Music Group",
+    "title": "Lead, Business Development & Licensing - Sureel AI",
+    "baseline": false
+  },
+  "wmg:ea69eb64-76d5-485f-8d1a-f83ad9f95ca6": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Warner Music Group",
+    "title": "Lead, Client Partnerships- Sureel",
+    "baseline": false
+  },
+  "wmg:c22fa4b3-5d10-4e48-811c-f4288db8e641": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Warner Music Group",
+    "title": "Lead, Marketing - Sureel AI",
+    "baseline": false
+  },
+  "wmg:ddbe45ea-d3c5-4b19-a7db-95a91981af8c": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Warner Music Group",
+    "title": "Lead, Marketing - Sureel AI",
+    "baseline": false
+  },
+  "wmg:f61ea87d-480e-44f3-969a-9649521b4f29": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Forward Deployed Engineer, Data & AI",
+    "baseline": false
+  },
+  "getwingapp:b7cb4f8e-01dc-46dc-954e-ec331de9536e": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Wing Assistant",
+    "title": "Client Relations Coach",
+    "baseline": false
+  },
+  "getwingapp:7d88d11c-1825-41cc-9156-9da72d61bf92": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Wing Assistant",
+    "title": "E-commerce Business Administration Assistant | 20609",
+    "baseline": false
+  },
+  "getwingapp:3d1bcc23-877f-4e06-a0fa-0cf0b6332255": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Wing Assistant",
+    "title": "Enterprise SDR / Appointment Setter Part-time | 20865",
+    "baseline": false
+  },
+  "getwingapp:e5e56929-1ec6-4d13-ba8d-328d83ac3b9b": {
+    "first_seen": "2026-09-22T08:41:31.412201+00:00",
+    "company": "Wing Assistant",
+    "title": "Personal Assistant (New York-based) Part-time | 20660",
+    "baseline": false
   }
 }

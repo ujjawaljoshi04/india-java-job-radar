@@ -1,18 +1,19 @@
 {
-  "refreshed_at": "2026-09-21T09:10:01.813698+00:00",
-  "total_jobs": 27,
-  "existing_recent_jobs": 11,
-  "jooble_new_jobs": 0,
-  "greenhouse_new_jobs": 2,
+  "refreshed_at": "2026-09-22T08:42:02.736518+00:00",
+  "total_jobs": 13,
+  "existing_recent_jobs": 0,
+  "jooble_new_jobs": 4,
+  "greenhouse_new_jobs": 1,
   "lever_new_jobs": 0,
   "ashby_new_jobs": 0,
-  "adzuna_new_jobs": 22,
-  "total_new_jobs": 24,
+  "adzuna_new_jobs": 8,
+  "total_new_jobs": 13,
   "final_source_counts": {
-    "greenhouse": 2,
-    "adzuna": 25
+    "adzuna": 8,
+    "jooble": 4,
+    "greenhouse": 1
   },
-  "jooble_rejected_by_experience": 0,
+  "jooble_rejected_by_experience": 2,
   "max_age_hours": 24,
   "experience_min": 0,
   "experience_max": 2
