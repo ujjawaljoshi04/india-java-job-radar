@@ -13868,5 +13868,269 @@
     "company": "Wing Assistant",
     "title": "Personal Assistant (New York-based) Part-time | 20660",
     "baseline": false
+  },
+  "saviynt:5cac52ae-3fc1-4685-9020-e11fb5d90045": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Saviynt",
+    "title": "Senior Sales Engineer - Great Lakes",
+    "baseline": false
+  },
+  "zimperium:5ecb1c05-7218-426f-9e17-9583808f6168": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Zimperium",
+    "title": "Business Development Representative (SaaS & Cybersecurity) - Central or Northeast",
+    "baseline": false
+  },
+  "veeva:26300f4d-67c1-453e-8dd2-0ab5610c1124": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Product Manager - Vault Medical Connections",
+    "baseline": false
+  },
+  "veeva:2d7cdfa5-613c-4311-89c9-d673fad1aabc": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Product Manager - Vault Medical Connections",
+    "baseline": false
+  },
+  "veeva:d23160b9-84ca-449c-97e6-45acc014d09c": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Product Manager - Vault Medical Connections",
+    "baseline": false
+  },
+  "veeva:024fc699-4a9d-4ce0-b022-508773e469e7": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Expert – Veeva RIM Submissions, Archive, and Publishing",
+    "baseline": false
+  },
+  "veeva:4bf5ba51-ad92-4e19-b373-62fc691ed691": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Expert – Veeva RIM Submissions, Archive, and Publishing",
+    "baseline": false
+  },
+  "veeva:daa8d89e-77c1-4f5e-aad7-0255fe91c41b": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Expert – Veeva RIM Submissions, Archive, and Publishing",
+    "baseline": false
+  },
+  "veeva:1b01b3b2-7089-4e0a-98d9-65beab211b10": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior / Solution Consultant - Veeva Quality India",
+    "baseline": false
+  },
+  "veeva:2f7b7c41-e5d6-436a-bbd2-18a28d797307": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior / Solution Consultant - Veeva Quality India",
+    "baseline": false
+  },
+  "veeva:93f7983e-35f2-421d-88c6-adbce51e5bb5": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior / Solution Consultant - Veeva Quality India",
+    "baseline": false
+  },
+  "veeva:023ac3fd-cbf0-4408-a5df-5b9e5622ee8d": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Manager - Payroll",
+    "baseline": false
+  },
+  "brillio-2:cebd0010-dd1f-4759-b500-756b6f77b676": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571617",
+    "baseline": false
+  },
+  "brillio-2:4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Data Engineer - R01571442",
+    "baseline": false
+  },
+  "brillio-2:dddce7ff-9787-4e7e-8543-fd6db2df0c11": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Desktop Engineer (AV /VIP Support) - R01570418",
+    "baseline": false
+  },
+  "brillio-2:c1e6f885-6e3a-4409-8729-53c8925d250b": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "IT Support Engineer - Executive & Workplace Technology",
+    "baseline": false
+  },
+  "brillio-2:b366bbf2-4161-4d91-9f92-7cd1b421f078": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Lead AI Engineer I - R01571481",
+    "baseline": false
+  },
+  "brillio-2:ec18f1c5-2128-4ad7-b303-2ee773fddaf8": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Lead AI Engineer I - R01571482",
+    "baseline": false
+  },
+  "brillio-2:74b72ad5-8232-4530-a543-eaa8a26818a5": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Lead Data Engineer - R01571409",
+    "baseline": false
+  },
+  "brillio-2:89287694-2f38-4044-bd38-860262d3ddcb": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01569919",
+    "baseline": false
+  },
+  "brillio-2:eb61c633-d693-4517-afb6-ae4c2068a6d2": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Network - R01571677",
+    "baseline": false
+  },
+  "sonatype:9ca63cfd-ae34-40f6-bbf4-2e9c76a26f4c": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Sonatype",
+    "title": "Senior Manager, Velocity Account Executives, EMEA",
+    "baseline": false
+  },
+  "sonatype:ac3ae224-53bc-4ffa-af38-95e84e4b5047": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Sonatype",
+    "title": "Senior Manager, Velocity Account Executives, North America",
+    "baseline": false
+  },
+  "safe:334e7c80-d324-4ff9-8a0d-5d7a85c60968": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Safe Security",
+    "title": "Vulnerability Researcher II",
+    "baseline": false
+  },
+  "everbridge:c9ed37ab-88a8-4d06-9cc7-c4e7836b2e4c": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Everbridge",
+    "title": "Global Assist Specialist",
+    "baseline": false
+  },
+  "everbridge:5961d325-371c-45fd-9f30-21865664ef26": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Everbridge",
+    "title": "Senior Full-Stack Software Engineer, AI & Data",
+    "baseline": false
+  },
+  "everbridge:b31f279e-ac7d-454d-bbf9-3719e4143718": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Everbridge",
+    "title": "Senior Python, Cloud Infrastructure & AI Engineer",
+    "baseline": false
+  },
+  "everbridge:30c61b49-e032-4929-96fb-3c1e6575329d": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Everbridge",
+    "title": "Territory Sales Manager, State & Local Government - West",
+    "baseline": false
+  },
+  "bazaarvoice:efec626f-d8da-4315-b562-5fedbdb4b8e9": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Bazaarvoice",
+    "title": "QA Implementation Analyst",
+    "baseline": false
+  },
+  "bazaarvoice:b0f9a721-4a2c-48c3-a488-3bf0bbf0663d": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Bazaarvoice",
+    "title": "Technical Consultant - French speaking",
+    "baseline": false
+  },
+  "weekdayworks:ef1ae9a8-d957-4809-95a9-f23f1f922de0": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Creative Media Producer",
+    "baseline": false
+  },
+  "weekdayworks:bba0a667-093b-4a75-bdd9-fd6dc48d969f": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Design Verification Lead",
+    "baseline": false
+  },
+  "weekdayworks:a0a8757e-20a9-4989-87bc-18e5ddc24b08": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "DevSecOps & Product Security Engineer",
+    "baseline": false
+  },
+  "weekdayworks:47aac779-d030-492b-89fb-b640adadd030": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Inside Sales Executive",
+    "baseline": false
+  },
+  "weekdayworks:8406087e-d8af-452b-b71a-26c4102df91a": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Lead Machine Learning Engineer",
+    "baseline": false
+  },
+  "weekdayworks:e28f0be1-54ab-4b4c-9b2c-7ba3b0691bd7": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Lead Site Reliability Engineer or Platform Engineer",
+    "baseline": false
+  },
+  "weekdayworks:3002a2d2-f8aa-4617-b1ce-71dbc158c27d": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "PR Associate",
+    "baseline": false
+  },
+  "weekdayworks:1b2e7777-9451-4315-91a0-11a82e687195": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Senior Full Stack Developer",
+    "baseline": false
+  },
+  "weekdayworks:42408ed8-e582-4e4e-ba6a-c69049533ac1": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Weekday",
+    "title": "Social Media Marketer",
+    "baseline": false
+  },
+  "meesho:c84e4b2c-653a-4cf8-abd9-e70d0c5e4cd8": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Meesho",
+    "title": "Cluster Head- Last mile - Chennai",
+    "baseline": false
+  },
+  "meesho:fa26aec6-d483-469e-9d98-3a01da28af26": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Meesho",
+    "title": "Cluster Head- Last mile Telangana (Hyderabad)",
+    "baseline": false
+  },
+  "wmg:2bd35d79-2985-40e6-bf9f-e2942c392e49": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Warner Music Group",
+    "title": "Engineering Manager, Forward Deployed Engineering",
+    "baseline": false
+  },
+  "getwingapp:22fa7c55-091c-45f3-989a-731d011f2cf7": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Wing Assistant",
+    "title": "GoHighLevel Automation Specialist Part-time | 20865",
+    "baseline": false
+  },
+  "getwingapp:e8321473-0e82-420e-905a-3a048614ade0": {
+    "first_seen": "2026-09-23T08:43:28.901862+00:00",
+    "company": "Wing Assistant",
+    "title": "Multimedia Designer Full-time | 20919",
+    "baseline": false
   }
 }
