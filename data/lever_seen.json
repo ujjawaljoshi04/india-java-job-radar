@@ -14132,5 +14132,233 @@
     "company": "Wing Assistant",
     "title": "Multimedia Designer Full-time | 20919",
     "baseline": false
+  },
+  "lingarogroup:cd755053-4b17-4958-84be-6459737b0120": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Lingaro",
+    "title": "Business Analyst",
+    "baseline": false
+  },
+  "lingarogroup:25d462fa-0aca-40c5-af5e-0fac492b48dc": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Lingaro",
+    "title": "Business Analyst (Contractual)",
+    "baseline": false
+  },
+  "lingarogroup:e8f2ef16-8d44-4051-8dad-effd2b690086": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Lingaro",
+    "title": "Test Automation Engineer",
+    "baseline": false
+  },
+  "saviynt:610e8373-558b-4abf-8206-84d5d3d60015": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Saviynt",
+    "title": "RVP, Field Sales - Public Sector",
+    "baseline": false
+  },
+  "veeva:1555d2e8-bd56-4c44-b2b0-5b9914267a78": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner Commercial",
+    "baseline": false
+  },
+  "veeva:482923f9-43db-4703-aa43-acc6a09fc536": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - RTSM",
+    "baseline": false
+  },
+  "veeva:7c8fdf32-e8e0-4c0f-a996-4f20851a04f0": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Associate - RTSM",
+    "baseline": false
+  },
+  "veeva:c7b81fa6-01f2-418f-b57b-561aa007516e": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Associate - RTSM",
+    "baseline": false
+  },
+  "veeva:0de34a06-2a19-4806-bd75-cd7b9d54c80c": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Technical Operations Support Engineer",
+    "baseline": false
+  },
+  "veeva:739c770b-a793-4a89-a7b5-707b6e427513": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Validation Analyst - RTSM",
+    "baseline": false
+  },
+  "veeva:84abdb7e-9c1d-4246-a068-7840bb908bcc": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Veeva Systems",
+    "title": "Validation Analyst - RTSM",
+    "baseline": false
+  },
+  "brillio-2:c5e9626d-5b3c-4ccd-b4cb-cca0802fd97f": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571518",
+    "baseline": false
+  },
+  "brillio-2:107f8607-2acb-4f6b-adbf-3acc4f157f09": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571675",
+    "baseline": false
+  },
+  "brillio-2:796ef75e-c5ee-4d21-9815-216f1c2b4247": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Director, Engineering - R01569289",
+    "baseline": false
+  },
+  "brillio-2:3731a68d-ff46-4788-a298-598f184e4ad8": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Golang / PostgreSQL Developer with React & Healthcare Domain - R01571229",
+    "baseline": false
+  },
+  "brillio-2:97711db5-6214-422f-bd7d-8943cc5141b9": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01570887",
+    "baseline": false
+  },
+  "brillio-2:ed4c7c2e-ca9d-44f1-8b28-81e1b25a0bda": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571540",
+    "baseline": false
+  },
+  "brillio-2:85e619ca-6cc6-4c4e-8ad2-47af570558ac": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571555",
+    "baseline": false
+  },
+  "brillio-2:42943525-597f-49be-96bd-88ba0eed2d29": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Netsuite Developer  - R01571471",
+    "baseline": false
+  },
+  "brillio-2:96c36747-fcc3-478b-a644-3b2413cbe3c8": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Brillio",
+    "title": "Senior AI/ML Engineer - R01571019",
+    "baseline": false
+  },
+  "sonatype:7303c7e5-4861-4e63-a0e3-b261d4ed3c7c": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Sonatype",
+    "title": "Principal Full Stack Software Engineer",
+    "baseline": false
+  },
+  "sonatype:90086da8-a7e9-4bfc-a82b-275ff98536c6": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Sonatype",
+    "title": "Senior Java Product Support Engineer",
+    "baseline": false
+  },
+  "bazaarvoice:c053feee-e0ae-4f1c-81c7-b93ac8caebae": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Bazaarvoice",
+    "title": "Accounting Intern",
+    "baseline": false
+  },
+  "bazaarvoice:a2e3b923-8087-4b97-9ec8-01bd51ae8852": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Bazaarvoice",
+    "title": "Client Success",
+    "baseline": false
+  },
+  "weekdayworks:4325068f-d2e0-4121-9b76-f7d44627597c": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Weekday",
+    "title": "Head Of Pricing",
+    "baseline": false
+  },
+  "weekdayworks:4924f6af-74cc-4938-b9cf-5c022eac1694": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Weekday",
+    "title": "Principal Wealth Advisor",
+    "baseline": false
+  },
+  "weekdayworks:25fb7970-5052-4fc7-8f42-b8b20f1e9f25": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Weekday",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "meesho:22bd899a-f442-419f-9d3f-5046b715c40d": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Meesho",
+    "title": "Deputy Manager- Procurement",
+    "baseline": false
+  },
+  "meesho:cb7d016b-5071-409e-b8d8-a10e19b2946e": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Meesho",
+    "title": "Director - Design",
+    "baseline": false
+  },
+  "meesho:f110ad65-8402-4e8d-83e9-0e6e59b4389c": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Meesho",
+    "title": "Lead Product Designer",
+    "baseline": false
+  },
+  "meesho:534e9923-b091-4250-a178-b28c7c5c99be": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Meesho",
+    "title": "Senior Manager, CEO's Office",
+    "baseline": false
+  },
+  "getwingapp:4b2cd873-b871-4eb7-a766-2dacb37a0894": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Financial Assistant, Wealth Management (Part Time)",
+    "baseline": false
+  },
+  "getwingapp:72d0dbab-0d75-44c3-ac03-33ff09a0d5ea": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Financial Assistant, Wealth Management (Part Time)",
+    "baseline": false
+  },
+  "getwingapp:a617c22c-254a-4d28-9a8a-a6d2c4224680": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Financial Assistant, Wealth Management (Part Time)",
+    "baseline": false
+  },
+  "getwingapp:ab429ea4-2cdd-4ca4-be87-e98d2e79419f": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Financial Assistant, Wealth Management (Part Time)",
+    "baseline": false
+  },
+  "getwingapp:f0b708c1-8403-43b1-83d0-7cf4522c3bcd": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Financial Assistant, Wealth Management (Part Time)",
+    "baseline": false
+  },
+  "getwingapp:2ad1be6b-5301-47c4-8f96-3e6db5d7c137": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Outbound Sales Development Representative (PH-based) | 20355",
+    "baseline": false
+  },
+  "getwingapp:e4e3778d-7afc-4387-93eb-40558945eeed": {
+    "first_seen": "2026-09-24T08:36:42.724142+00:00",
+    "company": "Wing Assistant",
+    "title": "Shopify Operations Manager (US-based) Full-time | 20823",
+    "baseline": false
   }
 }
