@@ -14360,5 +14360,221 @@
     "company": "Wing Assistant",
     "title": "Shopify Operations Manager (US-based) Full-time | 20823",
     "baseline": false
+  },
+  "saviynt:81899c6a-f376-4f96-9c91-427b280acdba": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Saviynt",
+    "title": "Senior platform Support Engineer",
+    "baseline": false
+  },
+  "hevodata:96993ebc-609a-4733-84cd-e1a0c3e69fda": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Hevo Data",
+    "title": "Associate Customer Experience Engineer",
+    "baseline": false
+  },
+  "hevodata:bfdebed3-3762-4854-a1e9-01bda6bebe09": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Customer Experience Engineer",
+    "baseline": false
+  },
+  "veeva:e7540220-4364-4ca1-9ce1-f1c68b7c50ff": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Consultant (R&D)",
+    "baseline": false
+  },
+  "veeva:0382fb4f-23fe-4ae6-90bc-7f6f3257e585": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Veeva Systems",
+    "title": "Data Scientist - Analytics Business Consulting",
+    "baseline": false
+  },
+  "brillio-2:7a6b8ea4-dc59-49af-8ba2-f4b1c72e7fc7": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571180",
+    "baseline": false
+  },
+  "brillio-2:c2a13fbf-c85e-438c-b6fa-5a55a8224c87": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01571684",
+    "baseline": false
+  },
+  "brillio-2:4679cfbc-b215-4371-baa0-6e51df99d5b3": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Associate Project Manager - R01571707",
+    "baseline": false
+  },
+  "brillio-2:7a4957bd-c6b9-4f8b-8382-e1bf3e095a7a": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Data Scientist - R01571772",
+    "baseline": false
+  },
+  "brillio-2:e4a4be2d-48cb-4d7e-b912-79d0ac8076a5": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Data Scientist - R01571773",
+    "baseline": false
+  },
+  "brillio-2:63b96826-8860-4847-9263-d8d64f51aa88": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Engineer - R01571794",
+    "baseline": false
+  },
+  "brillio-2:00ebf0ec-b6b2-4850-a617-242e2896c762": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Engineer - R01571801",
+    "baseline": false
+  },
+  "brillio-2:0816d222-40e4-4bde-a6a1-f8be20545ff9": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Lead Data Analyst (US Regulatory Reporting) - R01571259",
+    "baseline": false
+  },
+  "brillio-2:eb726f98-5bc9-4ee1-b397-6b2842281fa7": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571703",
+    "baseline": false
+  },
+  "brillio-2:4b74196b-5578-4710-a6ca-ccd651098df0": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Lead OR Full Stack Developer (React, TypeScript, Go/ Java/Python/Node.js, AWS) - R01570568",
+    "baseline": false
+  },
+  "brillio-2:c2ae4c61-efe9-49ab-ab81-3527bf1ac19d": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Lead OR Full Stack Developer (React, TypeScript, Go/ Java/Python/Node.js, AWS)- R01570569",
+    "baseline": false
+  },
+  "brillio-2:8dddfa41-9c4b-4634-9078-2bc1bab9a207": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Lead Quality Engineer - R01571704",
+    "baseline": false
+  },
+  "brillio-2:97fdcb9c-5161-400c-a627-7d104537268f": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Principal Data Scientist - R01568403",
+    "baseline": false
+  },
+  "brillio-2:591e661c-8db4-4b0a-a5e9-2d66acdff90c": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Senior Data Specialist - R01571898",
+    "baseline": false
+  },
+  "brillio-2:d04f0e23-a4f6-4c92-a71d-de8d5b386692": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01571681",
+    "baseline": false
+  },
+  "brillio-2:e7459678-f2d8-419f-a9e0-dbd7917c7344": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Quality Engineer - R01571335",
+    "baseline": false
+  },
+  "brillio-2:3bff123d-f128-4c59-9a7b-bf5044fe0cac": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01571334",
+    "baseline": false
+  },
+  "brillio-2:bbcc7c4c-0d01-4e7a-bc8a-95802c010afe": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01570982",
+    "baseline": false
+  },
+  "brillio-2:7f602e27-3019-4897-a52f-b6c4c019ba7e": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Brillio",
+    "title": "Sr. Full Stack Developer - R01570573",
+    "baseline": false
+  },
+  "weekdayworks:9fc77111-58ab-410c-aa9b-d3e4e26360d5": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Weekday",
+    "title": "Accounts Receivable Specialist",
+    "baseline": false
+  },
+  "weekdayworks:e0db2478-b7a6-4866-be02-895658c50588": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Weekday",
+    "title": "Business Development & EXIM",
+    "baseline": false
+  },
+  "weekdayworks:112c01e8-3615-4b4b-8892-c4df2dd6f98a": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Weekday",
+    "title": "Presales Engineer",
+    "baseline": false
+  },
+  "weekdayworks:f10e2607-228e-4e90-ad0b-960bc0caefe1": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Weekday",
+    "title": "Recruitment Associate (Financial Services)",
+    "baseline": false
+  },
+  "meesho:f74fc3fd-98ea-4a85-8232-f189b65878f8": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Meesho",
+    "title": "Assistant Manager - Risk Analytics - User Lending",
+    "baseline": false
+  },
+  "meesho:1969c4c1-fbcc-455a-850b-092d1d83eb2b": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Meesho",
+    "title": "Manager - Risk Analytics - User Lending",
+    "baseline": false
+  },
+  "getwingapp:5f472a55-aff5-40fd-88cd-fc1c928c5880": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Product Manager",
+    "baseline": false
+  },
+  "getwingapp:8629b3e1-7a47-4622-8938-108c9d9834de": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Product Manager",
+    "baseline": false
+  },
+  "getwingapp:a3670f9e-81e7-4809-b4ee-0a72fb443b88": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Product Manager",
+    "baseline": false
+  },
+  "getwingapp:a5907e86-5956-49bb-b39c-4712f6340c54": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Product Manager",
+    "baseline": false
+  },
+  "getwingapp:b00be2ff-1e9e-4ed1-9a7b-3faf334887f0": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Product Manager",
+    "baseline": false
+  },
+  "getwingapp:c291630a-2227-4a9b-8109-47d2856df6b8": {
+    "first_seen": "2026-09-25T08:58:04.997510+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success & Product Manager",
+    "baseline": false
   }
 }
