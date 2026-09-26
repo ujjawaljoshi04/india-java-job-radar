@@ -14576,5 +14576,131 @@
     "company": "Wing Assistant",
     "title": "Customer Success & Product Manager",
     "baseline": false
+  },
+  "veeva:56306133-737c-4e11-9ddc-64e4c54ee46e": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner Commercial",
+    "baseline": false
+  },
+  "veeva:ab585a9c-1126-48e2-b4c8-51e808ba5504": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Veeva Systems",
+    "title": "Data Scientist - Analytics Business Consulting",
+    "baseline": false
+  },
+  "veeva:58aecbb6-133b-4b68-a556-6b9f71adefe5": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Marketing Senior Manager",
+    "baseline": false
+  },
+  "veeva:8aa1748a-8c90-467b-af61-5abf9949ba50": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Marketing Senior Manager",
+    "baseline": false
+  },
+  "veeva:ce84f05f-69a1-4788-a59d-8cfabd981296": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Marketing Senior Manager",
+    "baseline": false
+  },
+  "brillio-2:e258486b-2e9c-48b6-9cab-330e8aba301b": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Director, Strategy & Consulting - R01570309",
+    "baseline": false
+  },
+  "brillio-2:9a8a6c2d-d278-4f88-a5e3-d463c9ce8aa6": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571537",
+    "baseline": false
+  },
+  "brillio-2:62d17dcf-6406-482e-a814-10b99efe59a3": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571546",
+    "baseline": false
+  },
+  "brillio-2:a90e4d6c-e03f-47ec-ba5e-ce9d461fa70f": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571556",
+    "baseline": false
+  },
+  "brillio-2:7f47df67-f83a-4a26-8ba0-0f1241130397": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01571561",
+    "baseline": false
+  },
+  "brillio-2:170fb4c9-1346-49f1-9014-d56a36cae2c3": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01571651",
+    "baseline": false
+  },
+  "brillio-2:17f5b956-a0a4-4627-b573-4e5e8d16937a": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01571652",
+    "baseline": false
+  },
+  "brillio-2:e93a454a-1b29-44cd-aed4-f13a72ca8feb": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01571653",
+    "baseline": false
+  },
+  "weekdayworks:58f99835-e776-4c96-8d05-8bc319994107": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Weekday",
+    "title": "Business Development Executive",
+    "baseline": false
+  },
+  "weekdayworks:35346699-754d-4431-985e-e4d246118e0c": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Weekday",
+    "title": "QA Engineer - Manual testing",
+    "baseline": false
+  },
+  "weekdayworks:f346acc6-4afc-4162-ab64-33d6bd6f2c17": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Weekday",
+    "title": "Qualified Financial Advisor",
+    "baseline": false
+  },
+  "weekdayworks:675af76d-b134-4399-b20b-c5867b5463d7": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Weekday",
+    "title": "Senior Account Manager (Project Operations & Client Relationships)",
+    "baseline": false
+  },
+  "meesho:538d386d-a584-41ed-91dc-607f83ca1c91": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Meesho",
+    "title": "Deputy Manager - Logistics Intelligence",
+    "baseline": false
+  },
+  "meesho:07d86780-64fb-4ecf-b1d1-9b4602b436de": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Meesho",
+    "title": "Deputy Manager - Revenue Intelligence and Governance",
+    "baseline": false
+  },
+  "getwingapp:395f2c35-13a3-47ce-9389-e67560d81c54": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Wing Assistant",
+    "title": "Executive Assistant - Sales Department",
+    "baseline": false
+  },
+  "getwingapp:27995c6c-a810-4400-9926-a339b6ebcba6": {
+    "first_seen": "2026-09-26T08:44:41.087942+00:00",
+    "company": "Wing Assistant",
+    "title": "General Virtual Assistant (PH) | 20977",
+    "baseline": false
   }
 }
