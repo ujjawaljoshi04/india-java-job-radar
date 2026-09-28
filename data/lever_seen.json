@@ -14702,5 +14702,47 @@
     "company": "Wing Assistant",
     "title": "General Virtual Assistant (PH) | 20977",
     "baseline": false
+  },
+  "saviynt:45077e7b-6c8c-41e5-8839-6f16ef782f47": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Saviynt",
+    "title": "Senior Sales Development Representative",
+    "baseline": false
+  },
+  "brillio-2:0ac430f5-685e-4598-be05-e4d7ffde8750": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01571999",
+    "baseline": false
+  },
+  "safe:b1e774a9-4b7a-4887-bfc5-042d11ba979a": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Safe Security",
+    "title": "Security Researcher II (WAF)",
+    "baseline": false
+  },
+  "safe:ab5a5f19-aee7-43e9-873b-6d7bc972cb23": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Safe Security",
+    "title": "Threat Researcher II (AEV)",
+    "baseline": false
+  },
+  "weekdayworks:ab43c11a-e448-41f7-a4df-d3b31852c0c5": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Weekday",
+    "title": "Talent Acquisition Manager",
+    "baseline": false
+  },
+  "meesho:2028b73c-2ae0-4fca-903e-481b8c500629": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Meesho",
+    "title": "Senior Product Manager",
+    "baseline": false
+  },
+  "meesho:97ce9e5a-a8bb-446d-a8db-9078603b106f": {
+    "first_seen": "2026-09-28T10:00:47.249973+00:00",
+    "company": "Meesho",
+    "title": "Senior Product Manager - Data & Analytics Platform",
+    "baseline": false
   }
 }
