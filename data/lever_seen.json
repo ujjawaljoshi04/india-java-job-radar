@@ -14990,5 +14990,161 @@
     "company": "Wing Assistant",
     "title": "Shopify Operations Manager (UK-based) Full-time | 20823",
     "baseline": false
+  },
+  "lingarogroup:c8a22637-a284-419c-8e28-d9e8a58ab3c1": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Lingaro",
+    "title": "Project Manager - Brazil",
+    "baseline": false
+  },
+  "saviynt:018b51fc-87e6-42c9-aa92-9303c9397835": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Engineer - Threat Researcher",
+    "baseline": false
+  },
+  "hevodata:5a2c854b-db50-400e-ac96-0542bf30315a": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Hevo Data",
+    "title": "Head of Premier Technical Support",
+    "baseline": false
+  },
+  "hevodata:9e340ef4-8bb3-4e01-b854-62f4d3f5cae3": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Hevo Data",
+    "title": "Head of Premier Technical Support (copy)",
+    "baseline": false
+  },
+  "veeva:a0ae1ace-401d-4dee-a8d6-fc38c316937d": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - SMB - DACH",
+    "baseline": false
+  },
+  "veeva:7a33f0c4-16d8-4027-bf4a-fb0068c51c69": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Veeva Systems",
+    "title": "Field Marketing Manager / Senior Manager",
+    "baseline": false
+  },
+  "veeva:fa6939f3-8279-4f00-b873-49b786524a69": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Veeva Systems",
+    "title": "Field Marketing Manager / Senior Manager",
+    "baseline": false
+  },
+  "brillio-2:5f6b304a-9316-4f9e-bc21-fcc463894a86": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Consultant - R01571575",
+    "baseline": false
+  },
+  "brillio-2:e68fe733-dfe3-4f03-83ad-457f4f4ce48c": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Contact Center Architect - R01571769",
+    "baseline": false
+  },
+  "brillio-2:f24cd7df-0634-4ae9-937b-66a2901bc30a": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Lead Data Analyst - R01571479",
+    "baseline": false
+  },
+  "brillio-2:67071597-7c04-4ec2-875c-9db331c8b908": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01572011",
+    "baseline": false
+  },
+  "brillio-2:b0536280-cc7f-47db-9105-7790a08d738b": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Principal Architect - R01571497",
+    "baseline": false
+  },
+  "brillio-2:f1f54e14-a27d-4a0c-9fd9-3730fb96b9be": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead, Quality Engineer - R01571582",
+    "baseline": false
+  },
+  "brillio-2:31994a4e-0dfd-4e85-99fc-58da65d2707b": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Senior Product Owner - Contact Center Modernization - R01571768",
+    "baseline": false
+  },
+  "brillio-2:6f45e235-a80e-4067-931f-3efb326bf230": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01571264",
+    "baseline": false
+  },
+  "brillio-2:226f1b4d-54e6-45dc-af6d-8064cbef998e": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Senior Sofware Development Lead-R01571578",
+    "baseline": false
+  },
+  "brillio-2:5a6e7bfb-51cf-4934-a4da-bd7c09c30e9c": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01572012",
+    "baseline": false
+  },
+  "bazaarvoice:aed0f053-a08b-4aee-9ef8-f3b4a6ab201a": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Bazaarvoice",
+    "title": "Sales Development Representative",
+    "baseline": false
+  },
+  "bazaarvoice:058014c7-9ab6-4996-902e-ba9144991ac6": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Bazaarvoice",
+    "title": "Staff Software Engineer",
+    "baseline": false
+  },
+  "weekdayworks:a9a92497-5c53-40f9-8590-344d21c35fba": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "Forward Deployment Engineer",
+    "baseline": false
+  },
+  "weekdayworks:940e8aa6-0e38-43b7-b563-ad8240b3a042": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "Full Stack Python Engineer",
+    "baseline": false
+  },
+  "weekdayworks:4f7f2d5b-2fac-45a9-a6fb-32b3cd4d5620": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "HR Executive",
+    "baseline": false
+  },
+  "weekdayworks:d6edbc44-3167-47b1-872a-5a423042f12a": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "Network Traffic support",
+    "baseline": false
+  },
+  "weekdayworks:f31c0628-5f97-4cfc-b351-acb9e3f77ef4": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "People Lead (Talent Acquisition & HR)",
+    "baseline": false
+  },
+  "weekdayworks:2c8846ed-e8c5-4aad-a8ce-66ba7990a6f6": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "Sales Manager - Tendering",
+    "baseline": false
+  },
+  "weekdayworks:fb17ba2b-d4ff-4978-ba64-2d04ea09be04": {
+    "first_seen": "2026-09-30T09:52:04.990274+00:00",
+    "company": "Weekday",
+    "title": "Sales Manager Tendering",
+    "baseline": false
   }
 }
