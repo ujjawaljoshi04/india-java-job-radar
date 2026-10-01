@@ -15146,5 +15146,233 @@
     "company": "Weekday",
     "title": "Sales Manager Tendering",
     "baseline": false
+  },
+  "lingarogroup:18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Lingaro",
+    "title": "ML/AI Engineer - Adecco",
+    "baseline": false
+  },
+  "lingarogroup:cd1d33c9-de62-40d9-9fec-d15aa8fe81c6": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Lingaro",
+    "title": "ML/AI Engineer - Careernet",
+    "baseline": false
+  },
+  "lingarogroup:6adf8593-2a35-44d0-9400-0ced651fd403": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Lingaro",
+    "title": "ML/AI Engineer - Peepal Consulting",
+    "baseline": false
+  },
+  "lingarogroup:a38fcd93-3628-4edb-8dfd-aedb86071c6a": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Lingaro",
+    "title": "RGM Data Analyst",
+    "baseline": false
+  },
+  "veeva:ddf2fcbc-9379-4ee6-bef4-74d83c3dd7b5": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - CS&G - DACH",
+    "baseline": false
+  },
+  "veeva:8534c7f1-b720-4b68-b00a-700258b11b79": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Veeva Basics",
+    "baseline": false
+  },
+  "veeva:e1663646-cc3e-4936-885c-749df9333567": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Veeva Basics",
+    "baseline": false
+  },
+  "veeva:f68f8b4a-89ec-4a29-a77b-5e2bb27f29a2": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Veeva Basics",
+    "baseline": false
+  },
+  "veeva:a89d4ff8-b50b-4e56-9b74-0823d2751c66": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "NetSuite Developer",
+    "baseline": false
+  },
+  "veeva:6d8a486b-325c-4650-af04-8774e381d72a": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Director - Product Management - EU Veeva Nitro",
+    "baseline": false
+  },
+  "veeva:bb145840-1336-494f-8363-1ca2a52464ab": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Director - Product Management - EU Veeva Nitro",
+    "baseline": false
+  },
+  "veeva:bbca4da5-2995-4c55-afa2-eb5da8614203": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Director - Product Management - EU Veeva Nitro",
+    "baseline": false
+  },
+  "veeva:99d16ac7-31f6-4aa7-b034-6b6cb927ce18": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Veeva Systems",
+    "title": "University Recruiter",
+    "baseline": false
+  },
+  "brillio-2:5fd43c1e-1171-4ccd-bd15-1b3eca7675a2": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01572024",
+    "baseline": false
+  },
+  "brillio-2:468dce40-be4e-4824-9085-7bb1313299f9": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Architect - R01572068",
+    "baseline": false
+  },
+  "brillio-2:209eda42-2dce-46c5-a8f0-106d60939ed3": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Architect, Applications & Platforms - R01572160",
+    "baseline": false
+  },
+  "brillio-2:e21a8a6a-6de7-4fff-9aef-1143812e190b": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Consultant - R01571238",
+    "baseline": false
+  },
+  "brillio-2:cd78c2fd-a2fc-4882-8b83-e23540b222d0": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01572144",
+    "baseline": false
+  },
+  "brillio-2:13586197-04af-4500-8a62-d856916bf3da": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Quality Engineer - R01572107",
+    "baseline": false
+  },
+  "brillio-2:2ad2b5d5-b94e-4570-9690-0de18be56b21": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Engineer - R01572143",
+    "baseline": false
+  },
+  "brillio-2:e2787e08-5da0-4ee8-bf09-e46530b0737a": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Brillio",
+    "title": "Software development Lead",
+    "baseline": false
+  },
+  "valgenesis:8ea19bc1-716f-41ef-8029-f35f0f65a303": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "ValGenesis",
+    "title": "Director, Product Enablement",
+    "baseline": false
+  },
+  "valgenesis:7b5331dd-f7b3-42c3-b58f-27a216ab64a6": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Manager, Product Management – MSAT",
+    "baseline": false
+  },
+  "weekdayworks:70aa2f8f-fc89-483a-abc0-97bad8615ff9": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Agentic AI Engineer",
+    "baseline": false
+  },
+  "weekdayworks:569e1f37-b8be-4f71-a1b4-7a74d11e7862": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Jewellery Consultant Expert",
+    "baseline": false
+  },
+  "weekdayworks:83bf79c5-e7f0-4416-a79c-37d29fceed24": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Network Traffic Support professional",
+    "baseline": false
+  },
+  "weekdayworks:42297af3-4078-4b84-ad2c-c8a536d8ce7e": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Sales Manager- Real Estate Sales",
+    "baseline": false
+  },
+  "weekdayworks:74ffc2bb-06e3-4285-8500-2f069a04edb1": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Senior Agentic AI Engineer",
+    "baseline": false
+  },
+  "weekdayworks:d95fde42-72ae-4eb3-a17b-508bba25022e": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Senior Engineer - Analog Simulation CAD",
+    "baseline": false
+  },
+  "weekdayworks:bddf3728-a3dd-414c-b841-95af17eb7d4b": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Senior Gen AI Engineer (Freelancer)",
+    "baseline": false
+  },
+  "weekdayworks:ef632424-33a4-48f0-8319-242cc1e1c591": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Sr Engineer Analog Simulation CAD",
+    "baseline": false
+  },
+  "weekdayworks:5c6646fd-1c2e-4ac7-a676-125975840de5": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Weekday",
+    "title": "Sr. Gen AI Engineer",
+    "baseline": false
+  },
+  "meesho:bff1bcf3-ae0e-4218-94e0-38c45f2a9177": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Meesho",
+    "title": "Manager- Program Strategy - Fulfilment & Experience",
+    "baseline": false
+  },
+  "meesho:5dca8c71-9993-438f-ad51-da3c7f4be692": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Meesho",
+    "title": "Product Manager II - User Discovery",
+    "baseline": false
+  },
+  "getwingapp:eea896fa-2672-49f5-a7c2-b994184d0dfb": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Wing Assistant",
+    "title": "Content Marketing | 20831",
+    "baseline": false
+  },
+  "getwingapp:0b27847d-eaee-4696-8b84-ff0a737ddfd4": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success/Sales Trainer",
+    "baseline": false
+  },
+  "getwingapp:fb1700df-69f1-4ac6-a48f-09ffa9fd5ff9": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Wing Assistant",
+    "title": "HR Assistant",
+    "baseline": false
+  },
+  "getwingapp:e59590e3-0985-45fd-a332-a2ae9b646a6b": {
+    "first_seen": "2026-10-01T10:19:28.990885+00:00",
+    "company": "Wing Assistant",
+    "title": "Trainer - Customer Success",
+    "baseline": false
   }
 }
