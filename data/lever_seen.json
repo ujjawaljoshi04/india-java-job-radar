@@ -15374,5 +15374,137 @@
     "company": "Wing Assistant",
     "title": "Trainer - Customer Success",
     "baseline": false
+  },
+  "saviynt:a382c730-95c3-4425-8fe7-e4631d17f519": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - Privileged Access Management (PAM)",
+    "baseline": false
+  },
+  "zimperium:2238d8a6-2e27-45cb-9787-f93a21d73283": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Zimperium",
+    "title": "Sr. SOC Engineer",
+    "baseline": false
+  },
+  "veeva:0353a229-5b7c-483c-9326-289ebb80b31d": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Veeva Systems",
+    "title": "Content Marketing - Manager",
+    "baseline": false
+  },
+  "veeva:51967157-70f7-40fd-9044-12b39b5a5d1b": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Veeva Systems",
+    "title": "Content Marketing - Manager",
+    "baseline": false
+  },
+  "veeva:8c824685-7ffa-4b4c-a7de-4c0bd491c104": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Veeva Systems",
+    "title": "Content Marketing - Manager",
+    "baseline": false
+  },
+  "veeva:1a9458fe-3930-4e69-94e5-04964f68549e": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Veeva Systems",
+    "title": "Manager Corporate Events",
+    "baseline": false
+  },
+  "veeva:28739464-e831-438f-8170-1169b60f67d1": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior QA Engineer",
+    "baseline": false
+  },
+  "brillio-2:314808cf-d5e4-4dd5-b62c-6463ce7ef317": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Brillio",
+    "title": "Associate Director, Delivery & Program Management - R01571496",
+    "baseline": false
+  },
+  "brillio-2:38f3186a-0256-4b52-a218-12b37fea91f0": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Brillio",
+    "title": "Enterprise Architect - R01571847",
+    "baseline": false
+  },
+  "brillio-2:4acd66b6-ff40-4076-9cac-b2f52da2683c": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Brillio",
+    "title": "Principal Architect, Cloud Engineering - R01571777",
+    "baseline": false
+  },
+  "brillio-2:c80d8ebf-3d10-4fb4-a362-3f6dab1d933b": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01572018",
+    "baseline": false
+  },
+  "turvo:96a739ba-377a-4aeb-8225-bd38f344a57c": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Turvo",
+    "title": "Senior Infrastructure Engineer",
+    "baseline": false
+  },
+  "everbridge:397f47b5-4a37-409d-a1f1-48363a06d504": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Everbridge",
+    "title": "Senior Tax Manager",
+    "baseline": false
+  },
+  "weekdayworks:969bca76-70d6-46e6-9ec0-3fef19e5a8b0": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Assistant Manager - Business Development & EXIM",
+    "baseline": false
+  },
+  "weekdayworks:357f26fb-82ee-4536-bf7e-30cf3c080377": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Leadership role in M&A and Corporate Development",
+    "baseline": false
+  },
+  "weekdayworks:18756cf4-c973-4c81-aae8-cac495c923e3": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Qualified Financial Expert",
+    "baseline": false
+  },
+  "weekdayworks:2c78f486-32f8-4d20-a54a-09389cb1ff09": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Senior Data Engineer",
+    "baseline": false
+  },
+  "weekdayworks:1a5657d1-b97b-4cc3-94e0-1687c4623f92": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Senior leader in M&A and Corporate Development",
+    "baseline": false
+  },
+  "weekdayworks:e3493eed-bf26-4265-8b70-11c9787fba2f": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Sourcing Manager  (Channel Sales)",
+    "baseline": false
+  },
+  "weekdayworks:5c7beafb-43c7-40a9-b36a-0df87621fdf8": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Weekday",
+    "title": "Sourcing Manager - Channel Sales (Mumbai)",
+    "baseline": false
+  },
+  "getwingapp:f77b093f-87e3-4658-9d5a-cabe6a09c61a": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Wing Assistant",
+    "title": "Bilingual Bookkeeper Assistant - Part-time  | 21026",
+    "baseline": false
+  },
+  "getwingapp:af340209-ed4b-44b1-b561-25674e08cd10": {
+    "first_seen": "2026-10-02T09:56:38.933851+00:00",
+    "company": "Wing Assistant",
+    "title": "Part-Time Sales Development Representative | 21010",
+    "baseline": false
   }
 }
