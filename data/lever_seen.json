@@ -15506,5 +15506,83 @@
     "company": "Wing Assistant",
     "title": "Part-Time Sales Development Representative | 21010",
     "baseline": false
+  },
+  "veeva:fecaef42-b5c1-4fb2-b819-058171174ed1": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer in Test",
+    "baseline": false
+  },
+  "veeva:af808366-3ad5-4d30-8960-72ca8530d916": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva RIM",
+    "baseline": false
+  },
+  "veeva:ea970c9f-0c11-4039-be8c-bee3e11aaaa0": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva RIM",
+    "baseline": false
+  },
+  "veeva:ead5492b-0265-4d74-a630-100c5cd54e9a": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva RIM",
+    "baseline": false
+  },
+  "brillio-2:33530f2e-840f-4c2a-9cfd-4e67a47bd74f": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Brillio",
+    "title": "QA Engineer- R01570602",
+    "baseline": false
+  },
+  "rapidai:745ead37-1e40-460d-8750-72c1540bd9a8": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "RapidAI",
+    "title": "Senior Product Designer",
+    "baseline": false
+  },
+  "turvo:95f4b57d-3354-49b8-9229-2768bc1e9ef7": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Turvo",
+    "title": "Customer Support Engineer",
+    "baseline": false
+  },
+  "wmg:9f98a862-ad78-4d80-9ce6-3ac5e82ce00e": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Warner Music Group",
+    "title": "OMS Application Engineer",
+    "baseline": false
+  },
+  "wmg:00c054b4-9ab9-4193-bdc2-db786e71730c": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Warner Music Group",
+    "title": "QA Shopify Developer",
+    "baseline": false
+  },
+  "wmg:25c7da98-8257-43db-ad3c-046b57a20254": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Forward Deployed Engineer, Data & AI",
+    "baseline": false
+  },
+  "wmg:d15787fb-5f2e-4d60-bdd0-8459aac1c1a8": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Warner Music Group",
+    "title": "Shopify Developer",
+    "baseline": false
+  },
+  "getwingapp:73ddb309-e953-46fa-aa67-7d4f340377e7": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Wing Assistant",
+    "title": "Digital Marketing Project Coordinator Full-time | 21050",
+    "baseline": false
+  },
+  "getwingapp:8afa9cac-08fc-45ec-b975-7310a3e8ead0": {
+    "first_seen": "2026-10-03T09:18:31.617936+00:00",
+    "company": "Wing Assistant",
+    "title": "Google Ads Assistant Full-time | 21048",
+    "baseline": false
   }
 }
