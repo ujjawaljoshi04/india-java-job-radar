@@ -15590,5 +15590,95 @@
     "company": "Weekday",
     "title": "Talent Management Executive – Weekday",
     "baseline": false
+  },
+  "lingarogroup:59e99c07-b9a8-468c-a5df-345a58ab6123": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Lingaro",
+    "title": "Junior Employer Branding & Wellbeing Specialist",
+    "baseline": false
+  },
+  "brillio-2:e6eceefb-5a68-40c2-aec2-d0cac0e606e0": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Brillio",
+    "title": "AI Builder (AI Solutions Engineer) - R01572121",
+    "baseline": false
+  },
+  "brillio-2:2471a008-afb9-4abf-9d09-7ceaf5144415": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Brillio",
+    "title": "Applied AI Architect  - R01572122",
+    "baseline": false
+  },
+  "brillio-2:2856cb41-72cc-46f0-8c57-a92d0a311971": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Engineer - R01572085",
+    "baseline": false
+  },
+  "weekdayworks:d5790172-d7aa-4eae-886c-abd801edfc65": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "B2B / Institutional Sales",
+    "baseline": false
+  },
+  "weekdayworks:bb14ba06-62df-4a4e-a213-7d78487dc89e": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Business Manager",
+    "baseline": false
+  },
+  "weekdayworks:b3160d99-7e2a-4ed0-84b4-75a527f6cb11": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Design Conceptualizer Exhibition & Experiential Design",
+    "baseline": false
+  },
+  "weekdayworks:6fa29234-b564-4e93-9dc3-cfe3b930bc6c": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Junior Fashion Designer",
+    "baseline": false
+  },
+  "weekdayworks:aad5444a-0d6c-4157-ba13-556e0f808393": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Senior Backend Engineer - Cloud Infra & Platform engineer",
+    "baseline": false
+  },
+  "weekdayworks:695d9909-9a85-48ff-868b-19ce7a0a0667": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Senior Platform Lead",
+    "baseline": false
+  },
+  "weekdayworks:efbfcee1-2070-4b92-94a3-32faaadad7d0": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Sourcing Manager (Channel Sales)",
+    "baseline": false
+  },
+  "weekdayworks:44fb6251-c66f-4a25-860f-33ee2748a26d": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Sourcing Manager Channel Sales (Mumbai)",
+    "baseline": false
+  },
+  "weekdayworks:7a73c233-cb4b-4ffd-99b5-8eb8cde81084": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Weekday",
+    "title": "Vice President Revenue",
+    "baseline": false
+  },
+  "meesho:f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Meesho",
+    "title": "Associate - Operations",
+    "baseline": false
+  },
+  "meesho:f46dc6f7-f812-4b36-b1fe-bcb93de75b18": {
+    "first_seen": "2026-10-05T10:41:47.448993+00:00",
+    "company": "Meesho",
+    "title": "Senior Copywriter",
+    "baseline": false
   }
 }
