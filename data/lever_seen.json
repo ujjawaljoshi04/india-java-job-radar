@@ -15680,5 +15680,143 @@
     "company": "Meesho",
     "title": "Senior Copywriter",
     "baseline": false
+  },
+  "azul:4bd35751-e38e-47bb-b934-57abf4649b4b": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Azul",
+    "title": "Global Channel Operations Manager",
+    "baseline": false
+  },
+  "veeva:2ca0605e-58a6-46bd-bba3-5059a18965ea": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Veeva Systems",
+    "title": "Business Consultant - R&D",
+    "baseline": false
+  },
+  "veeva:707ce008-54be-4476-9816-34dee0f8f248": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Veeva Systems",
+    "title": "Technical Customer Service Associate",
+    "baseline": false
+  },
+  "brillio-2:2d9ca895-812b-4139-a09f-099e2bf2bbbd": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "AI Architect - R01570927",
+    "baseline": false
+  },
+  "brillio-2:ae4ac637-c54f-4c1b-abd4-81cb17438a15": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "Associate Manager, Operations - R01572457",
+    "baseline": false
+  },
+  "brillio-2:8de5d90c-0007-472d-8c37-902bcf3bc46a": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01572398",
+    "baseline": false
+  },
+  "brillio-2:7a1aeb0f-71e2-46b2-a70d-7d39afcbb6c5": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Data Engineer - R01567963",
+    "baseline": false
+  },
+  "brillio-2:81415230-9530-4361-a675-d63200f0df13": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Engineer - R01572001",
+    "baseline": false
+  },
+  "brillio-2:d7fa8d95-63aa-4071-adde-757e20224629": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "Sr. Engineer HCM App Integration - R01572131",
+    "baseline": false
+  },
+  "brillio-2:459bdfb8-9077-4c0b-8c05-b6c8370287c1": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Brillio",
+    "title": "UI Developer (react and Node) - R01571932",
+    "baseline": false
+  },
+  "everbridge:e3b33130-20da-490b-83ff-553452120df0": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Everbridge",
+    "title": "Territory Sales Manager - Healthcare",
+    "baseline": false
+  },
+  "bazaarvoice:4c5cddab-96c3-47a3-bc48-16135b40b4a6": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Bazaarvoice",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "weekdayworks:196363a5-0284-45e5-8e02-b88df94936c1": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "AI Creative Engineer",
+    "baseline": false
+  },
+  "weekdayworks:57923e45-73f3-4998-ab3b-97ec74690a9b": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "Australian Tax Accountant",
+    "baseline": false
+  },
+  "weekdayworks:eaf55dad-fe25-4817-9476-89617a0efb65": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "Business Development Associate – Amazon Ads SaaS (Domestic)",
+    "baseline": false
+  },
+  "weekdayworks:3669fca7-a329-4351-92cc-e0f68dd5692e": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "Executive Assistant To Chief Executive Officer",
+    "baseline": false
+  },
+  "weekdayworks:bdaa6780-157b-4926-bca3-9713dbe04fa1": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "Netherland Accounting",
+    "baseline": false
+  },
+  "weekdayworks:ac0a08cb-1059-4edd-bf4c-b3503291d7e3": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "Senior Business Development Executive - BPO/KPO",
+    "baseline": false
+  },
+  "weekdayworks:11af668d-73db-41d0-b316-c3d501b7074c": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Weekday",
+    "title": "US Tax Reviewer",
+    "baseline": false
+  },
+  "meesho:e403c75f-4646-41fc-9161-90d2899910ef": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Meesho",
+    "title": "Lead Copy",
+    "baseline": false
+  },
+  "meesho:b56573f0-c701-422a-abfa-ac8bbdbfa645": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Meesho",
+    "title": "Product Manager II",
+    "baseline": false
+  },
+  "getwingapp:42dce4f9-9d2c-47f8-811d-73abf31a65df": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Wing Assistant",
+    "title": "Aspiring Sales Development Representative",
+    "baseline": false
+  },
+  "getwingapp:3388afeb-f4c4-47be-8eed-4b09fefae8b4": {
+    "first_seen": "2026-10-06T10:34:57.323619+00:00",
+    "company": "Wing Assistant",
+    "title": "Dayshift Full-Cycle Outbound Sales Representative Full-time | 21031",
+    "baseline": false
   }
 }
