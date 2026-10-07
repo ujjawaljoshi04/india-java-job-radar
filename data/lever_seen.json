@@ -15818,5 +15818,197 @@
     "company": "Wing Assistant",
     "title": "Dayshift Full-Cycle Outbound Sales Representative Full-time | 21031",
     "baseline": false
+  },
+  "lingarogroup:c6e4177f-c6a6-4c59-b55d-dc01b410e69c": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Lingaro",
+    "title": "AI/ML Engineer - freelancer",
+    "baseline": false
+  },
+  "azul:43962890-1bb7-4c73-b179-ef52701249c3": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Azul",
+    "title": "Senior Software Engineer - Optimizer Hub",
+    "baseline": false
+  },
+  "saviynt:49eb8db3-d7ea-44a1-b169-397287d97996": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Saviynt",
+    "title": "Director, Global Partner Marketing",
+    "baseline": false
+  },
+  "saviynt:dfb5a8c7-b267-477b-8304-7bc86879bb3d": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - Thailand",
+    "baseline": false
+  },
+  "saviynt:385bd16f-b0aa-4893-a110-0022d906a004": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Saviynt",
+    "title": "VP Sales - Asia",
+    "baseline": false
+  },
+  "veeva:666b1017-7c2a-46a4-8d42-6ae69970d93f": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Manager - Field Marketing",
+    "baseline": false
+  },
+  "veeva:a85f5b3c-f762-4820-b457-d069c288ea03": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Manager - Field Marketing",
+    "baseline": false
+  },
+  "veeva:fffc61a1-28e0-491d-8519-90a2fcdc631f": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Manager - Field Marketing",
+    "baseline": false
+  },
+  "veeva:43f800b6-645c-48b9-a1bd-46f328115a70": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Veeva Systems",
+    "title": "Director / Senior Director - Ostro Strategy",
+    "baseline": false
+  },
+  "brillio-2:adab1e6c-d61d-4db6-ad79-c44b18d442ea": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "AI Architect - R01572074",
+    "baseline": false
+  },
+  "brillio-2:f508ce38-4ad6-4423-b4e7-dbef89f49dcb": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "AI Engineer - R01572075",
+    "baseline": false
+  },
+  "brillio-2:60d5c5bb-790e-4b16-90fb-18f2443f69f1": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Associate Manager, Finance - R01572314",
+    "baseline": false
+  },
+  "brillio-2:e1952e9a-a986-4ae9-857d-af62707be422": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Associate Manager, Operations - R01572005",
+    "baseline": false
+  },
+  "brillio-2:b80221e6-4c41-4025-8a5d-10a1304582d7": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Lead Data Engineer - R01571487",
+    "baseline": false
+  },
+  "brillio-2:4386f2db-b700-496f-9bc1-000b9292538f": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Marketing Manager - Growth & Events",
+    "baseline": false
+  },
+  "brillio-2:e717b34c-e4de-4ffe-bff0-b9df05bc7714": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "QA Architect - R01571456",
+    "baseline": false
+  },
+  "brillio-2:40cf0a15-6e54-4a8b-bcf9-5214856136bb": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Senior AI/ML Engineer - R01571454",
+    "baseline": false
+  },
+  "brillio-2:b186da86-5523-4bcd-b3fb-e6ce16325883": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Senior AI/ML Engineer - R01572335",
+    "baseline": false
+  },
+  "brillio-2:bb74864d-915b-4378-a3c1-00f85d785d73": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01570902",
+    "baseline": false
+  },
+  "brillio-2:192e3cb3-3f76-44a2-9d87-90c830ce9fc6": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01572338",
+    "baseline": false
+  },
+  "brillio-2:e1c5b903-839e-456d-a71a-0c8990f4f2a8": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Network - R01567907",
+    "baseline": false
+  },
+  "sonatype:0bb269f9-2045-40f1-a3b3-77a2bb7b26c6": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Sonatype",
+    "title": "Senior Full Stack Software Engineer",
+    "baseline": false
+  },
+  "everbridge:17181107-1ca9-4c74-8231-e079489a69f2": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Everbridge",
+    "title": "Senior Full Stack Developer",
+    "baseline": false
+  },
+  "everbridge:d77fab1a-910a-45f2-93b2-52d2f66912ac": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Everbridge",
+    "title": "Senior Software Engineer I – Backend & AI-Enabled",
+    "baseline": false
+  },
+  "weekdayworks:49473b32-7a35-4e28-8f70-dac93260815f": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Weekday",
+    "title": "Digital Marketing Lead",
+    "baseline": false
+  },
+  "weekdayworks:f44c2d6c-efce-4f01-b3bc-b601e0da859d": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Weekday",
+    "title": "Lead Offline Marketing",
+    "baseline": false
+  },
+  "weekdayworks:c2456125-abb8-48b7-9e10-aff9e59ea3b5": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Weekday",
+    "title": "Senior Backend Cloud Infrastructure Engineer",
+    "baseline": false
+  },
+  "weekdayworks:e864a862-9894-4779-b9c5-1705040be00c": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Weekday",
+    "title": "Senior Manager Applied Science",
+    "baseline": false
+  },
+  "meesho:90bd9dc0-07c0-4461-8d02-4a562eb87004": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Meesho",
+    "title": "Manager Partnership",
+    "baseline": false
+  },
+  "meesho:d2f50690-efbf-45c6-8985-1494901725e6": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Meesho",
+    "title": "Security Engineer III",
+    "baseline": false
+  },
+  "meesho:f4e2e8e1-6863-4fe0-85fb-7840189cad3f": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Meesho",
+    "title": "Security Engineer IV",
+    "baseline": false
+  },
+  "getwingapp:17649a22-5ec4-4200-95b6-843dc057acef": {
+    "first_seen": "2026-10-07T10:26:33.309941+00:00",
+    "company": "Wing Assistant",
+    "title": "Property Management Assistant 20974",
+    "baseline": false
   }
 }
