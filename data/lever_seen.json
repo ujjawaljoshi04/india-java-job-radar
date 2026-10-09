@@ -16184,5 +16184,221 @@
     "company": "Wing Assistant",
     "title": "Customer Success Manager Coach",
     "baseline": false
+  },
+  "saviynt:0c489e94-1fb8-4f7d-bd61-c9ddc5fcc38e": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Saviynt",
+    "title": "Director, Solutions Engineer - EMEA",
+    "baseline": false
+  },
+  "saviynt:7212a803-65f8-46f6-adf6-f1c36ad2a629": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer",
+    "baseline": false
+  },
+  "veeva:bd0385b1-0bfc-4c46-8de1-643aa05c50d6": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - RIM Implementation",
+    "baseline": false
+  },
+  "veeva:f3eb687d-e2a4-46ca-b879-4af18bdc9d29": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - RIM Implementation",
+    "baseline": false
+  },
+  "veeva:579e0618-1cf5-46d7-a6cd-3360c66103f9": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - Quality",
+    "baseline": false
+  },
+  "veeva:bf77c839-0073-4fe8-957b-1572f746a6ab": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - Quality",
+    "baseline": false
+  },
+  "veeva:d0cc2938-21fa-43dd-9d55-12dddad5a10e": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - Quality",
+    "baseline": false
+  },
+  "veeva:355e4742-4551-4b4f-b6e7-69702bc093ce": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Enterprise Account Partner - Veeva Data Cloud",
+    "baseline": false
+  },
+  "veeva:55015bf0-a504-4a7d-baea-e9a0cc974489": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Enterprise Account Partner - Veeva Data Cloud",
+    "baseline": false
+  },
+  "veeva:71574aed-f982-4602-93ca-4016d957b058": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Enterprise Account Partner - Veeva Data Cloud",
+    "baseline": false
+  },
+  "veeva:c1522608-427a-4bab-ad40-a7ad6e477b03": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Services Engagement Manager - China R&D and Quality Services",
+    "baseline": false
+  },
+  "veeva:f65ff437-4b1e-4645-ba56-366e94bb4513": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Veeva Systems",
+    "title": "Services Engagement Manager - China R&D and Quality Services",
+    "baseline": false
+  },
+  "brillio-2:838303c3-c61c-483a-9a44-5bad5b1504e5": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Brillio",
+    "title": "Delivery Partner, Salesforce",
+    "baseline": false
+  },
+  "brillio-2:59f06474-61b5-423a-9e66-78211288be91": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01572451",
+    "baseline": false
+  },
+  "brillio-2:b43bb2cb-f9a0-4dcd-9b3e-b51e1845a1ee": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Brillio",
+    "title": "Product Owner - R01572426",
+    "baseline": false
+  },
+  "brillio-2:fcd694bb-6a02-40e1-804f-d8bca3476aba": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01572552",
+    "baseline": false
+  },
+  "brillio-2:ae3f6073-5741-42af-8b8c-1b2779bb4a8c": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Brillio",
+    "title": "Software Development Engineer - R01571170",
+    "baseline": false
+  },
+  "brillio-2:11fabb2e-787a-405c-99fb-9bff1acef7db": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01572165",
+    "baseline": false
+  },
+  "everbridge:fcc0ae9a-7bd1-4934-88de-c115e2716dab": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Everbridge",
+    "title": "Account Manager",
+    "baseline": false
+  },
+  "everbridge:197a5193-e646-4b39-be1b-306bf265b428": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Everbridge",
+    "title": "Enterprise Account Executive",
+    "baseline": false
+  },
+  "everbridge:d919a0a4-3f7b-4439-8b34-c5a94155f4ed": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Everbridge",
+    "title": "Manager, Customer Success and Technical Account Management",
+    "baseline": false
+  },
+  "everbridge:c770b231-ab79-47f1-b57a-b914b63ec2b0": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Everbridge",
+    "title": "Solutions Consultant",
+    "baseline": false
+  },
+  "weekdayworks:12f97a67-8553-4acc-bbec-3dbbec5d99a3": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Weekday",
+    "title": "Associate Principal Graphic Designer",
+    "baseline": false
+  },
+  "weekdayworks:d3e3f751-ec29-49a9-84de-1ecdde6bd7c2": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Weekday",
+    "title": "E-Commerce Product Designer",
+    "baseline": false
+  },
+  "weekdayworks:e9bcc660-1732-4f33-86cc-7bad9ffd3f82": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Weekday",
+    "title": "Insurance Expert - AI Training & Evaluation",
+    "baseline": false
+  },
+  "weekdayworks:9a7f9047-1e95-4549-99c4-2687449dc387": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Weekday",
+    "title": "Legal Expert - AI Training & Evaluation",
+    "baseline": false
+  },
+  "weekdayworks:8e9ae069-29d2-40b2-b4c9-57ab176b8220": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Weekday",
+    "title": "Senior Motion Artist / Video Editor",
+    "baseline": false
+  },
+  "wmg:5d6fdf53-3759-4a2b-a974-4e82c2459d38": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Software Engineer, Backend & AI Platform - Sureel AI",
+    "baseline": false
+  },
+  "wmg:7d2c01f3-0bbe-45f0-b55d-0ff460126eef": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Warner Music Group",
+    "title": "Shopify Developer",
+    "baseline": false
+  },
+  "getwingapp:a0144825-97cc-41d6-8648-066e84635764": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Coach",
+    "baseline": false
+  },
+  "getwingapp:7bb4f3d9-03cd-4654-87cd-5f02c141232c": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Success Coach - Trainer",
+    "baseline": false
+  },
+  "getwingapp:fd2beb6a-635a-4aee-8155-79df0855e583": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Digital Marketing Account Manager Full-time | 21091",
+    "baseline": false
+  },
+  "getwingapp:d80bb3b8-09c2-460a-9cde-9434c16e6e9c": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Graphics & Content Assistant Full-time | 21061",
+    "baseline": false
+  },
+  "getwingapp:512cbfd0-c866-4e1d-9f92-8bbc651e5ff0": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Growth & Social Media Specialist Full-time | 21099",
+    "baseline": false
+  },
+  "getwingapp:6ddda625-5888-402a-99dd-07bef619fef0": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Outbound SDR Part-time | 21083",
+    "baseline": false
+  },
+  "getwingapp:d71f4d3a-8a73-45c2-a6df-a532330cfb22": {
+    "first_seen": "2026-10-09T10:45:59.170451+00:00",
+    "company": "Wing Assistant",
+    "title": "Zapier Automation & Integration Developer Full-time | 21100",
+    "baseline": false
   }
 }
