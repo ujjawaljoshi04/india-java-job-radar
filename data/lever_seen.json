@@ -16508,5 +16508,17 @@
     "company": "Everbridge",
     "title": "Senior Account Executive, New Business - West",
     "baseline": false
+  },
+  "weekdayworks:60d74495-1549-42ea-b901-9f0f3be1a804": {
+    "first_seen": "2026-10-12T11:08:39.881099+00:00",
+    "company": "Weekday",
+    "title": "Platform Engineer, Full Stack (UI-heavy)",
+    "baseline": false
+  },
+  "weekdayworks:709453cf-ed09-4e02-a360-81b9a412cb8d": {
+    "first_seen": "2026-10-12T11:08:39.881099+00:00",
+    "company": "Weekday",
+    "title": "Quality Assurance Engineer",
+    "baseline": false
   }
 }
