@@ -16616,5 +16616,119 @@
     "company": "Wing Assistant",
     "title": "Recruitment Assistant (Latin America)",
     "baseline": false
+  },
+  "zimperium:f77ac05f-b87a-43ab-93d3-c2293b5400ef": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Zimperium",
+    "title": "Lead DevOps Engineer (AI & GPU)",
+    "baseline": false
+  },
+  "zimperium:6402f69e-58f3-4852-9135-7ce30d601dd6": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Zimperium",
+    "title": "Pre-Sales Engineer (Mobile Apps & Cybersecurity) - Singapore",
+    "baseline": false
+  },
+  "zimperium:5a7bd1a4-928d-474f-8a86-fd0a5718c584": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Zimperium",
+    "title": "Sales Director (Tokyo, Japan)",
+    "baseline": false
+  },
+  "veeva:3b572900-c9fe-410f-ae44-52e936e5e373": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Veeva Systems",
+    "title": "Enterprise Account Partner - Nordics",
+    "baseline": false
+  },
+  "veeva:6908432b-2cd6-4b28-be8b-b96ae2bc2110": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Veeva Systems",
+    "title": "Enterprise Account Partner - Nordics",
+    "baseline": false
+  },
+  "veeva:cc80dbc2-0da5-4745-b51e-86ba841ec2e8": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Veeva Systems",
+    "title": "Enterprise Account Partner - Nordics",
+    "baseline": false
+  },
+  "veeva:7aa28efd-044d-4a16-a6ea-c379fdeaf888": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Veeva Systems",
+    "title": "Lead Services Engagement Manager (SEM) - eCOA",
+    "baseline": false
+  },
+  "veeva:17af8079-4844-4b36-b898-ae488e638108": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Software Engineer - Full Stack",
+    "baseline": false
+  },
+  "veeva:3957164e-e2ec-402a-b3b8-c5225eb9b0fa": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Software Engineer - Full Stack",
+    "baseline": false
+  },
+  "brillio-2:0caf0afc-a346-480b-8e55-a6fc0707e647": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Brillio",
+    "title": "Business Analyst - R01572558",
+    "baseline": false
+  },
+  "brillio-2:eb5ac6d9-0e2b-4b91-bce0-dd6390b1a54a": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Brillio",
+    "title": "Domain Consultant – Business Transformation, AI & Data Strategy - R01572474",
+    "baseline": false
+  },
+  "brillio-2:d7723e9e-43cb-4faf-85c0-e6edbad992d8": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Brillio",
+    "title": "Frontline AI Engineer II - R01572473",
+    "baseline": false
+  },
+  "brillio-2:44cd17c5-1a36-4146-b956-818469e6a099": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Engineer",
+    "baseline": false
+  },
+  "brillio-2:c12ec5da-50d0-4643-967b-a14a71222335": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Engineer - R01572702",
+    "baseline": false
+  },
+  "brillio-2:1a4db1d7-0f97-408a-957a-51cb30e6457d": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01572698",
+    "baseline": false
+  },
+  "weekdayworks:b300de40-1dcb-49fb-9c06-02a8e21eca85": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Weekday",
+    "title": "Head of Growth",
+    "baseline": false
+  },
+  "weekdayworks:0f3bb170-2e80-4b5b-9c46-63cb949f70e9": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Weekday",
+    "title": "Operations Intern",
+    "baseline": false
+  },
+  "weekdayworks:e9d59a8c-6eba-4882-b91b-fcf65872ba9c": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Weekday",
+    "title": "Sales Manager",
+    "baseline": false
+  },
+  "meesho:0759d672-8d92-496a-a7c9-22bc2ec45d61": {
+    "first_seen": "2026-10-14T08:53:12.890838+00:00",
+    "company": "Meesho",
+    "title": "Cluster Head -Last Mile - Rajasthan",
+    "baseline": false
   }
 }
