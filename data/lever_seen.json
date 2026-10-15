@@ -16730,5 +16730,149 @@
     "company": "Meesho",
     "title": "Cluster Head -Last Mile - Rajasthan",
     "baseline": false
+  },
+  "hevodata:d257fbd4-a19d-4960-859a-f872c61dfc86": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Hevo Data",
+    "title": "Senior Compliance Engineer",
+    "baseline": false
+  },
+  "hevodata:de617dfa-4b48-441c-ba43-6d6ce8cea605": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Hevo Data",
+    "title": "Tech Recruiter",
+    "baseline": false
+  },
+  "veeva:38e05d84-6102-4dfa-8da1-096abf825679": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Consultant - Entry-Level Technology Consulting",
+    "baseline": false
+  },
+  "veeva:d2af3300-1eb4-47ab-a198-5031e6f366ba": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Consultant - Entry-Level Technology Consulting",
+    "baseline": false
+  },
+  "veeva:7d78e2b9-7916-4d30-b1e4-3ecfb41206e2": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate DevOps Engineer",
+    "baseline": false
+  },
+  "veeva:a35bb73f-41fb-4a2d-be86-bba12a7d74d8": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate QA Engineer",
+    "baseline": false
+  },
+  "veeva:c7f310b3-2626-45dd-aa53-c5df74b1a2ab": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Junior Payroll Specialist",
+    "baseline": false
+  },
+  "veeva:4d0d2e4b-8283-4a9a-b413-0c438f68712e": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Owner (Link Key Accounts)",
+    "baseline": false
+  },
+  "veeva:8480c968-4659-48e4-a05d-741ff31fe945": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Owner (Link Key Accounts)",
+    "baseline": false
+  },
+  "veeva:4e1eee14-b659-4437-aab0-fac618b86a47": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Payroll Specialist",
+    "baseline": false
+  },
+  "veeva:07e2d857-3745-41c6-a9ce-7d81b0941cf4": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Product Manager - PromoMats",
+    "baseline": false
+  },
+  "veeva:65c5ac3a-13b4-4f6f-8ea4-6c6a82057ac8": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Product Manager - PromoMats",
+    "baseline": false
+  },
+  "veeva:89ae41dc-fe8d-44dd-84ee-d00c9ba2440c": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Product Manager - PromoMats",
+    "baseline": false
+  },
+  "brillio-2:7d8abf4e-d747-45b6-b10d-d2837f89218a": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01572746",
+    "baseline": false
+  },
+  "brillio-2:c098ffb4-7e45-4274-8b8d-af245f66afaf": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Brillio",
+    "title": "Sr. AI Engineer - R01572484",
+    "baseline": false
+  },
+  "acceldata:c12c39cb-68c1-45ae-9a88-601e297957b1": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Acceldata",
+    "title": "Software Engineer - Observability (Pulse)",
+    "baseline": false
+  },
+  "safe:7c458fde-0b14-4f4b-a564-4f8c5831ae84": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Safe Security",
+    "title": "Solution Architect (North America)",
+    "baseline": false
+  },
+  "everbridge:668b2c3f-523e-45d3-a3c6-8f3f0fe8b0cd": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Everbridge",
+    "title": "Channel Sales Manager - RedSky",
+    "baseline": false
+  },
+  "everbridge:0ff553dc-220a-4dfc-a96e-5203a26e85a6": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Everbridge",
+    "title": "Enterprise Account Executive - RedSky",
+    "baseline": false
+  },
+  "everbridge:ca712ed2-c2bc-453c-a0c4-8edc8b7a4f66": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Everbridge",
+    "title": "Territory Sales Manager - RedSky",
+    "baseline": false
+  },
+  "meesho:1229feac-d439-4997-bbe3-4bbc15f5b3bc": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Meesho",
+    "title": "Cluster Head- Last Mile",
+    "baseline": false
+  },
+  "meesho:42e448b2-a429-468f-8f77-303ccc590bbf": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Meesho",
+    "title": "Head (Senior Manager) - Industrial Relations",
+    "baseline": false
+  },
+  "meesho:0a1226b1-1fff-4a4f-81a4-7e85087c8d08": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Meesho",
+    "title": "Manager-  Fulfilment & Experience",
+    "baseline": false
+  },
+  "meesho:102d5a7e-0292-4ddc-8ebc-ba191119349e": {
+    "first_seen": "2026-10-15T08:28:12.015052+00:00",
+    "company": "Meesho",
+    "title": "Senior Product Manager : F&E",
+    "baseline": false
   }
 }
