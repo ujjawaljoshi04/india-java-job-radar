@@ -16874,5 +16874,185 @@
     "company": "Meesho",
     "title": "Senior Product Manager : F&E",
     "baseline": false
+  },
+  "azul:56ba877d-f637-4fe5-9144-02d641507e22": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Azul",
+    "title": "Compiler Performance Engineer",
+    "baseline": false
+  },
+  "azul:74008e4a-9860-4692-82a5-3e012c397985": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Azul",
+    "title": "Senior Compiler Performance Engineer",
+    "baseline": false
+  },
+  "azul:2d901edc-5385-49d4-b631-37cd39f39627": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Azul",
+    "title": "Staff Compiler Performance Engineer",
+    "baseline": false
+  },
+  "hevodata:272ae17d-2b06-4b62-b596-e3687b0f744d": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Hevo Data",
+    "title": "Staff Platform Engineer",
+    "baseline": false
+  },
+  "veeva:5079de49-331c-4bae-812b-d02e5f0de5fa": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:7c1c6d8f-60db-42cc-b26a-9b131f393b46": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:ae310551-4c21-4c6e-aec5-05da7e29c0e0": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:c07400bd-0354-4a74-8aa6-a16494b4f4ff": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:c1d438b2-42e0-4f35-bcdd-42ec61ffd5d5": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:c352ea3b-8c68-451f-b984-35e586e5827c": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:e2f879c3-cfdd-4d1b-b866-7f0987576865": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:601ab625-bf95-469f-992b-79aa9f5ebbe2": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Employee Success Associate",
+    "baseline": false
+  },
+  "veeva:736ab64c-acc0-49ab-8959-8ab4bf0a67a4": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Employee Success Associate",
+    "baseline": false
+  },
+  "veeva:863000c6-fa1f-444f-af0d-672029f2caaa": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Employee Success Associate",
+    "baseline": false
+  },
+  "veeva:57b392bc-6918-43f3-b1e2-b5be94f72947": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Head of Client Success",
+    "baseline": false
+  },
+  "veeva:5252c7ed-1285-4869-92cb-3509dd98a9ac": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Director / Director - RIM Strategy",
+    "baseline": false
+  },
+  "veeva:9508049e-c366-4e3d-a6b9-90460623f1fd": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Director / Director - RIM Strategy",
+    "baseline": false
+  },
+  "veeva:df609966-758e-4f20-85a6-34e3d75de172": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Director / Director - RIM Strategy",
+    "baseline": false
+  },
+  "brillio-2:7b12d007-b60b-48d5-9541-e36e52f02c6f": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Brillio",
+    "title": "Consultant - R01571038",
+    "baseline": false
+  },
+  "brillio-2:d7d9bed8-4770-439a-b6ae-e5fb0c815c04": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Brillio",
+    "title": "Forward Deployed Engineer - R01572128",
+    "baseline": false
+  },
+  "brillio-2:1be0b4ea-704f-486e-928f-22c2d11e7fd5": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Automation Solutions - R01572511",
+    "baseline": false
+  },
+  "sonatype:6ef3dc3f-41d3-4116-abcc-6eb6b1475b83": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Sonatype",
+    "title": "Culture & Engagement Partner",
+    "baseline": false
+  },
+  "everbridge:b514bc0a-23c4-48f9-aee5-df361c1ebe49": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Everbridge",
+    "title": "Enterprise Account Executive",
+    "baseline": false
+  },
+  "everbridge:9110ee08-1dba-4812-a0d7-638a0f8b69f3": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Everbridge",
+    "title": "Junior Technical Support Engineer",
+    "baseline": false
+  },
+  "meesho:3826c751-3f51-4f36-8c75-d2d65f172214": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Meesho",
+    "title": "Instructional Designer- ValMo Training",
+    "baseline": false
+  },
+  "wmg:177fee24-03e8-49c1-b351-20a3b5c65cda": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Software Engineer",
+    "baseline": false
+  },
+  "wmg:6a4ae314-accc-4881-b16d-b684beb8afdb": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Software Engineer",
+    "baseline": false
+  },
+  "wmg:23de721a-6770-4f63-8287-6b45c1719415": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Warner Music Group",
+    "title": "Software Engineer",
+    "baseline": false
+  },
+  "wmg:3d4069a5-d737-4c53-8377-043e092003ee": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Warner Music Group",
+    "title": "Software Engineer",
+    "baseline": false
+  },
+  "getwingapp:024a32d7-293d-40de-90c9-269af053502a": {
+    "first_seen": "2026-10-16T08:20:58.983146+00:00",
+    "company": "Wing Assistant",
+    "title": "Digital Marketing & Paid Ads Specialist Part-time | 21138",
+    "baseline": false
   }
 }
