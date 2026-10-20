@@ -17192,5 +17192,107 @@
     "company": "Brillio",
     "title": "Lead Engineer - R01572770",
     "baseline": false
+  },
+  "saviynt:90a4d0dc-0fee-4db5-9d07-7c32eea107a8": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Saviynt",
+    "title": "Principal Software Engineer (Platform Engineering)",
+    "baseline": false
+  },
+  "zimperium:5b5d7e84-0776-4dfe-9ec1-4932e8f9da0e": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Zimperium",
+    "title": "Pre-Sales Engineer (Mobile Apps & Cybersecurity) - Mexico",
+    "baseline": false
+  },
+  "veeva:3839e626-caba-4746-92f8-b91d70e7a0d8": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - Site Solutions",
+    "baseline": false
+  },
+  "veeva:a487874d-eddb-4124-82e1-b9848836da42": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - Site Solutions",
+    "baseline": false
+  },
+  "veeva:a6076cb5-bf4a-4cec-b4d9-71f918fc2a7e": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - Site Solutions",
+    "baseline": false
+  },
+  "veeva:bcf4ab07-289d-4deb-98ef-87d30b0fcbe8": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Veeva Systems",
+    "title": "Director - QualityOne Strategy Operations",
+    "baseline": false
+  },
+  "brillio-2:f18f78a5-9eab-4c09-b98b-f27a097af08a": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Brillio",
+    "title": "Forward Deployed Strategist - R01572124",
+    "baseline": false
+  },
+  "brillio-2:067f103d-b57b-451e-b0cf-200410a318c2": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead",
+    "baseline": false
+  },
+  "brillio-2:53fd9f3f-9221-498c-86e2-f4ff417bc2c0": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Cloud Engineering - R01572880",
+    "baseline": false
+  },
+  "everbridge:ed3bce9b-56cf-441a-ac10-f8aafadfc986": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Everbridge",
+    "title": "Senior Information Security Internal Auditor",
+    "baseline": false
+  },
+  "bazaarvoice:aa1f75d3-d3db-49a8-9cca-acb1bc88d4cf": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Bazaarvoice",
+    "title": "Director, Product Operations",
+    "baseline": false
+  },
+  "bazaarvoice:79343030-69a8-48c4-8637-dc626163c268": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Community Manager",
+    "baseline": false
+  },
+  "weekdayworks:5cbc141e-57c8-484a-bf66-435662985a50": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Weekday",
+    "title": "Data Scientist",
+    "baseline": false
+  },
+  "weekdayworks:eae63d6e-a7b5-4980-980e-89487ae3105f": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Weekday",
+    "title": "IT Administrator",
+    "baseline": false
+  },
+  "weekdayworks:62af137d-e219-42cf-814a-33b63ed05d77": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Weekday",
+    "title": "Performance Marketing Lead",
+    "baseline": false
+  },
+  "weekdayworks:c5a48c69-c670-4f95-ab53-d6f3594a8618": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Weekday",
+    "title": "Real Estate Sourcing Manager",
+    "baseline": false
+  },
+  "meesho:00ce22b9-5185-4b21-a3c0-172a3fd74a30": {
+    "first_seen": "2026-10-20T08:44:31.896548+00:00",
+    "company": "Meesho",
+    "title": "Manager - Branding",
+    "baseline": false
   }
 }
