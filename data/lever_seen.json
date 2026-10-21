@@ -17294,5 +17294,35 @@
     "company": "Meesho",
     "title": "Manager - Branding",
     "baseline": false
+  },
+  "lingarogroup:2fa2bcdf-8f68-40da-bc11-a7bc8778c872": {
+    "first_seen": "2026-10-21T08:45:03.688470+00:00",
+    "company": "Lingaro",
+    "title": "Instructional Designer",
+    "baseline": false
+  },
+  "saviynt:b18aac43-ec69-41b8-b5bf-14c6cb6e5130": {
+    "first_seen": "2026-10-21T08:45:03.688470+00:00",
+    "company": "Saviynt",
+    "title": "Support Account Manager",
+    "baseline": false
+  },
+  "veeva:d9cbd86a-72e3-4c26-b74c-334c5efa2393": {
+    "first_seen": "2026-10-21T08:45:03.688470+00:00",
+    "company": "Veeva Systems",
+    "title": "Marketing Intern (6-Month Contract) - APAC",
+    "baseline": false
+  },
+  "everbridge:cfc0f264-d717-4def-89c9-51f10fa6f929": {
+    "first_seen": "2026-10-21T08:45:03.688470+00:00",
+    "company": "Everbridge",
+    "title": "Senior Director, Go-to-Market",
+    "baseline": false
+  },
+  "getwingapp:12b0f25a-f9f4-44e8-ac97-63fd4ea6154c": {
+    "first_seen": "2026-10-21T08:45:03.688470+00:00",
+    "company": "Wing Assistant",
+    "title": "Outbound Sales Development Representative Full-time or Part-time | Always Pooling & Hiring",
+    "baseline": false
   }
 }
