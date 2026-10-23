@@ -17474,5 +17474,125 @@
     "company": "Wing Assistant",
     "title": "Placement Specialist",
     "baseline": false
+  },
+  "saviynt:9890779f-84ff-4877-8513-c07999a6c7db": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Technical Support Engineer-",
+    "baseline": false
+  },
+  "veeva:780ff77b-4209-469c-9e1e-b13e17c3f6f9": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - Software",
+    "baseline": false
+  },
+  "veeva:b6b491df-f41f-470e-bf9b-f424d2f8d522": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - Software",
+    "baseline": false
+  },
+  "veeva:c31123c6-5943-4c31-acdf-6d1dfee02062": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - Software",
+    "baseline": false
+  },
+  "veeva:d8b4c438-61db-4feb-adc9-06b7e0c5d55d": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Clinical Operations (Remote)",
+    "baseline": false
+  },
+  "veeva:e3722083-4c99-4729-ad88-d9422e2209a2": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Clinical Operations (Remote)",
+    "baseline": false
+  },
+  "veeva:03086634-8570-43db-9306-e1cda52cb88d": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Software",
+    "baseline": false
+  },
+  "veeva:99c390a7-ac9d-4aac-ab8f-be29b53661b6": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Software",
+    "baseline": false
+  },
+  "veeva:d79ea83a-272a-4f32-b905-6ac45e739840": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Software",
+    "baseline": false
+  },
+  "brillio-2:31253165-255f-4c02-aa01-d7def611b0fd": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Brillio",
+    "title": "Scrum Master - R01573001",
+    "baseline": false
+  },
+  "brillio-2:9da22b02-27c9-4f02-b6b5-bb1eada8f4d1": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Brillio",
+    "title": "Senior Data Engineer - R01572949",
+    "baseline": false
+  },
+  "sonatype:9d54f824-bc8a-467d-8036-4395c0d46424": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Sonatype",
+    "title": "Renewal Specialist",
+    "baseline": false
+  },
+  "weekdayworks:5a9cf768-4414-45af-b460-223aa7c713e9": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Weekday",
+    "title": "Founding Sales",
+    "baseline": false
+  },
+  "weekdayworks:39c8ca23-42a6-4f0d-9eb9-db953d494422": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Weekday",
+    "title": "Head Of Marketing",
+    "baseline": false
+  },
+  "weekdayworks:a40374c0-e1cf-4438-8464-3368184027d8": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Weekday",
+    "title": "Manager Fullstack Java",
+    "baseline": false
+  },
+  "weekdayworks:4692d29c-5948-4028-b438-f6cbd567f0b9": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Weekday",
+    "title": "Software Development Engineer in Test",
+    "baseline": false
+  },
+  "weekdayworks:27a33e66-463c-4a52-9ee7-7ec4cf272f6e": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Weekday",
+    "title": "Talent Acquisition Specialist",
+    "baseline": false
+  },
+  "weekdayworks:97b48421-8f0a-4cf8-8134-aeaa57f2915e": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Weekday",
+    "title": "Team Lead Talent Acquisition",
+    "baseline": false
+  },
+  "getwingapp:d9915bf4-a8f6-4bb7-9f5c-d40f69ed61ad": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Wing Assistant",
+    "title": "Client Matching Specialist",
+    "baseline": false
+  },
+  "getwingapp:0d76da11-0996-464d-913e-88e591c48ff8": {
+    "first_seen": "2026-10-23T08:42:43.237737+00:00",
+    "company": "Wing Assistant",
+    "title": "Sales & Customer Success Trainer",
+    "baseline": false
   }
 }
