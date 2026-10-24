@@ -17594,5 +17594,53 @@
     "company": "Wing Assistant",
     "title": "Sales & Customer Success Trainer",
     "baseline": false
+  },
+  "saviynt:4f99d637-67b1-4013-b264-9d51b8b685bc": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Saviynt",
+    "title": "Account Executive- Enterprise, Chicago",
+    "baseline": false
+  },
+  "veeva:760155b8-542f-4517-81c3-4bfa21c10c42": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Veeva Systems",
+    "title": "Director - Japan Safety Strategy",
+    "baseline": false
+  },
+  "veeva:0d88dc70-1023-4ee5-a7fe-67eb0b5cb848": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Veeva Systems",
+    "title": "Software Engineer in Test",
+    "baseline": false
+  },
+  "veeva:fc5343d1-f637-4729-9ecb-aeb963619e01": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Veeva Systems",
+    "title": "Software Engineer in Test",
+    "baseline": false
+  },
+  "brillio-2:7b2ba6ff-df25-4c74-889a-a17f5cb1e327": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Brillio",
+    "title": "Senior Program Manager - R01572757",
+    "baseline": false
+  },
+  "weekdayworks:c7a7ef47-e9b2-436d-8d84-a808995bc806": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Weekday",
+    "title": "Candidate Outreach Associate",
+    "baseline": false
+  },
+  "weekdayworks:69bc9e94-a6c5-4166-a50b-95dba61d763a": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Weekday",
+    "title": "Talent Operations Associate",
+    "baseline": false
+  },
+  "getwingapp:b2448638-9daf-4174-a2f1-31b965b6623e": {
+    "first_seen": "2026-10-24T08:17:45.794531+00:00",
+    "company": "Wing Assistant",
+    "title": "QA Engineer (Freelance - 40 hrs/wk)",
+    "baseline": false
   }
 }
