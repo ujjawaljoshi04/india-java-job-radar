@@ -17642,5 +17642,65 @@
     "company": "Wing Assistant",
     "title": "QA Engineer (Freelance - 40 hrs/wk)",
     "baseline": false
+  },
+  "brillio-2:6068e32e-28a3-4352-9fe4-18e3db86f2f6": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer, Applications & Platforms - R01573026",
+    "baseline": false
+  },
+  "brillio-2:c824a787-9a42-4ba0-b963-4985dfbfb4a5": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Cloud Engineering - R01573017",
+    "baseline": false
+  },
+  "brillio-2:a929ca16-7749-4669-84f4-2ee201f7aa44": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Automation Solutions - R01573004",
+    "baseline": false
+  },
+  "turvo:30276020-e65d-4757-a08f-edb5dfb9a04d": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Turvo",
+    "title": "Senior Software Engineer - UI",
+    "baseline": false
+  },
+  "weekdayworks:e610b02c-c9d9-48b0-87ce-e614757428ff": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Weekday",
+    "title": "Resident Solution Architect",
+    "baseline": false
+  },
+  "weekdayworks:56686955-e3af-4284-9718-ceaf20e22c14": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Weekday",
+    "title": "Senior Data Scientist",
+    "baseline": false
+  },
+  "weekdayworks:197d4392-85fa-4afa-8620-066a5c2835c3": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Weekday",
+    "title": "Senior IT Technical Support Engineer",
+    "baseline": false
+  },
+  "weekdayworks:3c823659-0649-4c27-86fe-20c433b9059d": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Weekday",
+    "title": "Senior Security Engineer",
+    "baseline": false
+  },
+  "weekdayworks:6ad06721-51cc-4c24-afde-338f178442a8": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Weekday",
+    "title": "Sr BI Architect",
+    "baseline": false
+  },
+  "weekdayworks:33724d32-bac6-4776-aa8e-ebbcaf913ab7": {
+    "first_seen": "2026-10-26T09:11:38.944614+00:00",
+    "company": "Weekday",
+    "title": "Sr. BI Architect",
+    "baseline": false
   }
 }
