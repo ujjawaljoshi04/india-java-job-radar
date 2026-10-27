@@ -17702,5 +17702,137 @@
     "company": "Weekday",
     "title": "Sr. BI Architect",
     "baseline": false
+  },
+  "saviynt:3bf1e0fb-45d9-4841-b7e8-5904f9842859": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Saviynt",
+    "title": "Account Executive- Enterprise, Chicago",
+    "baseline": false
+  },
+  "saviynt:a5f2e863-d809-4e94-9375-cbb0e8927c8c": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Saviynt",
+    "title": "Partner Director, GSI's & PwC",
+    "baseline": false
+  },
+  "saviynt:183188c3-c043-4f91-b3f0-30ec4961f4c7": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Saviynt",
+    "title": "Research Scientist Intern - PhD",
+    "baseline": false
+  },
+  "saviynt:b39f6fac-1a05-401a-83b7-831cffd35843": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Saviynt",
+    "title": "Software Engineer (Java/Python)",
+    "baseline": false
+  },
+  "zimperium:e54c8e95-94ad-45fa-b0b7-6ee4638c020d": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Zimperium",
+    "title": "Enterprise Sales Account Executive - DACH",
+    "baseline": false
+  },
+  "veeva:f4388bd8-160b-4d82-93b0-c05ca3b635c6": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Consultant - Consultant Development Programme for Professional Services",
+    "baseline": false
+  },
+  "veeva:54a2639b-d62f-4c03-ba39-7b5ca811e59e": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Veeva Systems",
+    "title": "Content Writer",
+    "baseline": false
+  },
+  "veeva:bba7583c-47d4-4433-878b-56f31cbf80e4": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Veeva Systems",
+    "title": "Director of Marketing - Falcon MLR",
+    "baseline": false
+  },
+  "brillio-2:990bfc01-c298-4a5a-a0b0-37c7dda51f9c": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Brillio",
+    "title": "Business Analyst - R01573032",
+    "baseline": false
+  },
+  "brillio-2:3aa46a0a-a637-4897-a040-3d9017cf7724": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Brillio",
+    "title": "Lead Quality Engineer - R01573000",
+    "baseline": false
+  },
+  "brillio-2:c751f727-9b88-40b3-b56f-f26f88aab0df": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Engineer - R01572964",
+    "baseline": false
+  },
+  "brillio-2:3cd8d37a-fa74-4b7d-96eb-ea8edf823c46": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Brillio",
+    "title": "Senior Profisee MDM & Microsoft Fabric Data Architect - R01572927",
+    "baseline": false
+  },
+  "brillio-2:21bd542e-2f40-489b-a47e-d4bfadfbdcaf": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01573105",
+    "baseline": false
+  },
+  "sonatype:8ead3939-aff7-4504-9707-6449bb32237c": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Sonatype",
+    "title": "Enterprise Account Executive, DACH",
+    "baseline": false
+  },
+  "sonatype:ac8ec53b-7dcc-4ec0-8d30-08454a2e175c": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Sonatype",
+    "title": "Enterprise Account Executive, North America",
+    "baseline": false
+  },
+  "turvo:4b7077f9-2069-43a1-bf87-e0a8735634fb": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Turvo",
+    "title": "Engineering Manager - Data",
+    "baseline": false
+  },
+  "turvo:2dc205f7-29be-4f49-a761-100e1c8f6167": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Turvo",
+    "title": "Senior Site Reliability Engineer",
+    "baseline": false
+  },
+  "weekdayworks:150a3766-2d38-4297-9107-5e9d7a97fcdf": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Weekday",
+    "title": "AVP - People & Culture",
+    "baseline": false
+  },
+  "weekdayworks:33fb3019-e0c5-41e7-a169-ed171c598089": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Weekday",
+    "title": "Lead DevOps Engineer",
+    "baseline": false
+  },
+  "wmg:62797b8e-6211-48bd-bf7e-2ca1b3d17b56": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Warner Music Group",
+    "title": "Product Manager",
+    "baseline": false
+  },
+  "getwingapp:735daa2f-2e5c-468f-9c1b-95e09ada6437": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Wing Assistant",
+    "title": "Marketing & Creative Assistant Full-time | 21223",
+    "baseline": false
+  },
+  "getwingapp:f0b28518-0ccf-49f7-bc5f-f1896ed44918": {
+    "first_seen": "2026-10-27T09:12:30.320033+00:00",
+    "company": "Wing Assistant",
+    "title": "Part Time Insurance Virtual Assistant | 21233",
+    "baseline": false
   }
 }
