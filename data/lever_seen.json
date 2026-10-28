@@ -17834,5 +17834,83 @@
     "company": "Wing Assistant",
     "title": "Part Time Insurance Virtual Assistant | 21233",
     "baseline": false
+  },
+  "veeva:12331cc2-ba2f-4274-b45f-645a7af148bb": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Veeva Ostro",
+    "baseline": false
+  },
+  "veeva:6ff98791-340f-477a-8868-6c7d320038b6": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Veeva Ostro",
+    "baseline": false
+  },
+  "veeva:ce5e662e-8b5f-4a55-b921-eec2d0d05733": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Veeva Ostro",
+    "baseline": false
+  },
+  "veeva:39b95683-9c50-4721-aafe-68f3dad04f83": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Veeva Systems",
+    "title": "Data Analyst",
+    "baseline": false
+  },
+  "veeva:f387c7d3-74af-4afc-ba9f-d9cf8ac60ee7": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Data",
+    "baseline": false
+  },
+  "veeva:ac3be702-0e01-46a2-811d-e64464f25a66": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - APAC",
+    "baseline": false
+  },
+  "brillio-2:81087303-e8fd-4738-9b0c-9edd86face32": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Brillio",
+    "title": "Business Consultant - R01572476",
+    "baseline": false
+  },
+  "brillio-2:c8bbc9b5-70ec-4a67-840b-f2e62742e1bc": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Brillio",
+    "title": "Snowflake Architect - R01573082",
+    "baseline": false
+  },
+  "brillio-2:a1b7d8b0-12d4-49fb-a670-a0f704a11d33": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Brillio",
+    "title": "Sr.SDET - R01573003",
+    "baseline": false
+  },
+  "sonatype:a2b0bd5b-1f32-45d2-abf7-a171d92364ee": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Sonatype",
+    "title": "Strategic Account Executive, West",
+    "baseline": false
+  },
+  "turvo:cc40cf6f-3ca4-478a-b36c-a95101a80bf8": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Turvo",
+    "title": "Digital Marketing Manager",
+    "baseline": false
+  },
+  "turvo:fb02d4d9-5c0e-4ea8-b59c-518dd498bd77": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Turvo",
+    "title": "Security Engineer",
+    "baseline": false
+  },
+  "weekdayworks:1a4e01d0-0104-4b19-a1e0-9180738cb92a": {
+    "first_seen": "2026-10-28T09:53:23.146383+00:00",
+    "company": "Weekday",
+    "title": "Retail Sales Associate - Luxury Home & Lifestyle",
+    "baseline": false
   }
 }
