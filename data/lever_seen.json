@@ -17912,5 +17912,113 @@
     "company": "Weekday",
     "title": "Retail Sales Associate - Luxury Home & Lifestyle",
     "baseline": false
+  },
+  "saviynt:f6a28e9c-6012-4eaf-8232-83cda5a38441": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Saviynt",
+    "title": "Director, Product Management - FedGov",
+    "baseline": false
+  },
+  "saviynt:6e8eda4b-1ba0-4602-8adf-0712b7f1182b": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Saviynt",
+    "title": "Director, Sales Engineering - East",
+    "baseline": false
+  },
+  "saviynt:4091b515-74a1-4a4e-a54f-f11b6b7abc91": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Saviynt",
+    "title": "Senior Sales Engineer - Bay Area",
+    "baseline": false
+  },
+  "veeva:87e81ce9-4bf0-44d1-9b2a-e5cce65e239c": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - Pharmacovigilance",
+    "baseline": false
+  },
+  "veeva:8e0c5693-f17d-46fc-8c8f-f68421561e2f": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - Pharmacovigilance",
+    "baseline": false
+  },
+  "veeva:e4ac318e-ab36-4b28-9d20-c8be9c51ae96": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Veeva Systems",
+    "title": "Customer Success Manager - Pharmacovigilance",
+    "baseline": false
+  },
+  "brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Brillio",
+    "title": "Associate Data Engineer - R01571250",
+    "baseline": false
+  },
+  "brillio-2:d2e8873c-ed89-4b6b-8537-c28c8e624cf7": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Brillio",
+    "title": "Associate Director - HR",
+    "baseline": false
+  },
+  "brillio-2:5c5ffb31-248b-4666-8865-43b42b9249a0": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Brillio",
+    "title": "Context Engineer with pharmaceutical or life sciences domain experience - R01572930",
+    "baseline": false
+  },
+  "acceldata:5c7ab303-e504-4d13-9bb0-f90181dbc5cb": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Acceldata",
+    "title": "Manager, Global Practice and Delivery (Solutions & Services)",
+    "baseline": false
+  },
+  "acceldata:2a53928c-625a-4ef8-b971-eba9670dedc9": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Acceldata",
+    "title": "Senior Frontend Engineer",
+    "baseline": false
+  },
+  "acceldata:13d50821-ca33-4b8c-89e9-7caf66fd3ef9": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Acceldata",
+    "title": "Senior Manager, Partner Marketing",
+    "baseline": false
+  },
+  "acceldata:c1d6cc81-a14e-4663-aac3-2ac21e8d2172": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Acceldata",
+    "title": "Senior SDET - Open Data Platform (ODP)",
+    "baseline": false
+  },
+  "everbridge:1984fd2a-c2c3-4a75-becd-ee0494756192": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Everbridge",
+    "title": "Business Development Representative",
+    "baseline": false
+  },
+  "weekdayworks:c0263e8b-04e5-4094-903f-75010478962e": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Weekday",
+    "title": "Platform Backend Engineers",
+    "baseline": false
+  },
+  "getwingapp:3740caa3-7c05-43ac-ad55-7321bc142e9b": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Wing Assistant",
+    "title": "Dental Administrative Assistant (Remote) Full-time | 21236",
+    "baseline": false
+  },
+  "getwingapp:18e90c0f-d0c2-4f36-ae45-a61881b6734e": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Wing Assistant",
+    "title": "Expert B2C Sales Development Representative Part-time | 20656",
+    "baseline": false
+  },
+  "getwingapp:01447853-77e9-436a-af83-45481ede23be": {
+    "first_seen": "2026-10-29T10:15:24.905277+00:00",
+    "company": "Wing Assistant",
+    "title": "Operations & Administrative Project Manager Full-time  | 21238",
+    "baseline": false
   }
 }
