@@ -18020,5 +18020,143 @@
     "company": "Wing Assistant",
     "title": "Operations & Administrative Project Manager Full-time  | 21238",
     "baseline": false
+  },
+  "lingarogroup:45365d44-a0c9-4e62-9548-f13afeaf782e": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Architect",
+    "baseline": false
+  },
+  "lingarogroup:fa17d846-2a34-4dea-8de4-9c86ddb663d6": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineering Architect",
+    "baseline": false
+  },
+  "saviynt:bc178398-a102-4c60-9647-e170c704f9fc": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Saviynt",
+    "title": "VP, Product Marketing – Identity Security Portfolio",
+    "baseline": false
+  },
+  "veeva:85687ce7-867a-444f-b864-76eec4bafb51": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Veeva Systems",
+    "title": "Global Program Manager - Development Cloud",
+    "baseline": false
+  },
+  "veeva:b26fc3c4-e72d-4974-8c4a-3b3e8d59c4cf": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Data Scientist",
+    "baseline": false
+  },
+  "veeva:e314c65f-11aa-44a9-b078-3253eeadd9ef": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Data Scientist",
+    "baseline": false
+  },
+  "veeva:c704b89d-57d9-4d75-8cf2-42cbc723c80d": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Program Manager - Medical Content - Ostro",
+    "baseline": false
+  },
+  "veeva:26d135f2-0b13-4993-aeaa-3376b0edce69": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior QA Engineer",
+    "baseline": false
+  },
+  "brillio-2:2eb806c1-dabc-4031-a25b-5d5d49cbe801": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Brillio",
+    "title": "Engineering PM/ Technical Program Manager - Microsoft Fabric & IBM DataStage - R01573156",
+    "baseline": false
+  },
+  "brillio-2:57b4a0b7-4d59-4eb3-a301-c18be669a8bc": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Brillio",
+    "title": "FullStack Developer - R01573043",
+    "baseline": false
+  },
+  "brillio-2:4c88f951-cea1-4659-aa09-1b6761019726": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Brillio",
+    "title": "Lead Analytics Engineer - R01572950",
+    "baseline": false
+  },
+  "sonatype:53591b86-d30e-49b5-b4b6-ba3f52209c16": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Sonatype",
+    "title": "Senior Data Scientist",
+    "baseline": false
+  },
+  "rapidai:44146eb4-8cb3-4e9e-ba94-2ff74204ede3": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "RapidAI",
+    "title": "Account Executive- South Atlantic/Central (SC NC TN)",
+    "baseline": false
+  },
+  "everbridge:674133dd-5b33-44bf-9570-f610a9849d87": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Everbridge",
+    "title": "Operations Manager Assistance",
+    "baseline": false
+  },
+  "everbridge:db3a5556-0eef-4625-99cb-44d137c9e9a5": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Everbridge",
+    "title": "Senior Strategic Carrier Alliances Manager",
+    "baseline": false
+  },
+  "bazaarvoice:384c449d-9625-47a6-afd6-70323a46dbb8": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Bazaarvoice",
+    "title": "Technical Support Analyst - Tier 1 (6 Month FTC)",
+    "baseline": false
+  },
+  "weekdayworks:48e0b84b-fa4b-4cbc-888e-7cc98e6a928c": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Weekday",
+    "title": "Assistant Manager Credit",
+    "baseline": false
+  },
+  "weekdayworks:e2c6af95-df22-4f98-b958-7765cdcde614": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Weekday",
+    "title": "National Manager Credit Cards Pre-Acquisition Policy",
+    "baseline": false
+  },
+  "weekdayworks:81791dc8-acf1-4610-a537-f5b568ecf1b9": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Weekday",
+    "title": "Vice President Legal Recovery",
+    "baseline": false
+  },
+  "wmg:31cfb609-8a71-42d0-ad3b-75284b1d60d6": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Warner Music Group",
+    "title": "Executive Assistant & Coordinator",
+    "baseline": false
+  },
+  "wmg:7e969443-c458-45ee-9a23-d27048a9a608": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Warner Music Group",
+    "title": "Quality Engineer",
+    "baseline": false
+  },
+  "getwingapp:d3a00480-467d-4e23-a317-581b47f37912": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Wing Assistant",
+    "title": "Healthcare Virtual Assistant - Registered Nurse / USRN",
+    "baseline": false
+  },
+  "getwingapp:2b9af744-7166-4ef5-ac3a-a5295449cf8e": {
+    "first_seen": "2026-10-30T10:16:58.312427+00:00",
+    "company": "Wing Assistant",
+    "title": "Outbound Growth Operations Lead (GHL) Full-time | 21264",
+    "baseline": false
   }
 }
