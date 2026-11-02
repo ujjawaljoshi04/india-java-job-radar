@@ -18236,5 +18236,29 @@
     "company": "Everbridge",
     "title": "Junior Technical Support Engineer",
     "baseline": false
+  },
+  "lingarogroup:b4aa26da-1f29-42d0-818a-93577800bc6b": {
+    "first_seen": "2026-11-02T11:29:16.919493+00:00",
+    "company": "Lingaro",
+    "title": "Cloud DevOps Engineer",
+    "baseline": false
+  },
+  "brillio-2:bea6df78-2f2a-4e64-910a-cd758db237ca": {
+    "first_seen": "2026-11-02T11:29:16.919493+00:00",
+    "company": "Brillio",
+    "title": "Lead, Operations - R01569757",
+    "baseline": false
+  },
+  "weekdayworks:da2e220d-743b-4390-81cf-00d9c86f9e02": {
+    "first_seen": "2026-11-02T11:29:16.919493+00:00",
+    "company": "Weekday",
+    "title": "Principal Software Quality Engineer",
+    "baseline": false
+  },
+  "getwingapp:0299133e-3168-4112-af1d-9d21964adb4b": {
+    "first_seen": "2026-11-02T11:29:16.919493+00:00",
+    "company": "Wing Assistant",
+    "title": "Executive Assistant to the EVP of Operations - Hybrid",
+    "baseline": false
   }
 }
