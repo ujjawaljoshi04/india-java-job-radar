@@ -18260,5 +18260,35 @@
     "company": "Wing Assistant",
     "title": "Executive Assistant to the EVP of Operations - Hybrid",
     "baseline": false
+  },
+  "brillio-2:0663c1d8-d32a-4f52-a0ce-71fb6b5f0966": {
+    "first_seen": "2026-11-03T11:08:29.244932+00:00",
+    "company": "Brillio",
+    "title": "Data Acquisition Analyst ( Japanese, French) - R01572719",
+    "baseline": false
+  },
+  "brillio-2:7beb9c7b-f6c0-4528-b4bf-7da85ba2c799": {
+    "first_seen": "2026-11-03T11:08:29.244932+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer - R01573332",
+    "baseline": false
+  },
+  "bazaarvoice:4b70148c-35a7-4d13-87f3-c9e4fdcbebd7": {
+    "first_seen": "2026-11-03T11:08:29.244932+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Software Engineer (Backend) - C&C",
+    "baseline": false
+  },
+  "meesho:9b5a5436-cdc3-4bcd-8e5e-b7294af185d5": {
+    "first_seen": "2026-11-03T11:08:29.244932+00:00",
+    "company": "Meesho",
+    "title": "Security Engineer III - Infra Security",
+    "baseline": false
+  },
+  "wmg:b7f94528-399c-4502-a441-53b2f62957a6": {
+    "first_seen": "2026-11-03T11:08:29.244932+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Software Engineer, Backend & AI Platform - Sureel AI",
+    "baseline": false
   }
 }
