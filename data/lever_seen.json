@@ -18698,5 +18698,155 @@
     "company": "Wing Assistant",
     "title": "Remote Executive Assistant with Asana Proficiency (PH)",
     "baseline": false
+  },
+  "lingarogroup:4847a13f-d355-4fd9-9e7f-0408b9ae14b4": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Lingaro",
+    "title": "Lead QA Engineer (AI Voice)",
+    "baseline": false
+  },
+  "lingarogroup:01d53e41-04b7-41fd-8706-54b3e8be4491": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Lingaro",
+    "title": "QA Engineer (AI Voice)",
+    "baseline": false
+  },
+  "saviynt:9d2287f2-5a6e-4249-a907-11ac86b61f90": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Saviynt",
+    "title": "Senior Benefits Specialist",
+    "baseline": false
+  },
+  "veeva:e22e3336-1398-4c0a-8890-9de1571c0683": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - APAC Business Consulting",
+    "baseline": false
+  },
+  "veeva:527694f2-5a78-444e-a81c-8bbefbee44b3": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Engagement Manager - Commercial",
+    "baseline": false
+  },
+  "veeva:b5f66902-11b2-40b2-b816-c23f2f7b3ee2": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Engagement Manager - Commercial",
+    "baseline": false
+  },
+  "veeva:d300046e-4bb8-482f-98e6-45b78c61cfa2": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Implementation Consultant – Pharmacovigilance / Safety Systems (Remote)",
+    "baseline": false
+  },
+  "veeva:ba351f4a-692d-4c01-a117-464b90456ef9": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - Veeva QualityOne - India",
+    "baseline": false
+  },
+  "veeva:0bb449f3-f777-4ee3-84b0-8ddd46bcb908": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Strategy Director - OpenData",
+    "baseline": false
+  },
+  "veeva:b22b401a-9afd-42ed-a24f-e65a5c705e3b": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Veeva Systems",
+    "title": "Strategy Director - OpenData",
+    "baseline": false
+  },
+  "brillio-2:36425d14-953e-4169-b112-b17a6c068eef": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Associate Manager, FP&A - R01573601",
+    "baseline": false
+  },
+  "brillio-2:b301ab5e-b6a6-477c-991a-2ebc88d198c0": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Designer - R01573560",
+    "baseline": false
+  },
+  "brillio-2:dc99e003-e1f7-43e4-b803-32c597687f5f": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Lead Quality Engineer - R01573407",
+    "baseline": false
+  },
+  "brillio-2:ff5f2c21-676f-489c-ac22-6bdd0900c4ee": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Scrum Master - R01573447",
+    "baseline": false
+  },
+  "brillio-2:ecbac9e5-a11a-4b0e-b259-187267771a55": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Scrum Master - R01573514",
+    "baseline": false
+  },
+  "brillio-2:c25cb205-df5f-487e-896d-95d099e9fe3d": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer, Applications & Platforms - R01573575",
+    "baseline": false
+  },
+  "brillio-2:845e9199-4f02-4a13-8d75-f5e879b2e637": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer, Cloud Engineering - R01573593",
+    "baseline": false
+  },
+  "brillio-2:0cc8c080-efda-453e-b600-1de2aaaa75ec": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01573443",
+    "baseline": false
+  },
+  "brillio-2:ee0017c9-7caf-4fea-98e3-dffaaae6830f": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Cloud Engineering - R01573611",
+    "baseline": false
+  },
+  "brillio-2:25f7e284-af73-4693-8350-e22b370894b4": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Digital Workplaces - R01572916",
+    "baseline": false
+  },
+  "rapidai:31ead1cf-4f9f-4be9-89f9-37400442476e": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "RapidAI",
+    "title": "Senior Product Manager - Neurology",
+    "baseline": false
+  },
+  "acceldata:5ccb4d08-ba03-416c-82d4-38f253df4e6c": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Acceldata",
+    "title": "Accountant / Senior Accountant - US Accounting",
+    "baseline": false
+  },
+  "acceldata:6a0986e4-cb91-4fe0-8763-7f1576ba64e9": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Acceldata",
+    "title": "Sales Development Representative | Enterprise (US Time Zone)",
+    "baseline": false
+  },
+  "acceldata:ebcf0da6-55ad-4d91-9370-9e852a82b775": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Acceldata",
+    "title": "Sales Development Representative | Enterprise Accounts (EMEA)",
+    "baseline": false
+  },
+  "getwingapp:d04d020a-e02d-45df-bea4-60f3e9f1f6ca": {
+    "first_seen": "2026-11-06T11:14:15.341675+00:00",
+    "company": "Wing Assistant",
+    "title": "Senior SQL Fraud Analyst Full-time | 21296",
+    "baseline": false
   }
 }
