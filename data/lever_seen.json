@@ -18848,5 +18848,29 @@
     "company": "Wing Assistant",
     "title": "Senior SQL Fraud Analyst Full-time | 21296",
     "baseline": false
+  },
+  "veeva:f8455b3e-4ef6-4804-9f07-6d1ff80696c5": {
+    "first_seen": "2026-11-07T10:30:10.386049+00:00",
+    "company": "Veeva Systems",
+    "title": "Recruiter",
+    "baseline": false
+  },
+  "brillio-2:a5e236d9-bcb0-424f-aeb5-f1362763ba85": {
+    "first_seen": "2026-11-07T10:30:10.386049+00:00",
+    "company": "Brillio",
+    "title": "Consultant - R01573317",
+    "baseline": false
+  },
+  "bazaarvoice:e3d31ff5-d4f9-41fd-b4af-14c9e2053600": {
+    "first_seen": "2026-11-07T10:30:10.386049+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Manager, Customer Success Operations",
+    "baseline": false
+  },
+  "getwingapp:9f4d8aaf-e74c-4fa2-9bb4-584850e8d172": {
+    "first_seen": "2026-11-07T10:30:10.386049+00:00",
+    "company": "Wing Assistant",
+    "title": "Zoho CRM Specialist & Systems Optimization Fulltime | 21007",
+    "baseline": false
   }
 }
