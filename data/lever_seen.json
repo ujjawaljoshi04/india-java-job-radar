@@ -18878,5 +18878,11 @@
     "company": "Weekday",
     "title": "Manager - Direct Tax",
     "baseline": false
+  },
+  "weekdayworks:ad3f0bf2-d7e7-4efd-875b-56bc2f2b911f": {
+    "first_seen": "2026-11-09T11:53:58.403347+00:00",
+    "company": "Weekday",
+    "title": "Interview Coordination & No-Show Specialist",
+    "baseline": false
   }
 }
