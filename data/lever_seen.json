@@ -18884,5 +18884,167 @@
     "company": "Weekday",
     "title": "Interview Coordination & No-Show Specialist",
     "baseline": false
+  },
+  "lingarogroup:19f87814-ea38-4237-9497-37f10a828972": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Lingaro",
+    "title": "Junior Administrative Specialist",
+    "baseline": false
+  },
+  "saviynt:cab0ceae-cfb1-4459-b6d3-c37c5a9b0a61": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Saviynt",
+    "title": "Enterprise Account Manager",
+    "baseline": false
+  },
+  "saviynt:4c4b3959-e74b-4680-9b25-a1d4ee4aa62d": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - Boston",
+    "baseline": false
+  },
+  "saviynt:aeecf30f-ec0c-4609-801b-7561fa6169d8": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - Seattle",
+    "baseline": false
+  },
+  "saviynt:8ff7a05e-ebba-4d0a-8db5-9f4952b9ae43": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Sales Development Representative - Boston",
+    "baseline": false
+  },
+  "veeva:2ea8bcb2-c821-47d0-bfea-122d731548ea": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:3b60635d-c606-40e0-8fc5-de50aa2b64d0": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:5f6b9747-7093-4d4f-856a-c733cb927ad2": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:6f9072d1-2d73-48c6-a814-b6d7d9b75ad3": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:a1f6aee8-eb3f-4316-8c0e-4ac2e7ed38c6": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:bf0d1b6b-54cc-4144-9dbd-f6486c848109": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "veeva:f078fac1-5e57-4b7a-acaf-f8b7f6ab6fe5": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "brillio-2:0aa83771-4fc6-4ed0-8898-dc79d718d9f6": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Brillio",
+    "title": "Associate Engineer, Applications & Platforms - R01573613",
+    "baseline": false
+  },
+  "brillio-2:e73c9dc7-ee7a-42c3-b38c-2729e1f7b2dd": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Brillio",
+    "title": "Senior Engineer, Digital Workplaces - R01573570",
+    "baseline": false
+  },
+  "brillio-2:26ea4b6c-1e4f-465f-959d-6086477ab5a6": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Brillio",
+    "title": "Senior Software Development Lead - R01573545",
+    "baseline": false
+  },
+  "brillio-2:6d48b30c-a0a0-4c1e-b2a9-26c5e2dd171e": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Applications & Platforms - R01573606",
+    "baseline": false
+  },
+  "brillio-2:743f71ac-4b3b-4121-a163-29973e02658e": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Cloud Engineering - R01573478",
+    "baseline": false
+  },
+  "brillio-2:014e8fe5-ea4d-4b06-968a-5c63e79545a7": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Automation Solutions - R01573638",
+    "baseline": false
+  },
+  "safe:f9d9965d-1113-4fc7-8fd9-cf44d3ece65c": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Safe Security",
+    "title": "Forward Deployed Engineer",
+    "baseline": false
+  },
+  "everbridge:7ab7e176-6b77-4999-8f7e-4e79a3d7b3fd": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Everbridge",
+    "title": "Finance Systems Analyst",
+    "baseline": false
+  },
+  "everbridge:aa9f04cf-17fa-4167-a821-a7ad8472e2e6": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Everbridge",
+    "title": "Senior Business Systems Project Manager",
+    "baseline": false
+  },
+  "everbridge:49c587c9-67ee-4f2b-bbde-baa87a4fce79": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Everbridge",
+    "title": "Senior Product Manager",
+    "baseline": false
+  },
+  "everbridge:5be0a79b-42d9-44d8-819e-cfe511d7b1ab": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Everbridge",
+    "title": "Senior Product Manager",
+    "baseline": false
+  },
+  "weekdayworks:257578d0-06de-4596-aad6-c6cf65cd845a": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Weekday",
+    "title": "Bookkeeper - US CPA Client",
+    "baseline": false
+  },
+  "weekdayworks:c8955869-2657-4f7d-bad5-fe47d8b53de9": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Weekday",
+    "title": "Senior Accountant",
+    "baseline": false
+  },
+  "weekdayworks:d4d21b58-0846-430b-8cef-eb11ba48002e": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Weekday",
+    "title": "US Property Accountant",
+    "baseline": false
+  },
+  "wmg:bb3b1e08-18a5-4eb0-8711-45c465b04497": {
+    "first_seen": "2026-11-10T11:27:31.054355+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior AI Engineer, Sureel AI",
+    "baseline": false
   }
 }
