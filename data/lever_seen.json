@@ -19046,5 +19046,89 @@
     "company": "Warner Music Group",
     "title": "Senior AI Engineer, Sureel AI",
     "baseline": false
+  },
+  "azul:7a176ba6-59c3-458c-bbde-43442d57cd8b": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Azul",
+    "title": "Senior Director, Product Management",
+    "baseline": false
+  },
+  "saviynt:e9d7ad8f-7fdb-40d5-ab22-ef24b11565d7": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Saviynt",
+    "title": "Associate Principal Software Engineer",
+    "baseline": false
+  },
+  "saviynt:fa96a339-dfb8-4bd1-ade8-ea7b03a3d29c": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Saviynt",
+    "title": "Sales Development Representative - Chicago",
+    "baseline": false
+  },
+  "veeva:0737b1d8-8499-40f6-aaf0-65ad7a753ac5": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Safety",
+    "baseline": false
+  },
+  "veeva:2c881dd4-7432-499a-89a0-6b424b8c5642": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Safety",
+    "baseline": false
+  },
+  "veeva:644e9d60-ed6e-49a7-9fb9-df14d38d3b7f": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Safety",
+    "baseline": false
+  },
+  "veeva:0287a2b0-5972-4bff-89c2-36e2a36dc4a8": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Veeva Systems",
+    "title": "Talent Operations Associate",
+    "baseline": false
+  },
+  "veeva:17198a0e-8a38-4bd1-b103-c347887983ac": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Veeva Systems",
+    "title": "Talent Operations Associate",
+    "baseline": false
+  },
+  "veeva:4e962ef7-7d6f-4962-a344-7a2740b99aa1": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Veeva Systems",
+    "title": "Talent Operations Associate",
+    "baseline": false
+  },
+  "brillio-2:6058811f-2b5c-475e-b7f9-2e0195587860": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Brillio",
+    "title": "Data Specialist - R01573377",
+    "baseline": false
+  },
+  "brillio-2:0efdbf38-78ad-424f-9239-eb4f5da0e423": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Brillio",
+    "title": "Intern - R01572341",
+    "baseline": false
+  },
+  "sonatype:b3c11b18-740b-4e8d-9151-0a4b26803418": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Sonatype",
+    "title": "Account Executive, Commercial, North America",
+    "baseline": false
+  },
+  "everbridge:fb398ff2-f2e9-4eb8-a42a-b8bd2b9763cf": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Everbridge",
+    "title": "Enterprise Sales Engineer",
+    "baseline": false
+  },
+  "weekdayworks:32eb2095-ca56-44c0-8ed7-4155b3d956ea": {
+    "first_seen": "2026-11-11T11:16:15.038600+00:00",
+    "company": "Weekday",
+    "title": "Founding Platform Engineer",
+    "baseline": false
   }
 }
