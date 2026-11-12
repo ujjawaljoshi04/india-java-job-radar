@@ -19130,5 +19130,239 @@
     "company": "Weekday",
     "title": "Founding Platform Engineer",
     "baseline": false
+  },
+  "lingarogroup:f74c1086-ba8c-4954-983a-ec0d11c1f377": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Lingaro",
+    "title": "Account Director ZEA (Dubai)",
+    "baseline": false
+  },
+  "lingarogroup:b869843d-1060-4a44-baf0-ffb641f23746": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Lingaro",
+    "title": "Senior Business Intelligence (BI) Team Leader",
+    "baseline": false
+  },
+  "saviynt:fded3257-7da4-483d-8cc5-dc9fbe365ef7": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Saviynt",
+    "title": "Sales Development Representative - Japan",
+    "baseline": false
+  },
+  "veeva:3e178f51-9041-4033-bfa7-2a47b8245001": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Medtech CRO",
+    "baseline": false
+  },
+  "veeva:c19e4537-72f9-42a1-b639-8dabf1903228": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Veeva Systems",
+    "title": "Account Partner - Medtech CRO",
+    "baseline": false
+  },
+  "veeva:8076acb3-697b-46f0-81f3-568436f1a8e1": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Implementation Consultant - Pharmacovigilance Reporting (Remote)",
+    "baseline": false
+  },
+  "veeva:c8bdea91-1656-4819-9f99-4bde386cb55d": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Implementation Consultant - Pharmacovigilance Reporting (Remote)",
+    "baseline": false
+  },
+  "brillio-2:b6d28d67-b39c-4461-a03d-66cc21865d8d": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Brillio",
+    "title": "Business Analyst - R01573140",
+    "baseline": false
+  },
+  "brillio-2:ad47c4e9-b54e-487f-9f71-4e23958ff4de": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Brillio",
+    "title": "Business Process Documentation Specialist / SOP Documentation Analyst- R01573286",
+    "baseline": false
+  },
+  "brillio-2:fa3d653d-d4f1-41c0-894d-481682a13c37": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Brillio",
+    "title": "Senior Tech Specialist, Network - R01573646",
+    "baseline": false
+  },
+  "brillio-2:a55b45a8-cc42-4542-a95a-9dabe9d81c1a": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Automation Solutions - R01573659",
+    "baseline": false
+  },
+  "brillio-2:638f3a84-6575-4af5-88be-68acfa7fba76": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Brillio",
+    "title": "Tech Specialist, Network - R01573649",
+    "baseline": false
+  },
+  "brillio-2:4fa3396e-b738-471f-badf-a60d19308e4c": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Brillio",
+    "title": "Technical Program Manager with Supply Chain- R01573139",
+    "baseline": false
+  },
+  "rapidai:b9eb8ce1-31d8-47c7-863c-3f8c2d83a653": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "RapidAI",
+    "title": "Technical Services and Implementation Contractor",
+    "baseline": false
+  },
+  "valgenesis:6671cb88-ebe6-467b-8960-a8547c2c18de": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "ValGenesis",
+    "title": "Director, Human Resources (India)",
+    "baseline": false
+  },
+  "acceldata:7a30be80-bb12-47b5-af62-e9cac23b1907": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Acceldata",
+    "title": "Product Specialist (Cloud Support SME)",
+    "baseline": false
+  },
+  "acceldata:c8159071-1e61-4781-8208-2d378baea04f": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Acceldata",
+    "title": "Security Engineer (Application Security)",
+    "baseline": false
+  },
+  "everbridge:64294d79-b75e-4f71-9c37-6e6317932505": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Everbridge",
+    "title": "Deal Management Specialist",
+    "baseline": false
+  },
+  "meesho:3ee032da-ddff-4eb3-8bf6-14818b935920": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Meesho",
+    "title": "Assistant Manager HR : HRBP",
+    "baseline": false
+  },
+  "getwingapp:015ed654-8f8e-498d-a255-727303b5f91d": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Business Operations Lead – Customer Lifecycle",
+    "baseline": false
+  },
+  "getwingapp:1a82d50a-f927-4e3d-96f6-7c099781e66c": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Business Operations Lead – Customer Lifecycle",
+    "baseline": false
+  },
+  "getwingapp:82f02f39-a19c-471a-b428-ba6a4a462a0c": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Business Operations Lead – Customer Lifecycle",
+    "baseline": false
+  },
+  "getwingapp:e4dbe5be-eb22-4acc-9101-adef63d0d0ca": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Business Operations Lead – Customer Lifecycle",
+    "baseline": false
+  },
+  "getwingapp:4f1c9651-3d0e-4b02-9aef-6376f24f3d94": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Operations Lead – Onboarding & Activation",
+    "baseline": false
+  },
+  "getwingapp:cdb74fe3-12b6-4590-b893-8e808825cad6": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Operations Lead – Onboarding & Activation",
+    "baseline": false
+  },
+  "getwingapp:ed3a9213-46ba-4b5a-b327-65a463df6613": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Operations Lead – Onboarding & Activation",
+    "baseline": false
+  },
+  "getwingapp:edd1d5ab-0a13-4fea-b83a-a3cef0b33c79": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Customer Operations Lead – Onboarding & Activation",
+    "baseline": false
+  },
+  "getwingapp:e6b94440-2661-4141-a9dd-fd9893076c30": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Legal Intake Specialist Full-time | 21320",
+    "baseline": false
+  },
+  "getwingapp:046becf1-4cf2-495d-ad9a-4fc3e2af31c3": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:17e90d1f-5790-4c98-bc77-04efd7be7c07": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:208c628a-4c24-433c-999f-6119ffb782a7": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:20efda60-8407-4d02-96a9-e64735497990": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:2895fcfe-2eb4-4213-a12f-5da4359f922f": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:299d5820-fd2b-4b16-8824-eef7152790ce": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:3ceffb10-2b6b-4edf-8f96-3368b6e429b1": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:68db21aa-9de1-49c8-93d8-2cf7f9d50b56": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:91ccee07-f978-4f54-a6ce-68cf3ea4a401": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:b1f769bf-b6a5-4f22-a7a7-3883d3eedab9": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
+  },
+  "getwingapp:e4a255c0-d9da-4569-9d60-83938f328603": {
+    "first_seen": "2026-11-12T11:34:05.924266+00:00",
+    "company": "Wing Assistant",
+    "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
+    "baseline": false
   }
 }
