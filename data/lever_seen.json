@@ -19364,5 +19364,83 @@
     "company": "Wing Assistant",
     "title": "Strategy & Operations Manager — Client Onboarding, Activation & Retention",
     "baseline": false
+  },
+  "saviynt:d50560da-234b-4334-83f4-2e4edb19e6ab": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Saviynt",
+    "title": "Sales Development Representative - Southern",
+    "baseline": false
+  },
+  "zimperium:864b1992-bc3c-472a-b11e-b84418d5c49f": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Zimperium",
+    "title": "Technical Product Support Engineer - Mobile Apps & Cybersecurity (India)",
+    "baseline": false
+  },
+  "veeva:1911b6d8-0720-428c-aa15-e548d22c4925": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva Training",
+    "baseline": false
+  },
+  "veeva:2bcc2068-04ff-40c7-b114-7b96dd07573c": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva Training",
+    "baseline": false
+  },
+  "veeva:ed8bb6c1-81ab-40cb-973d-ea747abbbeff": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Manager - Veeva Training",
+    "baseline": false
+  },
+  "brillio-2:b0c344e8-3366-4935-8c69-a2c2be3884aa": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Brillio",
+    "title": "Lead Quality Engineer",
+    "baseline": false
+  },
+  "turvo:5e981703-698d-46e1-bf1a-177ba8d055ea": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Turvo",
+    "title": "Senior Software Engineer",
+    "baseline": false
+  },
+  "turvo:d0717ecd-1b7c-4233-be83-c2c700646a07": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Turvo",
+    "title": "Software Engineer",
+    "baseline": false
+  },
+  "valgenesis:59c6377c-3b7e-4739-b8fc-068389033ab9": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "ValGenesis",
+    "title": "Senior Project Lead",
+    "baseline": false
+  },
+  "bazaarvoice:ce92fd52-6e66-47a7-9908-eec61bfeecea": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Bazaarvoice",
+    "title": "Data Analyst",
+    "baseline": false
+  },
+  "weekdayworks:2de723dd-2dce-4e06-a56a-8a28802a3dca": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Weekday",
+    "title": "Associate Counsellor Industrial Ecology Systems Modelling",
+    "baseline": false
+  },
+  "weekdayworks:c59415de-a3ee-4bdc-a459-417793e5cb61": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Weekday",
+    "title": "Legal Company Secretary",
+    "baseline": false
+  },
+  "meesho:ccbd7b1c-35e5-4eee-a7cb-5704eed09897": {
+    "first_seen": "2026-11-13T11:18:25.266713+00:00",
+    "company": "Meesho",
+    "title": "Cluster Head - Security & Investigation",
+    "baseline": false
   }
 }
