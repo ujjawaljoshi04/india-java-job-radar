@@ -19442,5 +19442,107 @@
     "company": "Meesho",
     "title": "Cluster Head - Security & Investigation",
     "baseline": false
+  },
+  "lingarogroup:7fe9dcca-bd03-4e38-ae9b-4902557a5e9c": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Lingaro",
+    "title": "Fullstack Python Developer",
+    "baseline": false
+  },
+  "zimperium:90d98954-0e42-4be1-a201-9f9edb7d3783": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Zimperium",
+    "title": "Enterprise Account Executive - New York",
+    "baseline": false
+  },
+  "veeva:e04083db-8370-46f8-94c6-683cb2cd8795": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Veeva Systems",
+    "title": "Master Class - Business Consultant - Life Sciences Consulting",
+    "baseline": false
+  },
+  "brillio-2:8cacc582-0102-4d26-8ee3-6d35e79c1f98": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Brillio",
+    "title": "Data Science Lead - R01573598",
+    "baseline": false
+  },
+  "brillio-2:573f3603-f76f-45fb-bf99-8f3947099e64": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Brillio",
+    "title": "Lead Quality Engineer - R01573517",
+    "baseline": false
+  },
+  "brillio-2:d36f119a-9835-4e84-bb76-11caed33f4c3": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Brillio",
+    "title": "Senior Data Scientist - R01573750",
+    "baseline": false
+  },
+  "brillio-2:69ac7e42-00cd-4f5b-9e4a-865aba71c4ac": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead AI/ML Engineer - R01573661",
+    "baseline": false
+  },
+  "brillio-2:f73dd26c-a7d3-45cb-aa0f-1191d9c90adc": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead AI/ML Engineer - R01573662",
+    "baseline": false
+  },
+  "brillio-2:2fb0b0bc-1e48-4a94-80c4-2c6ad54ce51f": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Brillio",
+    "title": "Senior Lead Data Engineer - R01573561",
+    "baseline": false
+  },
+  "everbridge:68e7ef8b-ad1a-4d72-837a-3a9bcd297bdf": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Everbridge",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "weekdayworks:37b4edf4-0839-425c-b72c-b13903c83610": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Weekday",
+    "title": "Lead Data Architect - Microsoft Fabric",
+    "baseline": false
+  },
+  "weekdayworks:ff92d7e7-8bac-4a6f-95cb-2c95dbb4ab28": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Weekday",
+    "title": "Lead Data Architect (Fabric)",
+    "baseline": false
+  },
+  "weekdayworks:0d83ff67-5ff2-4fc6-972d-4ae9daaa0ad4": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Weekday",
+    "title": "Program Officer Dairy Value Chain",
+    "baseline": false
+  },
+  "weekdayworks:940bef3c-3161-48cf-ba6d-c06899da6cb9": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Weekday",
+    "title": "Program Officer Livestock Animal Health",
+    "baseline": false
+  },
+  "meesho:6175b1de-5749-4a29-9016-5c387aee5e32": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Meesho",
+    "title": "Graphic Designer",
+    "baseline": false
+  },
+  "wmg:b0dec5db-563e-45ad-918b-0d2f616934b5": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Product Manager, Rights & Royalties Modernization",
+    "baseline": false
+  },
+  "getwingapp:a8979998-6f0a-4085-b91b-4867c14bf6ef": {
+    "first_seen": "2026-11-14T10:43:16.619930+00:00",
+    "company": "Wing Assistant",
+    "title": "Enterprise Business Development Representative Full-time | 20833",
+    "baseline": false
   }
 }
