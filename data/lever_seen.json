@@ -19544,5 +19544,65 @@
     "company": "Wing Assistant",
     "title": "Enterprise Business Development Representative Full-time | 20833",
     "baseline": false
+  },
+  "lingarogroup:0e96ae73-e8ad-4866-a53d-0011bdfae680": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Lingaro",
+    "title": "Power Platform Developer - Lead",
+    "baseline": false
+  },
+  "acceldata:e1d55b53-c011-4992-8ad3-1c221a70420f": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Acceldata",
+    "title": "Senior AI Engineer – Backend Engineering (Agentic AI)",
+    "baseline": false
+  },
+  "everbridge:c872ea52-0e9e-4feb-be8b-f40b08a21308": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Everbridge",
+    "title": "Senior Account Manager",
+    "baseline": false
+  },
+  "bazaarvoice:7921b012-cf37-44a8-a37d-7bccecaeb7a9": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Product Manager",
+    "baseline": false
+  },
+  "weekdayworks:56ad5f30-438a-4a67-9af7-4fe7041e471b": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Weekday",
+    "title": "Equity Dealer",
+    "baseline": false
+  },
+  "weekdayworks:9b611eef-4a2c-45a1-8973-f25c99910a7e": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Weekday",
+    "title": "GCP(Big query + SQL) Data Engineer",
+    "baseline": false
+  },
+  "weekdayworks:3771a186-7460-43a9-9dd4-962bf5a04a0e": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Weekday",
+    "title": "Manager Finance",
+    "baseline": false
+  },
+  "weekdayworks:6ce24aaf-fb8a-4256-81e4-b022730c8015": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Weekday",
+    "title": "Project Head Commercial",
+    "baseline": false
+  },
+  "weekdayworks:ec3c0165-eeb5-4ada-8d8f-572c94e23e92": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Weekday",
+    "title": "Release Manager",
+    "baseline": false
+  },
+  "weekdayworks:6016160f-ff65-4b35-ac37-7068ebdd554e": {
+    "first_seen": "2026-11-16T11:49:50.172564+00:00",
+    "company": "Weekday",
+    "title": "TL Sourcing AGM Channel Sales Commercial Real Estate",
+    "baseline": false
   }
 }
