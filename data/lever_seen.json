@@ -19604,5 +19604,143 @@
     "company": "Weekday",
     "title": "TL Sourcing AGM Channel Sales Commercial Real Estate",
     "baseline": false
+  },
+  "hevodata:3f239b8e-6773-456a-8da2-d992b927c65c": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Hevo Data",
+    "title": "Technical Writer",
+    "baseline": false
+  },
+  "veeva:76c2204a-f1f6-4ce1-96ca-6467f038151f": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Expert - Vault Safety",
+    "baseline": false
+  },
+  "veeva:94050c2a-595d-4860-b96b-e41ec4beacc3": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Expert - Vault Safety",
+    "baseline": false
+  },
+  "veeva:bdebe555-8648-4a31-8700-2416af81a9f0": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Expert - Vault Safety",
+    "baseline": false
+  },
+  "veeva:79806f94-1739-4179-bc0d-0e6c34e82b9f": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant",
+    "baseline": false
+  },
+  "brillio-2:2d15c5dc-5393-4cd2-81e7-a5d3b68bf5f5": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "AWS Data Architect - R01573922",
+    "baseline": false
+  },
+  "brillio-2:d0062651-a866-4343-8a27-9b3904aa5ec0": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "Data Architect - R01573701",
+    "baseline": false
+  },
+  "brillio-2:fc539ea5-f59e-439c-a551-49b9931d4dff": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "GCP Data Specialist - R01572732",
+    "baseline": false
+  },
+  "brillio-2:3494d248-6c95-469f-a608-ecfb64c0a67b": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "Senior Business Analyst, Consulting - R01573454",
+    "baseline": false
+  },
+  "brillio-2:ac1e0159-67c3-46fc-b779-1a3f4e60642e": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "Senior Fabric Lead Data Engineer - R01572945",
+    "baseline": false
+  },
+  "brillio-2:5da50ae5-c9b2-4d0f-8e66-2ddc598c9405": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "Snowflake Data Architect - R01573923",
+    "baseline": false
+  },
+  "brillio-2:70dff595-2b21-4d98-bd9d-be7988bdf332": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Brillio",
+    "title": "Software Development Lead - R01573881",
+    "baseline": false
+  },
+  "rapidai:e3b1bc04-e135-4cce-a47f-031a78b47dbb": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "RapidAI",
+    "title": "Lead Software Engineer Golang",
+    "baseline": false
+  },
+  "acceldata:c0498570-71dc-419a-a35d-9cd3f6eaf2ec": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Acceldata",
+    "title": "Senior DevOps Engineer",
+    "baseline": false
+  },
+  "everbridge:4898f5a4-1a87-4ad2-9671-ad5faf03fdda": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Everbridge",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "everbridge:ac100f1a-082d-4ae7-965b-7e866ae27202": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Everbridge",
+    "title": "Senior Product Manager",
+    "baseline": false
+  },
+  "weekdayworks:08802f6c-c0bd-4feb-bdad-dc1fe3375fe4": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Weekday",
+    "title": "Associate Counsellor Technical Marketing",
+    "baseline": false
+  },
+  "weekdayworks:ed366116-2c23-48a9-9c8f-a6d46686ee67": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Weekday",
+    "title": "SDR Intern",
+    "baseline": false
+  },
+  "weekdayworks:1ba2607a-0aa7-41cc-9042-70ba96a0369e": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Weekday",
+    "title": "Senior Project Lead Technical",
+    "baseline": false
+  },
+  "meesho:1c0052a9-6664-4602-9aad-0e250d9c0980": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Meesho",
+    "title": "Product Manager I",
+    "baseline": false
+  },
+  "meesho:19954b1f-3bbc-44b6-b836-65c0f854953b": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Meesho",
+    "title": "Senior Product Manager",
+    "baseline": false
+  },
+  "wmg:a15e6825-e3fa-456a-a56b-30edb2bda144": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Warner Music Group",
+    "title": "Operations Associate",
+    "baseline": false
+  },
+  "getwingapp:cc63590f-c171-4692-9275-90838b3ceb5d": {
+    "first_seen": "2026-11-17T12:10:07.582287+00:00",
+    "company": "Wing Assistant",
+    "title": "Social Media Specialist Full-time | 21216",
+    "baseline": false
   }
 }
