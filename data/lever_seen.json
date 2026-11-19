@@ -19886,5 +19886,125 @@
     "company": "Wing Assistant",
     "title": "Learning & Development Trainer",
     "baseline": false
+  },
+  "lingarogroup:bda908ce-772d-40dd-97ed-61233e5d54e0": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Lingaro",
+    "title": "Backend Developer (Lead/Senior) - Fullstack",
+    "baseline": false
+  },
+  "lingarogroup:3608d657-121d-45ec-9efb-bbe6eae6f64e": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Lingaro",
+    "title": "Data Engineering Architect",
+    "baseline": false
+  },
+  "lingarogroup:d4c9c746-0614-4138-9c2e-3c1736b7f226": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Lingaro",
+    "title": "Industrial Integration Senior Consultant (OT/IT / IIoT)",
+    "baseline": false
+  },
+  "lingarogroup:24deb319-450c-4fd4-94d1-1969616e5398": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Lingaro",
+    "title": "Senior Business Analysis",
+    "baseline": false
+  },
+  "saviynt:9092af3c-a41f-499d-abc4-fc752709cec2": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Saviynt",
+    "title": "SOC Analyst II",
+    "baseline": false
+  },
+  "zimperium:0be503b0-618a-49cb-b0e8-f32402e852dc": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Zimperium",
+    "title": "Regional Account Manager - Canada (Technical/Cybersecurity)",
+    "baseline": false
+  },
+  "veeva:a1b1cf00-5914-4a35-9cb6-5217e07a1ee5": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant",
+    "baseline": false
+  },
+  "veeva:4b86bb54-0b55-4e1c-b4fa-ee90ed51261f": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - RIM Implementation",
+    "baseline": false
+  },
+  "veeva:61f4e3a8-610a-49e2-8005-db31bd1f8f6a": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Veeva Systems",
+    "title": "Manager - Digital Consulting (Life Sciences)",
+    "baseline": false
+  },
+  "veeva:d18f2760-af3b-4494-8bcf-1ff6e46c870f": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Veeva Systems",
+    "title": "Manager - Digital Consulting (Life Sciences)",
+    "baseline": false
+  },
+  "veeva:ff7c67e4-2f85-4cbe-a53a-6fddcd7dbe04": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Veeva Systems",
+    "title": "Manager - Digital Consulting (Life Sciences)",
+    "baseline": false
+  },
+  "brillio-2:a13a6d7b-1dc0-4b43-9f00-d7036e65445f": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Brillio",
+    "title": "Project Manager - R01573838",
+    "baseline": false
+  },
+  "everbridge:bbcbc03e-eb4d-43e0-9a01-5e07bc814353": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Everbridge",
+    "title": "Implementation Specialist",
+    "baseline": false
+  },
+  "everbridge:7ad6cb34-3204-4c14-baf2-c9cd32735b2d": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Everbridge",
+    "title": "Solutions Consultant",
+    "baseline": false
+  },
+  "everbridge:fa2e2e32-d2bd-4a22-b8e1-448e25958deb": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Everbridge",
+    "title": "Technical Customer Success Manager - xMatters",
+    "baseline": false
+  },
+  "weekdayworks:6b60bcf1-2f6a-4c2b-9dfa-6f997957bd69": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Weekday",
+    "title": "Accounts Receivable & payable Specialist",
+    "baseline": false
+  },
+  "weekdayworks:5825a828-95bb-454b-bbf2-33c47a00e689": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Weekday",
+    "title": "State Numeracy Specialist",
+    "baseline": false
+  },
+  "meesho:ee1aa9f3-e5a1-4488-93fb-963127eebe0c": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Meesho",
+    "title": "Product Manager II - DAU Labs",
+    "baseline": false
+  },
+  "wmg:9ddb5708-7ae8-4fbe-9179-331b1998a30e": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Warner Music Group",
+    "title": "Software Engineer  - .NET Core Backend",
+    "baseline": false
+  },
+  "getwingapp:83548a84-caa4-4387-ad85-bcc8d5bbb659": {
+    "first_seen": "2026-11-19T11:56:13.539337+00:00",
+    "company": "Wing Assistant",
+    "title": "French Bilingual Sales Development Representative (SDR) / Appointment Setter | 21134",
+    "baseline": false
   }
 }
