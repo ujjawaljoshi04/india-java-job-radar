@@ -20006,5 +20006,125 @@
     "company": "Wing Assistant",
     "title": "French Bilingual Sales Development Representative (SDR) / Appointment Setter | 21134",
     "baseline": false
+  },
+  "lingarogroup:8ee3805c-c104-40a1-b4d9-0f1d4bdb7fea": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Lingaro",
+    "title": "Project Manager Mexico",
+    "baseline": false
+  },
+  "saviynt:0328135f-1123-4145-aba8-c44a9bc23207": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Saviynt",
+    "title": "Principal / Associate Principal SDET",
+    "baseline": false
+  },
+  "veeva:65b6cfe4-9abf-4754-a6df-7374ebde1fc9": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Veeva Systems",
+    "title": "RTSM Manager - Project Management",
+    "baseline": false
+  },
+  "veeva:37cdfe34-b380-4f3e-9ac4-ea5778f16167": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Veeva Systems",
+    "title": "RTSM Manager - Technical Design",
+    "baseline": false
+  },
+  "veeva:03af43da-0305-4e5e-ac8c-b512b860e0c0": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Veeva QualityOne",
+    "baseline": false
+  },
+  "veeva:cf8b5b66-0888-4274-a25a-b0cc43b10224": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Veeva Systems",
+    "title": "Senior Consultant - Veeva QualityOne",
+    "baseline": false
+  },
+  "brillio-2:11f7fef8-e73c-467e-b652-18665a4f01ca": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Brillio",
+    "title": "Data Architect - R01573991",
+    "baseline": false
+  },
+  "brillio-2:614bdc93-e97a-403e-9ca0-24403d71e58a": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Brillio",
+    "title": "Data Specialist - R01573995",
+    "baseline": false
+  },
+  "brillio-2:642b78bd-5b84-4e50-88b4-8b2c786608b0": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Brillio",
+    "title": "Databricks Architect - R01573990",
+    "baseline": false
+  },
+  "brillio-2:ed684109-5c24-4922-b64e-46aa3e55e4b3": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Brillio",
+    "title": "Project Manager - R01573664",
+    "baseline": false
+  },
+  "sonatype:7d3d2cf3-edaf-4715-a38c-c066f598ffe5": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Sonatype",
+    "title": "Enterprise  Account Executive - (Mid-Atlantic)",
+    "baseline": false
+  },
+  "everbridge:ebc28380-20fe-41b4-b613-bc90fea32602": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Everbridge",
+    "title": "Account Executive",
+    "baseline": false
+  },
+  "everbridge:0a1e16f6-8787-4905-afed-90a68f60a900": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Everbridge",
+    "title": "Account Manager",
+    "baseline": false
+  },
+  "everbridge:ccbdd282-ddfa-4fe6-95f2-671791d92bf8": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Everbridge",
+    "title": "Senior Account Executive - Southeast",
+    "baseline": false
+  },
+  "bazaarvoice:fe87e424-626b-47f1-a64e-8ca42456e5dc": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Bazaarvoice",
+    "title": "Sales Development Representative (Dutch Speaking)",
+    "baseline": false
+  },
+  "weekdayworks:c5830429-a246-4ae0-a262-783442b23075": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Weekday",
+    "title": "Application Support Engineer",
+    "baseline": false
+  },
+  "weekdayworks:2a6cdfcd-702d-4cc4-a28d-c6d0dd0faeaa": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Weekday",
+    "title": "Commodity Advisor",
+    "baseline": false
+  },
+  "weekdayworks:251838bb-3891-4dfa-8e0b-3f2233a168e6": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Weekday",
+    "title": "Principal DevOps Engineer",
+    "baseline": false
+  },
+  "weekdayworks:d47ae356-29c3-4b8a-9a68-d7010cd86366": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Weekday",
+    "title": "VP Design & Brand",
+    "baseline": false
+  },
+  "getwingapp:53efdebe-8522-4671-b2b3-449b7a0601f4": {
+    "first_seen": "2026-11-20T11:57:26.388150+00:00",
+    "company": "Wing Assistant",
+    "title": "B2B Sales Representative (Legal Industry) Part-time | 21428",
+    "baseline": false
   }
 }
