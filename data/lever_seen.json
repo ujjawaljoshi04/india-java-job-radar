@@ -20126,5 +20126,83 @@
     "company": "Wing Assistant",
     "title": "B2B Sales Representative (Legal Industry) Part-time | 21428",
     "baseline": false
+  },
+  "zimperium:45e09048-ca09-4d15-ba2e-cddb451e7e41": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Zimperium",
+    "title": "QA Automation Engineer (SDET) - Dallas, TX Only (Hybrid)",
+    "baseline": false
+  },
+  "veeva:6b656fac-75cf-4768-ad43-9422124892d6": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Veeva Systems",
+    "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+    "baseline": false
+  },
+  "veeva:873c7161-8ff9-413d-abb4-25a79cb1fa9f": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Veeva Systems",
+    "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+    "baseline": false
+  },
+  "brillio-2:9626169a-09a2-4531-93b0-994737ad16ce": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Brillio",
+    "title": "Lead AI Engineer I - R01573927",
+    "baseline": false
+  },
+  "brillio-2:4813a0ce-f5a8-4382-a3c7-1ae9e58a8530": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01574073",
+    "baseline": false
+  },
+  "brillio-2:181e4a24-ebd7-4a8a-b94b-3ab2d443d17c": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Brillio",
+    "title": "Lead Engineer - R01574074",
+    "baseline": false
+  },
+  "brillio-2:71c91631-2d49-4c6d-ac88-748a3499bd3c": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Brillio",
+    "title": "Scrum Master - R01574069",
+    "baseline": false
+  },
+  "brillio-2:88b35de9-6bde-4865-91e8-f49684a3fc1a": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Brillio",
+    "title": "Scrum Master - R01574070",
+    "baseline": false
+  },
+  "sonatype:02e23bf6-8012-4784-aee8-c444ec8ad315": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Sonatype",
+    "title": "Enterprise  Account Executive - (Great Lakes)",
+    "baseline": false
+  },
+  "weekdayworks:b5f31f22-a8c2-46be-9241-ef70622a4db5": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Weekday",
+    "title": "Club Ambassador Executive",
+    "baseline": false
+  },
+  "weekdayworks:9463e582-70f2-4621-bd90-d7e14d632a23": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Weekday",
+    "title": "Lead Data Architect",
+    "baseline": false
+  },
+  "weekdayworks:7a164c77-ae64-4daf-917a-bf42763e5a9a": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Weekday",
+    "title": "Senior Relationship Manager (SRM) – Equity Broking & Capital Markets",
+    "baseline": false
+  },
+  "weekdayworks:5f653729-d4b5-46f0-aaf1-109f9c3c51fa": {
+    "first_seen": "2026-11-21T11:29:35.212238+00:00",
+    "company": "Weekday",
+    "title": "SRM/Multiple Senior Roles",
+    "baseline": false
   }
 }
