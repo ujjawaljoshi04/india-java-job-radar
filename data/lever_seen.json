@@ -20204,5 +20204,35 @@
     "company": "Weekday",
     "title": "SRM/Multiple Senior Roles",
     "baseline": false
+  },
+  "lingarogroup:dab60747-f126-49b0-9035-e7f5abcd5cff": {
+    "first_seen": "2026-11-23T13:20:50.600076+00:00",
+    "company": "Lingaro",
+    "title": "Palantir Foundry Expert / Technical Lead",
+    "baseline": false
+  },
+  "lingarogroup:b01d8c4f-62cc-41fc-a0be-84d509d0a8d9": {
+    "first_seen": "2026-11-23T13:20:50.600076+00:00",
+    "company": "Lingaro",
+    "title": "Scrum Master",
+    "baseline": false
+  },
+  "brillio-2:aa294b22-8aa6-4cb4-b547-0878501a6558": {
+    "first_seen": "2026-11-23T13:20:50.600076+00:00",
+    "company": "Brillio",
+    "title": "Senior Data Scientist - R01573169",
+    "baseline": false
+  },
+  "meesho:bae9f9ed-0f2f-4f7d-87d6-2d4e63092a6e": {
+    "first_seen": "2026-11-23T13:20:50.600076+00:00",
+    "company": "Meesho",
+    "title": "Senior Manager HR - COE",
+    "baseline": false
+  },
+  "meesho:b5ae6036-5129-439e-b133-9aefa609eedd": {
+    "first_seen": "2026-11-23T13:20:50.600076+00:00",
+    "company": "Meesho",
+    "title": "Software Development Engineer II",
+    "baseline": false
   }
 }
