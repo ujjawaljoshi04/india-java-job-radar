@@ -20234,5 +20234,215 @@
     "company": "Meesho",
     "title": "Software Development Engineer II",
     "baseline": false
+  },
+  "lingarogroup:2c41325d-4641-49a0-9f7c-33662d7bb24f": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Architect",
+    "baseline": false
+  },
+  "lingarogroup:d717a0cd-ca9a-494c-8413-74027d3208e0": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Engineering Tech Lead",
+    "baseline": false
+  },
+  "lingarogroup:cf11c55e-1da8-4c8a-8918-e9e1a49f5042": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Lingaro",
+    "title": "BI Full Stack Developer",
+    "baseline": false
+  },
+  "saviynt:cce2cead-8c12-48c2-bc73-9b97ba89502a": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Saviynt",
+    "title": "Account Executive - Chicago",
+    "baseline": false
+  },
+  "saviynt:d3990e71-c746-4cbb-97ef-e20c3e54af69": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Saviynt",
+    "title": "Regional Vice President, Field Sales",
+    "baseline": false
+  },
+  "saviynt:5abc6584-5279-43f7-a82e-546037e0068c": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Saviynt",
+    "title": "Senior Director, Education and Training",
+    "baseline": false
+  },
+  "saviynt:74d9dce8-21ad-46ef-8554-60b5c1096bf2": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - NYC",
+    "baseline": false
+  },
+  "saviynt:6996c3b1-01ca-406d-b869-61fd5e9cda89": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Saviynt",
+    "title": "Strategic Account Executive - TOLA North Central",
+    "baseline": false
+  },
+  "veeva:4d708ace-365e-4125-9958-894bce6a29dc": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Veeva Systems",
+    "title": "QA Engineer for Mobile (Remote)",
+    "baseline": false
+  },
+  "veeva:92af85df-81d8-4b9c-b3a1-f34a782bb759": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Veeva Systems",
+    "title": "QA Engineer for Mobile (Remote)",
+    "baseline": false
+  },
+  "veeva:bf971e5d-6cb9-456e-911b-8010c7f7673c": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Veeva Systems",
+    "title": "QA Engineer for Mobile (Remote)",
+    "baseline": false
+  },
+  "veeva:3bb312b3-4c8a-4afe-b656-e15d53b0e6ed": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - Site Solutions",
+    "baseline": false
+  },
+  "veeva:4522e418-f637-4464-ba93-474b4066046c": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - Site Solutions",
+    "baseline": false
+  },
+  "veeva:754826f8-84a6-49cb-92e0-8edf7de1726a": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Veeva Systems",
+    "title": "Solution Consultant - Site Solutions",
+    "baseline": false
+  },
+  "brillio-2:58ab7ab8-4fbb-42ad-bab2-3153cbc3ad69": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Analyst - R01574350",
+    "baseline": false
+  },
+  "brillio-2:b3674b2c-899e-472b-a5db-80d23cc385b6": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Business Analyst - R01574284",
+    "baseline": false
+  },
+  "brillio-2:e168008b-a47e-410a-9dad-a11a3d0170ee": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Data Scientist - R01574060",
+    "baseline": false
+  },
+  "brillio-2:ecc8b367-8fd6-4a4a-82a0-123b6fcdf13e": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Designer - R01574109",
+    "baseline": false
+  },
+  "brillio-2:51687499-7bb0-4bdd-b4fc-867e7fae6557": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Engineer, Cloud Engineering - R01574115",
+    "baseline": false
+  },
+  "brillio-2:d9912bf2-59f5-4d15-84e5-ff6ad4ff6773": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Product Manager - R01574334",
+    "baseline": false
+  },
+  "brillio-2:c8e4bbbf-701a-495a-87a0-4a1f836be771": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Product Owner - R01574146",
+    "baseline": false
+  },
+  "brillio-2:ce25dee6-96e9-4265-88c5-c69ad2ed48db": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Product Owner - R01574147",
+    "baseline": false
+  },
+  "brillio-2:c961e873-d567-4bec-8ff5-25addc2a86a5": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Brillio",
+    "title": "Senior AI Engineer - R01573854",
+    "baseline": false
+  },
+  "bazaarvoice:05cbe5a0-cdc6-4bb0-b853-27d67a640c2c": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Bazaarvoice",
+    "title": "Senior Staff - Security Engineer",
+    "baseline": false
+  },
+  "weekdayworks:85e70613-e711-4b1d-862a-12679b41d1c9": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Business Development Manager",
+    "baseline": false
+  },
+  "weekdayworks:9656d561-0a44-435a-977e-766ef821e818": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Community Mental Health Programme Lead",
+    "baseline": false
+  },
+  "weekdayworks:f1ce1487-9627-453e-8cee-dbebe1a06810": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Planning Engineer for Interiors Designer",
+    "baseline": false
+  },
+  "weekdayworks:dc22bc7b-5256-403b-9541-090ce1b194cf": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Relationship Manager",
+    "baseline": false
+  },
+  "weekdayworks:dcce27b8-b7eb-4f29-8173-4a75ec47480c": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Sales Manager",
+    "baseline": false
+  },
+  "weekdayworks:704f9525-2bbb-4e1e-9d8b-fc4d1b2d1d6d": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Senior Program Manager",
+    "baseline": false
+  },
+  "weekdayworks:ef4ebc26-b881-4289-8801-11a917f7da38": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Weekday",
+    "title": "Senior Relationship Manager",
+    "baseline": false
+  },
+  "meesho:93e6d880-d65e-4764-b280-8ea2eb85b7c7": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Meesho",
+    "title": "Executive Assistant",
+    "baseline": false
+  },
+  "wmg:08cef71b-98d0-4d08-a035-bbc15c6d0be1": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Warner Music Group",
+    "title": "Director of Software Engineering",
+    "baseline": false
+  },
+  "getwingapp:946bb848-0a1d-4337-85b4-9151f5b3d659": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Wing Assistant",
+    "title": "Full-time Construction Project Coordinator with Specialization on Inspection / Photo Review & Field Coordination | 21445",
+    "baseline": false
+  },
+  "getwingapp:6c45cf1d-0cc4-44e7-801a-dd3e24b88543": {
+    "first_seen": "2026-11-24T14:01:37.498980+00:00",
+    "company": "Wing Assistant",
+    "title": "Real Estate Executive Assistant Full-time | 21370",
+    "baseline": false
   }
 }
