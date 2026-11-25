@@ -20444,5 +20444,137 @@
     "company": "Wing Assistant",
     "title": "Real Estate Executive Assistant Full-time | 21370",
     "baseline": false
+  },
+  "lingarogroup:0cb69c88-5ce3-4aba-ab5b-f87373b11348": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Lingaro",
+    "title": "Azure Data Engineer with Databricks",
+    "baseline": false
+  },
+  "lingarogroup:dea538cc-f240-4c81-ad49-2cc0004620df": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Lingaro",
+    "title": "Scrum Master - Careernet",
+    "baseline": false
+  },
+  "saviynt:173e2687-88d0-43f7-b51c-251fd5f16848": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Saviynt",
+    "title": "Contracts Manager",
+    "baseline": false
+  },
+  "saviynt:6f25e68a-2040-42dc-b6e2-fe10c3fb9dc3": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Saviynt",
+    "title": "Senior Sales Engineer - Atlanta",
+    "baseline": false
+  },
+  "saviynt:72c1189f-51ef-4383-b108-5d8f0d4034e7": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Saviynt",
+    "title": "Senior Sales Engineer - Chicago",
+    "baseline": false
+  },
+  "saviynt:ca1c552d-692f-4c71-8bca-be4e0ae312a5": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Saviynt",
+    "title": "Technical Support Engineer -",
+    "baseline": false
+  },
+  "hevodata:21fbe701-e71b-4f45-b865-a497a62a6482": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Hevo Data",
+    "title": "Associate SDE- Pune",
+    "baseline": false
+  },
+  "veeva:73ac7691-3e76-497a-9373-83ccb5630de2": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
+    "baseline": false
+  },
+  "veeva:7272b636-1a5e-4e4b-a0af-763d2951429f": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Software Engineer - 2027 Start Dates",
+    "baseline": false
+  },
+  "veeva:0d0f417b-e8a9-4fec-86d9-d8a160c83be5": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Demand Generation & Field Marketing Manager - Ostro",
+    "baseline": false
+  },
+  "veeva:36f8e599-4fb1-460e-a208-f0bbd3cb1992": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Demand Generation & Field Marketing Manager - Ostro",
+    "baseline": false
+  },
+  "veeva:915769c9-4e8a-4a6f-92d9-cfabb2b2cf53": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Demand Generation & Field Marketing Manager - Ostro",
+    "baseline": false
+  },
+  "veeva:001617c4-fe76-496e-8cd0-ccfba2e4de54": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Director - Study Training Strategy",
+    "baseline": false
+  },
+  "veeva:9ba45ee3-a308-466a-8eda-8fa60a122489": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Marketing Manager - Ostro",
+    "baseline": false
+  },
+  "veeva:b256ac53-4715-458d-9e73-d3a7724530c0": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Marketing Manager - Ostro",
+    "baseline": false
+  },
+  "veeva:e49ec884-422c-43f0-8801-8d884e6848af": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Veeva Systems",
+    "title": "Product Marketing Manager - Ostro",
+    "baseline": false
+  },
+  "brillio-2:34057f26-de55-46df-8ff1-1f827c49a9f9": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Brillio",
+    "title": "Contact Center Platform Engineer",
+    "baseline": false
+  },
+  "brillio-2:1157e541-95fe-4503-829c-495597595c4e": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Brillio",
+    "title": "Lead Data Management Analyst - R01571480",
+    "baseline": false
+  },
+  "brillio-2:436762e1-f191-4f5f-b3b8-5b415cbce7e1": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Brillio",
+    "title": "Senior Director, Data Science & AI - R01574031",
+    "baseline": false
+  },
+  "sonatype:d5230a95-0c89-4cdd-bc7e-020b9f61be95": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Sonatype",
+    "title": "Associate Sales Engineer",
+    "baseline": false
+  },
+  "weekdayworks:d19d74fa-dcf0-4f51-9909-847e7ba9d5df": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Weekday",
+    "title": "Junior Mechanical Design Engineer",
+    "baseline": false
+  },
+  "weekdayworks:666b339f-9528-48c2-84e6-d6021d096b3f": {
+    "first_seen": "2026-11-25T13:15:56.705175+00:00",
+    "company": "Weekday",
+    "title": "Senior Relationship Manager",
+    "baseline": false
   }
 }
