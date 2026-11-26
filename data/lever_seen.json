@@ -20576,5 +20576,89 @@
     "company": "Weekday",
     "title": "Senior Relationship Manager",
     "baseline": false
+  },
+  "saviynt:472160f0-1c08-43fe-adb7-04e0b473b60c": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Saviynt",
+    "title": "Regional Vice President, Field Sales",
+    "baseline": false
+  },
+  "saviynt:b2d89142-dbe6-47e7-9f9c-39fc2b8c4c0d": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Saviynt",
+    "title": "Support Account Management Director",
+    "baseline": false
+  },
+  "hevodata:ac91f4b5-76a8-45a3-bed2-41859dc64d17": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Hevo Data",
+    "title": "Customer Data engineer",
+    "baseline": false
+  },
+  "veeva:c652b33b-122b-4b30-906d-da62c841a8bf": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Veeva Systems",
+    "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
+    "baseline": false
+  },
+  "veeva:3a7404b8-9b43-41d1-af87-3ac1176f84d7": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - People Science",
+    "baseline": false
+  },
+  "veeva:637e147a-a9e1-47c7-841c-5a983d0456bb": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - People Science",
+    "baseline": false
+  },
+  "veeva:ebb12716-16c6-486a-9e79-5c152c6725b3": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Veeva Systems",
+    "title": "Consultant - People Science",
+    "baseline": false
+  },
+  "veeva:4738ae75-9f7b-4082-b129-69fb82f6d7b2": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Veeva Systems",
+    "title": "Intern Software Engineer (Summer 2027)",
+    "baseline": false
+  },
+  "veeva:f277bc52-1dd6-4447-ac3b-a6127e625ec7": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Veeva Systems",
+    "title": "Intern Software Engineer (Summer 2027)",
+    "baseline": false
+  },
+  "bazaarvoice:c64f0951-ca4a-4cb9-b42f-744fb7a8af7e": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Bazaarvoice",
+    "title": "Buyer / Analyst - Indirect Procurement",
+    "baseline": false
+  },
+  "weekdayworks:853ebe0a-a907-472e-b5b9-75f11b4f9a68": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Weekday",
+    "title": "Analog Layout Engineer",
+    "baseline": false
+  },
+  "weekdayworks:9fdd4c5e-83a1-4143-a022-83da44fe8291": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Weekday",
+    "title": "Credit Controller - UK Clients",
+    "baseline": false
+  },
+  "weekdayworks:e31427ff-d24b-4582-8b5c-ee46834c57dd": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Weekday",
+    "title": "Events & Exhibitions Vertical Lead",
+    "baseline": false
+  },
+  "wmg:a54bf05f-3841-42fc-a24f-dca136a8b611": {
+    "first_seen": "2026-11-26T12:56:19.351016+00:00",
+    "company": "Warner Music Group",
+    "title": "Senior Software Engineer - Data Platform",
+    "baseline": false
   }
 }
